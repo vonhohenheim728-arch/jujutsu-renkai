@@ -1,3 +1,27 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+/* Forçar a Infobox a flutuar à direita e permitir texto ao lado */
+.callout[data-callout="infobox"] {
+    float: right !important;
+    width: 320px !important;
+    margin-left: 20px !important;
+    margin-bottom: 15px !important;
+    clear: right;
+    display: block !important;
+}
+
+/* Ajuste para que o texto não fique colado na caixa */
+.callout[data-callout="infobox"] + p {
+    display: inline; 
+}
+
+/* Responsividade: em celulares, a caixa volta a ocupar a largura toda */
+@media (max-width: 600px) {
+    .callout[data-callout="infobox"] {
+        float: none !important;
+        width: 100% !important;
+        margin-left: 0 !important;
+    }
+}
