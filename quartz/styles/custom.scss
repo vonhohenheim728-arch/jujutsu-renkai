@@ -2,49 +2,42 @@
 
 // put your custom CSS here!
 
-/* Estilo Wiki com Cores do Obsidian (Vermelho/Escuro) */
+/* Infobox Estilo Jujutsu Clean */
 .callout[data-callout="infobox"] {
     float: right !important;
     width: 320px !important;
     margin-left: 20px !important;
     margin-bottom: 15px !important;
-    background-color: #1a1a1a !important; /* Fundo escuro */
-    border: 1px solid #7d1919 !important; /* Borda vermelha */
-    border-radius: 4px !important;
+    background-color: transparent !important; /* Remove o fundo cinza */
+    border: 2px solid #7d1919 !important; /* Borda vermelha mais grossa */
+    border-radius: 2px !important;
     padding: 0 !important;
     clear: right;
 }
 
-/* Barra de Título em Vermelho */
+/* Título Principal */
 .callout[data-callout="infobox"] .callout-title {
-    background-color: #7d1919 !important; /* Vermelho do tema */
-    color: white !important;
-    padding: 10px !important;
-    font-weight: bold !important;
+    background-color: #7d1919 !important;
+    color: #ffffff !important;
+    justify-content: center !important;
     text-transform: uppercase !important;
+    letter-spacing: 1px !important;
 }
 
-/* Ajuste das tabelas dentro da Infobox */
+/* Tabelas Internas */
 .callout[data-callout="infobox"] table {
-    width: 100% !important;
-    margin: 0 !important;
-    border: none !important;
-    background: transparent !important;
+    margin-top: 10px !important;
+    border-collapse: collapse !important;
 }
 
-/* Cabeçalhos da tabela em vermelho escuro */
-.callout[data-callout="infobox"] th {
-    background-color: #4a0d0d !important; 
-    color: #ff9b9b !important;
+/* Deixar o texto da esquerda (Tipo, Grau, etc) em vermelho */
+.callout[data-callout="infobox"] td:first-child {
+    color: #ff4d4d !important;
+    font-weight: bold !important;
+    width: 40% !important;
 }
 
-/* Estilo para as linhas da tabela */
-.callout[data-callout="infobox"] td {
-    border-bottom: 1px solid #333 !important;
-    padding: 5px 10px !important;
-}
-
-/* Ajuste para o texto subir ao lado */
-.callout[data-callout="infobox"] + p {
-    display: inline;
+/* Linhas sutis entre as informações */
+.callout[data-callout="infobox"] tr {
+    border-bottom: 1px solid rgba(125, 25, 25, 0.3) !important;
 }
