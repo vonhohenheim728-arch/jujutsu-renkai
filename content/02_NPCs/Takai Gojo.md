@@ -2,11 +2,11 @@
 tipo: Personagem
 categoria: Feiticeiro
 grau: 1º Grau
-status: Morto
-grupo: Escola Tokyo
+status: Desaparecido/Morto
+grupo: Renegados
 relacoes:
-  - "[[Takai Gojo]]"
   - "[[Ikkyu Dao]]"
+  - "[[Moto Geto]]"
 publish: true
 ---
 ---
