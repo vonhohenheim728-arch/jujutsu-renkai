@@ -15,13 +15,18 @@
     clear: right;
 }
 
-/* Título Principal */
-.callout[data-callout="infobox"] .callout-title {
-    background-color: #7d1919 !important;
-    color: #ffffff !important;
-    justify-content: center !important;
-    text-transform: uppercase !important;
-    letter-spacing: 1px !important;
+/* Ajuste do Nome do Personagem no topo da Infobox */
+.callout[data-callout="infobox"] .callout-title-inner {
+    color: #ffffff !important; /* Branco puro para o nome ficar bem legível */
+    font-size: 1.4em !important; /* Um pouco maior para dar destaque */
+    font-weight: 800 !important; /* Bem negrito */
+    text-align: center !important; /* Centralizado como no seu Obsidian */
+    width: 100% !important;
+    display: block !important;
+}
+/* Remove aquele ícone de lápis/infobox que aparece ao lado do nome no site */
+.callout[data-callout="infobox"] .callout-icon {
+    display: none !important;
 }
 
 /* Tabelas Internas */
