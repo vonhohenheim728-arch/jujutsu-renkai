@@ -57,12 +57,16 @@ Finalmente, com situação relativamente estabilizada, Ikkyu tem espaço mental 
 
 As respostas ainda não vieram.
 
-<img src="app://local/C:\Users\LUCAS-PC\Desktop\Mesa sexta\jujutsu-wiki\content\04_Fotos\I694e717ba009f4c602738520.png" style="float: left; margin-right: 20px; width: 250px; border-radius: 50%;">
+![[Pasted image 20251227060429.png|left|250]]
 
 **TIPO:** Player  
 **NACIONALIDADE:** Jah Keved  
 **STATUS:** Vivo  
 
 ### RESUMO
-Aqui o seu texto vai subir e preencher todo o espaço ao lado da imagem circular. Se o texto for longo, ele vai continuar embaixo da imagem normalmente quando o espaço acabar.
+Aqui o seu texto vai subir e preencher o espaço ao lado da imagem. Como a imagem está com o comando `|left`, ela não bloqueia o texto de ficar ao lado dela. 
+<br clear="all" />
 
+---
+### CONEXÕES E SEGREDOS
+Este texto já aparecerá embaixo de tudo normalmente.
