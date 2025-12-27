@@ -1,6 +1,6 @@
 # Jujutsu Renkai
 
-**Tóquio, alguns meses após a [[O Colapso de Tókyō.]]**
+**Tóquio, alguns meses após a [[O Colapso de Tókyō]]**
 
 A cidade ainda carrega as cicatrizes. Bairros inteiros foram destruídos. Milhares morreram. E pela primeira vez na história, o mundo descobriu a verdade: maldições são reais, e feiticeiros existem.
 
