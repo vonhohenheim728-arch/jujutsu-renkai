@@ -16,7 +16,7 @@
 
 Aji cresceu na periferia de Tóquio, em distrito com alta concentração de imigrantes brasileiros. Filho de dekasegi (segunda geração), viveu entre dois mundos — nunca completamente parte do Japão, nem completamente brasileiro. Sua comunidade existia nas margens: fábricas, trabalhos precários, tensão constante com yakuza local.
 
-#### **A Gangue**
+### **A Gangue**
 
 Aji fazia parte de gangue pequena formada por jovens brasileiros — não criminosos pesados, mas grupo de proteção mútua contra yakuza, outras gangues de imigrantes, e polícia que os tratava como suspeitos automáticos.
 
@@ -24,7 +24,7 @@ Desde jovem demonstrou talento natural para cura. Quando alguém do grupo se fer
 
 Ele odiava ver amigos feridos. Odiava a violência. Mas não via saída.
 
-#### **O Despertar**
+### **O Despertar**
 
 Durante emboscada da yakuza local (retaliação por "invasão de território"), o grupo de Aji foi cercado. Massacre. Todos os amigos caíram — mortos ou agonizando.
 
@@ -39,7 +39,7 @@ Aji não entendeu o que tinha feito. Mas sobreviveu.
 Seus amigos, não.
 
 ---
-#### **O Recrutamento**
+### **O Recrutamento**
 
 Dias depois, [[Kaiba Yoshifusa]] apareceu. Veterano da escola, estava em missão no distrito (exorcismo de maldição menor) quando testemunhou o despertar de Aji de longe. Reconheceu potencial imediatamente.
 
@@ -52,7 +52,7 @@ Aji olhou ao redor. O bairro. A violência. O ciclo sem fim.
 Ele aceitou.
 
 ---
-#### **Na Escola**
+### **Na Escola**
 
 Aji chegou à [[Escola de Tókyō]] meses antes d'[[O Colapso de Tókyō|O Colapso]] (Dia 1). Ainda estava se adaptando — aprendendo técnicas, refinando habilidades, desenvolvendo cura além do instintivo.
 
