@@ -28,11 +28,6 @@
     text-transform: uppercase !important;
     margin: 0 !important;
 }
-/* Remove o ícone azul que está empurrando o nome para o lado */
-.callout[data-callout="infobox"] .callout-icon {
-    display: none !important;
-}
-
 /* Remove aquele ícone de lápis/infobox que aparece ao lado do nome no site */
 .callout[data-callout="infobox"] .callout-icon {
     display: none !important;
