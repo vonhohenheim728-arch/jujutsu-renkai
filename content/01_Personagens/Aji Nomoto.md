@@ -55,3 +55,10 @@ Ele não se encaixa perfeitamente. Fala diferente. Age diferente. Alguns feitice
 Mas [[Kaiba Yoshifusa|Kaiba]] acredita nele.
 
 E Aji não vai deixar mais ninguém morrer se puder impedir.
+
+---
+<iframe width="560" height="315"
+src="https://www.youtube.com/watch?v=1uxXYkWfIpE"
+frameborder="0"
+allowfullscreen>
+</iframe>
