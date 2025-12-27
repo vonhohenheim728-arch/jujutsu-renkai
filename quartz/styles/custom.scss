@@ -66,3 +66,26 @@
 h1, h2, h3, h4 {
     color: #ff4d4d !important;
 }
+/* Centralizar absolutamente tudo que for título dentro da Infobox */
+.callout[data-callout="infobox"] .callout-title,
+.callout[data-callout="infobox"] h1,
+.callout[data-callout="infobox"] h2,
+.callout[data-callout="infobox"] h3,
+.callout[data-callout="infobox"] h4,
+.callout[data-callout="infobox"] h5,
+.callout[data-callout="infobox"] h6 {
+    text-align: center !important;
+    justify-content: center !important;
+    display: block !important;
+    width: 100% !important;
+    color: #ffffff !important; /* Força branco para não ficar o vermelho feio */
+    margin: 10px 0 !important;
+    border: none !important;
+}
+
+/* Ajuste específico para a barra do topo (onde fica o nome) */
+.callout[data-callout="infobox"] .callout-title {
+    background-color: #7d1919 !important;
+    margin: 0 !important;
+    padding: 10px 0 !important;
+}
