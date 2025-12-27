@@ -1,12 +1,11 @@
 ---
 tipo: Personagem
 categoria: Feiticeiro
-grau: 4º Grau
-status: Vivo
+grau: 1º Grau
+status: Morto
 grupo: Escola Tokyo
 relacoes:
   - "[[Takai Gojo]]"
-  - "[[Moto Geto]]"
 publish: true
 ---
 ---
