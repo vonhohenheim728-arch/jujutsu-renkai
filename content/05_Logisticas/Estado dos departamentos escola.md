@@ -1,1 +1,0 @@
-![[Departamentos e afins.canvas]]
