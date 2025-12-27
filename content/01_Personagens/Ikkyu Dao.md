@@ -57,16 +57,22 @@ Finalmente, com situação relativamente estabilizada, Ikkyu tem espaço mental 
 
 As respostas ainda não vieram.
 
-![[Pasted image 20251227060429.png|left|250]]
 
-**TIPO:** Player  
-**NACIONALIDADE:** Jah Keved  
-**STATUS:** Vivo  
 
-### RESUMO
-Aqui o seu texto vai subir e preencher o espaço ao lado da imagem. Como a imagem está com o comando `|left`, ela não bloqueia o texto de ficar ao lado dela. 
-<br clear="all" />
 
----
-### CONEXÕES E SEGREDOS
-Este texto já aparecerá embaixo de tudo normalmente.
+
+
+
+
+
+
+> [!infobox]
+> # Umeji Shintaro
+> ![[Pasted image 20251227060429.png|cover|250]]
+> ###### Informações Biográficas
+> | Tipo | Player |
+> | --- | --- |
+> | **Categoria** | Feiticeiro |
+> | **Grau** | 4º Grau |
+> | **STATUS** | Vivo |
+> | **Grupo** | Escola de Tokyo |
