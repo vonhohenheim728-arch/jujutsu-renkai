@@ -7,18 +7,18 @@ import * as Plugin from "./quartz/plugins"
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
 const config: QuartzConfig = {
-  configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
-    enableSPA: true,
-    enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
+configuration: {
+  pageTitle: "Jujutsu Renkai",
+  pageTitleSuffix: "",
+  enableSPA: true,
+  enablePopovers: true,
+  analytics: {
+    provider: "plausible",
+  },
+  locale: "pt-BR",
+  baseUrl: "/jujutsu-renkai/",
+  ignorePatterns: ["private", "templates", ".obsidian"],
+  defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
