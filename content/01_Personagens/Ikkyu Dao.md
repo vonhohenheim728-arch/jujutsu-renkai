@@ -56,28 +56,3 @@ Finalmente, com situação relativamente estabilizada, Ikkyu tem espaço mental 
 **Ele realmente morreu?**
 
 As respostas ainda não vieram.
-
-
-
-
-
-
-
-
-> [!infobox]
-> # Umeji Shintaro
-> ![[Pasted image 20251227060429.png|cover|250]]
-> ###### Informações Biográficas
-> | Tipo | Player |
-> | --- | --- |
-> | **Categoria** | Feiticeiro |
-> | **Grau** | 4º Grau |
-> | **STATUS** | Vivo |
-> | **Grupo** | Escola de Tokyo |
-<iframe style="border-radius:12px"
-src="https://open.spotify.com/embed/track/0SqExyvgUPTawKsVM2SZoP"
-width="100%" height="152"
-frameborder="0"
-allowfullscreen=""
-allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
-</iframe>
