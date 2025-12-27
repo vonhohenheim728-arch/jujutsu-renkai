@@ -57,8 +57,10 @@ Mas [[Kaiba Yoshifusa|Kaiba]] acredita nele.
 E Aji não vai deixar mais ninguém morrer se puder impedir.
 
 ---
-<iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=1uxXYkWfIpE"
+<iframe style="border-radius:12px"
+src="https://open.spotify.com/embed/track/0SqExyvgUPTawKsVM2SZoP"
+width="100%" height="152"
 frameborder="0"
-allowfullscreen>
+allowfullscreen=""
+allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
 </iframe>
