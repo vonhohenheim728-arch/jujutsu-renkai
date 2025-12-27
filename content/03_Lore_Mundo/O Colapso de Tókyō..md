@@ -1,69 +1,35 @@
-O colapso de Tóquio começou com um confronto entre seis feiticeiros de grau especial — quatro da escola e dois externos — que resultou em destruição massiva da cidade. Apagões, caos urbano e a circulação de maldições transformaram a região em um epicentro de energia amaldiçoada.
+### Dia 1 – O Colapso
 
-## Linha do Tempo
+Há dois meses, seis feiticeiros de grau especial se enfrentaram em Tóquio. A destruição foi continental — múltiplos distritos arrasados simultaneamente, infraestrutura crítica colapsada, milhões de mortos.
 
-### Dia 1 – Evento 1: Confronto de Feiticeiros
+O combate terminou abruptamente. Todos os seis caíram. A escola declara todos como mortos ou desaparecidos, presumivelmente mortos.
 
-- Combate entre feiticeiros de grau especial.
-    
-- Destruição maciça da infraestrutura de Tóquio.
-    
-- Início da circulação de maldições.
-    
+**Ninguém sabe exatamente o que aconteceu no final daquela luta.**
 
-### Dia 2 a Dia 25 – Surto de Maldições e Caos Regional
+E então as maldições começaram.
 
-- Maldições surgem em massa por toda a região de Kanto.
-    
-- A escola mobiliza recursos para conter o caos.
-    
-- Civis tentam evacuar em massa; o governo inicia cerco parcial.
-    
-- Região se torna um epicentro de energia amaldiçoada.
-    
-- Muitos civis conseguem sair, mas sobrecarregam outras áreas.
-    
+### Semanas Seguintes – Caos
 
-### Dia 10+ – Formação de Grupos e Conquista de Tóquio
+Maldições surgiram em massa por toda Kanto. Milhares delas. A escola mobilizou tudo que tinha pra conter o surto e evacuar civis.
 
-- Sobreviventes formam grupos dentro da região para sobreviver ou fugir.
-    
-- **[[4 Reis]]** começam a dominar setores de Tóquio.
-    
-- A escola sofre grandes perdas de efetivo.
-    
+Não foi suficiente.
 
-### Dia 30 – Consolidação do Domínio
+Dezenas de milhões conseguiram sair. Milhões ficaram presos. Milhões morreram — pra maldições, no caos, de fome, de violência.
 
-- A região está completamente isolada.
-    
-- Domínio dos 4 Reis sobre Tóquio é consolidado.
-    
+A escola perdeu a maior parte do seu efetivo. Feiticeiros morreram pra maldições. Morreram pra civis armados em pânico. Morreram de exaustão.
 
-### Dia 45 – Isolamento Oficial
+### ~45 Dias Depois – Isolamento
 
-- Governo decide fechar toda a região, mantendo civis e maldições dentro.
-    
-- Controle total das fronteiras e cerco reforçado.
-    
+O governo japonês, sob pressão internacional, tomou a decisão: **fechar toda a região de Kanto.**
 
-### 2 Meses Após a Queda – Início da Campanha
+Muros. Cercas. Controle total das fronteiras.
 
-- Escola recupera algum controle sobre áreas periféricas.
-    
-- Criação de um pequeno campo de refugiados.
-    
-- [[Black Zone]] permanece ativa no coração da cidade.
-    
-- Maldições circulam livremente; zona controlada pelos 4 Reis consolidada.
-    
+**Milhões de pessoas ainda estão presas lá dentro.**
 
-## Zonas Importantes
+### Hoje – Dois Meses Depois
 
-- **[[Black Zone]]** – núcleo de maldição pura no coração de Tóquio.
-    
-- **[[4 Reis]]** – setores dominados por usuários de maldição humanos.
-    
-- Áreas periféricas – parcialmente recuperadas, sob controle limitado da escola.
-    
-- Áreas externas a Kanto – afetadas por evacuações e caos indireto.
+A escola estabilizou uma base em Saitama. É a única área verdadeiramente segura dentro da zona isolada — barreiras mágicas, feiticeiros patrulhando constantemente.
+
+Mas os recursos são limitados. O espaço é limitado. As decisões são difíceis.
+
+E lá fora, em Tóquio, outros já começaram a tomar controle.

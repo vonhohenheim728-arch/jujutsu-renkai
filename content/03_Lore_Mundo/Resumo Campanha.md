@@ -1,6 +1,3 @@
----
-publish: true
----
 # Jujutsu Renkai
 
 **Tóquio, alguns meses após a [[O Colapso de Tókyō.]]**
