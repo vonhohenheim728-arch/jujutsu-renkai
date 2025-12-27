@@ -3,6 +3,8 @@
 Bem-vindo à documentação pública do mundo de Jujutsu Renkai.
 
 ## Tópicos iniciais
-- [[Queda de Tóquio]]
+- [[Resumo Campanha]]
+- [[O Colapso de Tókyō.]]
 - [[Guerra dos Melhores]]
-- [[]]
+- [[O Vórtice]]
+- 
