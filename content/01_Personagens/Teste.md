@@ -7,8 +7,8 @@
 > | **Tipo** | Player |
 > | **Categoria** | Feiticeiro |
 > | **Grau** | 4º Grau |
-> | **STATUS** | Vivo |
-> | **Grupo** | Escola de Tókyō |
+> | **Status** | Vivo |
+> | **Grupo** | [[Escola de Tókyō]] |
 
 ### **RESUMO**
 
@@ -62,4 +62,10 @@ Mas [[Kaiba Yoshifusa|Kaiba]] acredita nele.
 
 E Aji não vai deixar mais ninguém morrer se puder impedir.
 
----
+<iframe style="border-radius:12px"
+src="https://open.spotify.com/embed/track/0SqExyvgUPTawKsVM2SZoP"
+width="100%" height="152"
+frameborder="0"
+allowfullscreen=""
+allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
+</iframe>
