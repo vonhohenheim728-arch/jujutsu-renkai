@@ -17,7 +17,6 @@
 Aji cresceu na periferia de Tóquio, em distrito com alta concentração de imigrantes brasileiros. Filho de dekasegi (segunda geração), viveu entre dois mundos — nunca completamente parte do Japão, nem completamente brasileiro. Sua comunidade existia nas margens: fábricas, trabalhos precários, tensão constante com yakuza local.
 
 ---
-
 #### **A Gangue**
 
 Aji fazia parte de gangue pequena formada por jovens brasileiros — não criminosos pesados, mas grupo de proteção mútua contra yakuza, outras gangues de imigrantes, e polícia que os tratava como suspeitos automáticos.
