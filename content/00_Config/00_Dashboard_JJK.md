@@ -1,3 +1,6 @@
+---
+publish: false
+---
 # 🧙‍♀️ Lista Mestra de Personagens (NPCs)
 
 Este painel mostra todos os personagens relevantes, ordenados por Grau de Ameaça.
