@@ -41,3 +41,14 @@
 .callout[data-callout="infobox"] tr {
     border-bottom: 1px solid rgba(125, 25, 25, 0.3) !important;
 }
+
+/* Deixar os nomes das categorias (Tipo, Grau, etc) em vermelho no site */
+.callout[data-callout="infobox"] td:first-child {
+    color: #ff4d4d !important; /* Vermelho vivo para os nomes */
+    font-weight: bold !important;
+}
+
+/* Deixar o título "RESUMO" e outros cabeçalhos em vermelho no site */
+h1, h2, h3, h4 {
+    color: #ff4d4d !important;
+}
