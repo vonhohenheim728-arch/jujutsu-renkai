@@ -15,15 +15,24 @@
     clear: right;
 }
 
-/* Ajuste do Nome do Personagem no topo da Infobox */
-.callout[data-callout="infobox"] .callout-title-inner {
-    color: #ffffff !important; /* Branco puro para o nome ficar bem legível */
-    font-size: 1.4em !important; /* Um pouco maior para dar destaque */
-    font-weight: 800 !important; /* Bem negrito */
-    text-align: center !important; /* Centralizado como no seu Obsidian */
-    width: 100% !important;
-    display: block !important;
+/* Ajuste do Nome do Personagem (Topo da Infobox) */
+.callout[data-callout="infobox"] .callout-title {
+    background-color: #7d1919 !important; /* Fundo vermelho da barra */
+    justify-content: center !important; /* Centraliza o conteúdo */
+    padding: 12px !important;
 }
+.callout[data-callout="infobox"] .callout-title-inner {
+    color: #ffffff !important; /* Força o nome a ser BRANCO */
+    font-size: 1.3em !important; 
+    font-weight: bold !important;
+    text-transform: uppercase !important;
+    margin: 0 !important;
+}
+/* Remove o ícone azul que está empurrando o nome para o lado */
+.callout[data-callout="infobox"] .callout-icon {
+    display: none !important;
+}
+
 /* Remove aquele ícone de lápis/infobox que aparece ao lado do nome no site */
 .callout[data-callout="infobox"] .callout-icon {
     display: none !important;
