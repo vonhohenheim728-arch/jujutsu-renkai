@@ -90,26 +90,33 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0 auto !important;
 }
 
-/* 8. TABELA INTERNA (AJUSTE DE LARGURA PARA NÃO QUEBRAR TEXTO) */
+/* 8. TABELA INTERNA (AJUSTE PARA NÃO QUEBRAR ESCOLA DE TÓKYŌ) */
 .callout[data-callout="infobox"] table {
     margin: 10px auto 20px auto !important;
-    width: 95% !important; /* Aumenta a largura total da tabela na caixa */
+    width: 95% !important; 
     border-collapse: collapse !important;
-    table-layout: auto !important; /* Permite que as colunas se ajustem ao conteúdo */
+    table-layout: fixed !important; /* Força a largura exata que definirmos */
 }
 
 .callout[data-callout="infobox"] td:first-child {
     color: #ff4d4d !important;
     font-weight: bold !important;
     text-align: left !important;
-    width: 30% !important; /* Diminuímos a largura da etiqueta (Tipo, Grupo) */
-    white-space: nowrap !important; /* Garante que a etiqueta não quebre */
-    padding-right: 10px !important;
+    width: 80px !important; /* Largura fixa pequena para etiquetas (Tipo, Grupo, etc) */
+    white-space: nowrap !important;
+    padding-right: 5px !important;
+    font-size: 0.85em !important;
 }
 
 .callout[data-callout="infobox"] td:last-child {
     text-align: right !important;
     color: #ffffff !important;
-    width: 70% !important; /* Damos mais espaço para o valor (Escola de Tókyō) */
-    word-break: keep-all !important; /* Evita quebra de palavras */
+    /* O navegador vai dar todo o espaço restante para esta coluna */
+    word-break: keep-all !important; 
+    overflow: visible !important;
+    font-size: 0.9em !important;
+}
+
+.callout[data-callout="infobox"] tr {
+    border-bottom: 1px solid rgba(125, 25, 25, 0.3) !important;
 }
