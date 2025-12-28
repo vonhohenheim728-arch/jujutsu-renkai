@@ -84,3 +84,28 @@ h1, h2, h3, h4 {
     margin: 0 !important;
     padding: 10px 0 !important;
 }
+/* Registrando a fonte de Jujutsu (para o nome do personagem) */
+@font-face {
+    font-family: 'Jujutsu';
+    src: url('./fonts/Jujutsu Kaisen.ttf'); /* Verifique se o caminho está certo */
+}
+
+/* Registrando a fonte Unutterable (para títulos com acentos) */
+@font-face {
+    font-family: 'Unutterable';
+    src: url('./fonts/Unutterable-rv3x8.ttf');
+}
+
+/* Aplicando no Nome do Personagem (Infobox) */
+.callout[data-callout="infobox"] .callout-title-inner {
+    font-family: 'Jujutsu', sans-serif !important;
+    font-size: 1.8em !important;
+    letter-spacing: 2px;
+}
+
+/* Aplicando nos Títulos Gerais (RESUMO, A GANGUE, etc) */
+h1, h2, h3, h4, .callout[data-callout="infobox"] h6 {
+    font-family: 'Unutterable', serif !important;
+    color: #ff4d4d !important;
+    text-transform: uppercase;
+}
