@@ -96,13 +96,25 @@ h1, h2, h3, h4 {
     src: url('./fonts/Unutterable-rv3x8.ttf');
 }
 
-/* Aplicando no Nome do Personagem (Infobox) */
-.callout[data-callout="infobox"] .callout-title-inner {
-    font-family: 'Jujutsu', sans-serif !important;
-    font-size: 1.8em !important;
-    letter-spacing: 2px;
+/* Registro da Fonte com caminho corrigido */
+@font-face {
+    font-family: 'JujutsuCustom';
+    src: url('/fonts/Jujutsu Kaisen.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
 
+/* Aplicando especificamente no título da Infobox */
+.callout[data-callout="infobox"] .callout-title .callout-title-inner,
+.callout[data-callout="infobox"] .callout-title-inner p,
+.callout[data-callout="infobox"] .callout-title-inner {
+    font-family: 'JujutsuCustom', sans-serif !important;
+    font-size: 2em !important; /* Aumentei para destacar bem o estilo */
+    color: #ffffff !important;
+    text-transform: none !important;
+    letter-spacing: 1px !important;
+    display: block !important;
+}
 /* Aplicando nos Títulos Gerais (RESUMO, A GANGUE, etc) */
 h1, h2, h3, h4, .callout[data-callout="infobox"] h6 {
     font-family: 'Unutterable', serif !important;
