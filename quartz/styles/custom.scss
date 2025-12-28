@@ -90,30 +90,28 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0 auto !important;
 }
 
-/* 8. TABELA INTERNA (AJUSTE PARA NÃO QUEBRAR ESCOLA DE TÓKYŌ) */
+/* 8. TABELA INTERNA (TEXTOS PRÓXIMOS E SEM QUEBRA) */
 .callout[data-callout="infobox"] table {
     margin: 10px auto 20px auto !important;
-    width: 95% !important; 
+    width: auto !important; /* Deixa a tabela ter apenas o tamanho do texto */
+    min-width: 85% !important; /* Mas garante que não fique pequena demais */
+    max-width: 95% !important;
     border-collapse: collapse !important;
-    table-layout: fixed !important; /* Força a largura exata que definirmos */
 }
 
 .callout[data-callout="infobox"] td:first-child {
     color: #ff4d4d !important;
     font-weight: bold !important;
     text-align: left !important;
-    width: 80px !important; /* Largura fixa pequena para etiquetas (Tipo, Grupo, etc) */
+    padding-right: 20px !important; /* Espaço fixo entre a legenda e o valor */
     white-space: nowrap !important;
-    padding-right: 5px !important;
     font-size: 0.85em !important;
 }
 
 .callout[data-callout="infobox"] td:last-child {
-    text-align: right !important;
+    text-align: left !important; /* Mudamos para esquerda para ficar perto da legenda */
     color: #ffffff !important;
-    /* O navegador vai dar todo o espaço restante para esta coluna */
-    word-break: keep-all !important; 
-    overflow: visible !important;
+    white-space: nowrap !important; /* Força a Escola de Tókyō em uma linha */
     font-size: 0.9em !important;
 }
 

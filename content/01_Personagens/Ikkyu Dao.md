@@ -4,11 +4,11 @@
 > ###### Informações Biográficas
 > | | |
 > | --- | --- |
-> | **Tipo** | Player |
-> | **Categoria** | Feiticeiro |
-> | **Grau** | 4º Grau |
-> | **Status** | Vivo |
-> | **Grupo** | [[Escola de Tókyō]] |
+> | **Tipo:** | Player |
+> | **Categoria:** | Feiticeiro |
+> | **Grau:** | 4º Grau |
+> | **Status:** | Vivo |
+> | **Grupo:** | [[Escola de Tókyō]] |
 
 ### **Resumo**
 
