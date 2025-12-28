@@ -8,11 +8,11 @@
 > | **Categoria** | Feiticeiro |
 > | **Grau** | 4º Grau |
 > | **Status** | Vivo |
-> | **Grupo** | [[Escola Tókyō]] |
+> | **Grupo** | [[Escola de Tókyō]] |
 
 ### **Resumo**
 
-**Aji Nomoto** é feiticeiro grau 4 da [[Escola Tókyō]], recrutado por [[Kaiba Yoshifusa]] meses antes d'[[O Colapso de Tókyō|O Colapso]].
+**Aji Nomoto** é feiticeiro grau 4 da [[Escola de Tókyō]], recrutado por [[Kaiba Yoshifusa]] meses antes d'[[O Colapso de Tókyō|O Colapso]].
 
 Aji cresceu na periferia de Tóquio, em distrito com alta concentração de imigrantes brasileiros. Filho de dekasegi (segunda geração), viveu entre dois mundos — nunca completamente parte do Japão, nem completamente brasileiro. Sua comunidade existia nas margens: fábricas, trabalhos precários, tensão constante com yakuza local.
 
@@ -54,7 +54,7 @@ Ele aceitou.
 ---
 ### **Na Escola**
 
-Aji chegou à [[Escola Tókyō]] meses antes d'[[O Colapso de Tókyō|O Colapso]] (Dia 1). Ainda estava se adaptando — aprendendo técnicas, refinando habilidades, desenvolvendo cura além do instintivo.
+Aji chegou à [[Escola de Tókyō]] meses antes d'[[O Colapso de Tókyō|O Colapso]] (Dia 1). Ainda estava se adaptando — aprendendo técnicas, refinando habilidades, desenvolvendo cura além do instintivo.
 
 Ele não se encaixa perfeitamente. Fala diferente. Age diferente. Alguns feiticeiros de clãs tradicionais o veem como "de fora" (literalmente e socialmente).
 

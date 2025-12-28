@@ -63,7 +63,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* CENTRALIZAÇÃO REAL DO "INFORMAÇÕES BIOGRÁFICAS" */
-.callout[data-callout="infobox"] .callout-content :is(h1, h2, h3, h4, h5, h6) {
+.callout[data-callout="infobox"] h1, 
+.callout[data-callout="infobox"] h2, 
+.callout[data-callout="infobox"] h3, 
+.callout[data-callout="infobox"] h4 {
     display: flex !important;
     justify-content: center !important;
     align-items: center !important;

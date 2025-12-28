@@ -1,4 +1,4 @@
-A **Crise dos 3 Clãs** refere-se ao conflito interno na [[Escola Tókyō]] entre os Dias 45-60 pós-colapso, resultando na reorganização completa da liderança.
+A **Crise dos 3 Clãs** refere-se ao conflito interno na [[Escola de Tókyō]] entre os Dias 45-60 pós-colapso, resultando na reorganização completa da liderança.
 
 ### **Contexto**
 
