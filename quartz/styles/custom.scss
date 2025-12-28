@@ -110,3 +110,18 @@ h1, h2, h3, h4, h5, h6 {
 .callout[data-callout="infobox"] tr {
     border-bottom: 1px solid rgba(125, 25, 25, 0.3) !important; /* Suas linhas sutis */
 }
+
+/* Remove o ícone de corrente (link) que desalinha o texto na Infobox */
+.callout[data-callout="infobox"] .heading-anchor,
+.callout[data-callout="infobox"] a.heading-anchor {
+    display: none !important;
+}
+
+/* Garante que o título não tenha margens laterais que o empurrem */
+.callout[data-callout="infobox"] :is(h1, h2, h3, h4, h5, h6) {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    text-indent: 0 !important;
+}
