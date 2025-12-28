@@ -6,7 +6,7 @@
 Situado na província de Gunma, **dentro** da zona isolada — não na fronteira propriamente dita, mas alguns quilômetros para o interior.
 
 **Decisão Estratégica:**  
-Inicialmente, o governo planejou estabelecer o campo diretamente na fronteira. No entanto, após consulta com feiticeiros da [[Escola de Kyoto]], a decisão foi revista.
+Inicialmente, o governo planejou estabelecer o campo diretamente na fronteira. No entanto, após consulta com feiticeiros da [[Escola de Kyōto]], a decisão foi revista.
 
 **Razão:** Se o campo fosse atacado por maldições e colapsasse, a fronteira seria comprometida simultaneamente. Manter distância entre campo e fronteira cria camada de segurança — se campo cair, fronteira ainda pode ser mantida.
 
@@ -23,7 +23,7 @@ Governo opera a partir de Gunma, coordenando suprimentos e monitoramento da zona
 [[Escola de Tókyō]] recebe recursos (comida, medicina, equipamento) via Gunma, mas quantidade é limitada e sujeita a decisões governamentais.
 
 **Proteção:**  
-Campo é protegido por contingente de feiticeiros (não da [[Escola de Tókyō]] — enviados pela [[Escola de Kyoto]]) e forças militares convencionais.
+Campo é protegido por contingente de feiticeiros (não da [[Escola de Tókyō]] — enviados pela [[Escola de Kyōto]]) e forças militares convencionais.
 
 Ataques de maldições são frequentes, mas gerenciáveis dado posicionamento estratégico e recursos defensivos.
 
