@@ -24,7 +24,7 @@
     clear: right;
 }
 
-/* 3. TÍTULO NO TOPO */
+/* 3. TÍTULO NO TOPO (NOME DO PERSONAGEM) */
 .callout[data-callout="infobox"] .callout-title {
     background-color: #7d1919 !important;
     display: flex !important;
@@ -34,7 +34,7 @@
 
 .callout[data-callout="infobox"] .callout-title-inner {
     font-family: 'Jujutsu', sans-serif !important;
-    color: #ffffff !important;
+    color: #ffffff !important; /* Nome em Branco */
     font-size: 1.8em !important;
     text-align: center !important;
     width: 100% !important;
@@ -45,19 +45,14 @@
     display: none !important;
 }
 
-/* 4. POSICIONAMENTO DA ÂNCORA (O PULO DO GATO) */
-/* Tornamos o link visível, mas tiramos ele do caminho do texto */
+/* 4. POSICIONAMENTO DA ÂNCORA (CORRENTINHA) */
 .callout[data-callout="infobox"] .heading-anchor {
     display: inline-block !important;
-    opacity: 0.5 !important; /* Deixa levemente transparente para não brigar com o texto */
+    opacity: 0.6 !important;
     position: absolute !important; 
-    right: 10px !important; /* Joga ele lá no cantinho direito */
+    right: 15px !important; /* Afastado da borda */
     text-decoration: none !important;
-}
-
-.callout[data-callout="infobox"] .heading-anchor:hover {
-    opacity: 1 !important;
-    color: #ff4d4d !important;
+    color: #ffffff !important; /* Correntinha branca para combinar */
 }
 
 /* 5. AJUSTES DE CONTEÚDO */
@@ -68,16 +63,18 @@
     align-items: center !important;
 }
 
-/* Centraliza o texto ignorando a âncora */
-.callout[data-callout="infobox"] :is(h1, h2, h3, h4, h5, h6) {
+/* Subtítulos dentro da Infobox (Informações Biográficas) */
+.callout[data-callout="infobox"] .callout-content :is(h1, h2, h3, h4, h5, h6) {
     display: flex !important;
     justify-content: center !important;
     align-items: center !important;
     width: 100% !important;
-    position: relative !important; /* Necessário para o "absolute" da âncora funcionar */
+    position: relative !important;
     margin: 20px 0 10px 0 !important;
+    padding: 0 !important;
     font-family: 'Unutterable', serif !important;
-    color: #ff4d4d !important;
+    color: #ffffff !important; /* Texto em Branco */
+    border: none !important;
 }
 
 /* Imagem Flat */
@@ -88,7 +85,7 @@
     margin: 0 !important;
 }
 
-/* 6. TABELAS */
+/* 6. TABELAS (Mantendo Categorias em Vermelho) */
 .callout[data-callout="infobox"] table {
     margin: 10px auto 20px auto !important;
     border-collapse: collapse !important;
@@ -96,7 +93,7 @@
 }
 
 .callout[data-callout="infobox"] td:first-child {
-    color: #ffffff !important;
+    color: #ff4d4d !important; /* Categorias (Tipo, Grau, etc) continuam vermelhas */
     font-weight: bold !important;
     font-size: 0.9em !important;
     text-align: left !important;
@@ -106,8 +103,8 @@
     border-bottom: 1px solid rgba(125, 25, 25, 0.3) !important;
 }
 
-/* 7. TÍTULOS GERAIS */
+/* 7. TÍTULOS GERAIS DO SITE (Fora da Infobox) */
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Unutterable', serif !important;
-    color: #ff4d4d !important;
+    color: #ff4d4d !important; /* Títulos do site continuam vermelhos */
 }
