@@ -54,43 +54,43 @@ h1, h2, h3, h4, h5, h6 {
     font-variant: normal !important;
 }
 
-/* 5. AJUSTES DE CONTEÚDO (IMAGEM E TÍTULOS) */
+/* 5. AJUSTES DE ALINHAMENTO DA INFOBOX */
 
-/* Centraliza o container principal */
+/* Remove qualquer recuo que o Quartz coloca por padrão no conteúdo */
 .callout[data-callout="infobox"] .callout-content {
+    padding: 0 !important;
     display: flex !important;
     flex-direction: column !important;
-    align-items: center !important; /* Força tudo que é flex-item para o centro */
-    text-align: center !important;
-    padding: 10px 0 !important;
+    align-items: center !important;
 }
 
-/* CENTRALIZAÇÃO DA IMAGEM (Alvo direto no container de embed) */
-.callout[data-callout="infobox"] .internal-embed,
-.callout[data-callout="infobox"] .image-embed,
-.callout[data-callout="infobox"] p img,
-.callout[data-callout="infobox"] img {
-    display: block !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-    max-width: 100% !important;
-}
-
-/* Garante que o parágrafo que envolve a imagem não tenha alinhamento à esquerda */
-.callout[data-callout="infobox"] .callout-content p {
-    display: block !important;
+/* Centraliza o Título do Personagem e remove folgas */
+.callout[data-callout="infobox"] .callout-content h1 {
     width: 100% !important;
     text-align: center !important;
-    margin: 10px 0 !important;
+    margin: 15px 0 !important;
+    padding: 0 !important;
+    display: block !important;
 }
 
-/* CENTRALIZAÇÃO DOS TÍTULOS (H1 a H6) */
-.callout[data-callout="infobox"] .callout-content :is(h1, h2, h3, h4, h5, h6) {
+/* Garante que a imagem ocupe o espaço e não tenha margens que a empurrem */
+.callout[data-callout="infobox"] img, 
+.callout[data-callout="infobox"] .internal-embed {
+    width: 100% !important;
+    display: block !important;
+    margin: 0 !important;
+}
+
+/* Centraliza o "Informações Biográficas" e remove o ícone de link que entorta o texto */
+.callout[data-callout="infobox"] :is(h1, h2, h3, h4, h5, h6) {
     width: 100% !important;
     text-align: center !important;
-    display: block !important;
     margin: 20px 0 10px 0 !important;
-    font-family: 'Unutterable', serif !important;
+}
+
+/* Isso aqui remove aquele ícone de corrente/link que fica do lado do título e joga ele pra esquerda */
+.callout[data-callout="infobox"] a.heading-anchor {
+    display: none !important;
 }
 
 /* 6. TABELAS (Mantendo suas cores e linhas) */
