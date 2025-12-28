@@ -95,31 +95,34 @@ h1, h2, h3, h4 {
     font-family: 'Unutterable';
     src: url('./fonts/Unutterable-rv3x8.ttf');
 }
-
-/* Registro da Fonte com caminho corrigido */
+/* 1. Registro da Fonte (Certifique-se de renomear o arquivo para jujutsu.ttf) */
 @font-face {
-    font-family: 'JujutsuCustom';
-    src: url('/fonts/Jujutsu Kaisen.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
+    font-family: 'Jujutsu';
+    src: url('/fonts/jujutsu.ttf') format('truetype');
 }
 
-/* Aplicando especificamente no título da Infobox */
-.callout[data-callout="infobox"] .callout-title .callout-title-inner,
-.callout[data-callout="infobox"] .callout-title-inner p,
+/* 2. Aplicação no Nome do Personagem */
 .callout[data-callout="infobox"] .callout-title-inner {
-    font-family: 'JujutsuCustom', sans-serif !important;
-    font-size: 2em !important; /* Aumentei para destacar bem o estilo */
+    font-family: 'Jujutsu', sans-serif !important;
+    font-size: 2.2em !important; 
     color: #ffffff !important;
-    text-transform: none !important;
-    letter-spacing: 1px !important;
+    text-align: center !important;
+    width: 100% !important;
     display: block !important;
+    text-transform: none !important;
 }
-/* Aplicando nos Títulos Gerais (RESUMO, A GANGUE, etc) */
-h1, h2, h3, h4, .callout[data-callout="infobox"] h6 {
+
+/* 3. Ajuste para os outros títulos da Infobox (Informações Biográficas) */
+.callout[data-callout="infobox"] h1, 
+.callout[data-callout="infobox"] h2, 
+.callout[data-callout="infobox"] h3, 
+.callout[data-callout="infobox"] h4, 
+.callout[data-callout="infobox"] h5, 
+.callout[data-callout="infobox"] h6 {
     font-family: 'Unutterable', serif !important;
-    color: #ff4d4d !important;
-    text-transform: uppercase;
+    text-align: center !important;
+    color: #ffffff !important;
+    text-transform: none !important; /* Remove o pentagrama */
 }
 /* Remove o pentagrama e deixa os títulos limpos */
 h1, h2, h3, h4, h5, h6, 
