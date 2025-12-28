@@ -1,37 +1,33 @@
 @use "./base.scss";
 
-/* 1. REGISTRO DAS FONTES */
-/* Certifique-se que o arquivo no PC se chama jujutsu.ttf dentro da pasta fonts */
+/* 1. REGISTRO DAS FONTES (Caminho corrigido para styles/fonts) */
 @font-face {
     font-family: 'Jujutsu';
-    src: url('/fonts/jujutsu.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
+    src: url('./fonts/jujutsu.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Unutterable';
-    src: url('/fonts/Unutterable-rv3x8.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
+    src: url('./fonts/Unutterable-rv3x8.ttf') format('truetype');
 }
 
-/* 2. ESTILO GERAL DA INFOBOX */
+/* 2. ESTILO DA INFOBOX (Mantendo todas as suas funções) */
 .callout[data-callout="infobox"] {
     float: right !important;
     width: 320px !important;
     margin-left: 20px !important;
     margin-bottom: 15px !important;
-    background-color: transparent !important;
-    border: 2px solid #7d1919 !important;
+    background-color: transparent !important; /* Sua função de fundo */
+    border: 2px solid #7d1919 !important; /* Sua borda vermelha */
     border-radius: 2px !important;
     padding: 0 !important;
     clear: right;
 }
 
-/* 3. NOME DO PERSONAGEM (FONTE JUJUTSU) */
+/* 3. NOME DO PERSONAGEM (Topo da Infobox) */
 .callout[data-callout="infobox"] .callout-title {
     background-color: #7d1919 !important;
+    display: flex !important;
     justify-content: center !important;
     padding: 10px !important;
 }
@@ -47,10 +43,10 @@
 }
 
 .callout[data-callout="infobox"] .callout-icon {
-    display: none !important;
+    display: none !important; /* Sua função de remover o ícone */
 }
 
-/* 4. TÍTULOS DO SITE (FONTE UNUTTERABLE SEM PENTAGRAMA) */
+/* 4. TÍTULOS DO SITE (Fonte de terror limpa) */
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Unutterable', serif !important;
     color: #ff4d4d !important;
@@ -58,71 +54,46 @@ h1, h2, h3, h4, h5, h6 {
     font-variant: normal !important;
 }
 
-/* 5. TÍTULOS DENTRO DA INFOBOX (EX: INFORMAÇÕES BIOGRÁFICAS) */
+/* 5. CENTRALIZAÇÃO DA IMAGEM E TÍTULO INTERNO */
+
+/* Centraliza a imagem no meio da caixa */
+.callout[data-callout="infobox"] img,
+.callout[data-callout="infobox"] .internal-link img {
+    display: block !important;
+    margin: 15px auto !important; /* Centraliza horizontalmente */
+    border-radius: 4px !important;
+    max-width: 90% !important;
+}
+
+/* Centraliza o texto "Informações Biográficas" */
 .callout[data-callout="infobox"] h1, 
 .callout[data-callout="infobox"] h2, 
 .callout[data-callout="infobox"] h3, 
 .callout[data-callout="infobox"] h4 {
     font-family: var(--bodyFont) !important;
     font-size: 1.1em !important;
-    color: #ffffff !important;
+    color: #ff4d4d !important;
     border: none !important;
-    margin: 15px 0 5px 0 !important;
-    
-    /* Forçando a centralização real */
-    display: flex !important;
-    justify-content: center !important;
-    align-items: center !important;
+    display: block !important;
+    text-align: center !important; /* Força o alinhamento central */
     width: 100% !important;
-    text-align: center !important;
+    margin: 20px 0 10px 0 !important;
 }
 
-/* 6. TABELAS DA INFOBOX */
+/* 6. TABELAS (Mantendo suas cores e linhas) */
 .callout[data-callout="infobox"] table {
     margin: 10px auto !important;
     border-collapse: collapse !important;
+    width: 90% !important;
 }
 
 .callout[data-callout="infobox"] td:first-child {
-    color: #ff4d4d !important;
+    color: #ff4d4d !important; /* Suas categorias em vermelho */
     font-weight: bold !important;
     font-size: 0.9em !important;
+    text-align: left !important;
 }
 
 .callout[data-callout="infobox"] tr {
-    border-bottom: 1px solid rgba(125, 25, 25, 0.3) !important;
-}
-/* CENTRALIZAR IMAGEM E TÍTULOS NA INFOBOX */
-
-/* 1. Garante que a imagem fique no meio */
-.callout[data-callout="infobox"] img,
-.callout[data-callout="infobox"] .internal-link img {
-    display: block !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-    border-radius: 4px !important;
-    max-width: 90% !important; /* Evita que a imagem bata na borda */
-    height: auto !important;
-}
-
-/* 2. Forçar centralização do "Informações Biográficas" e outros h1-h6 */
-.callout[data-callout="infobox"] h1, 
-.callout[data-callout="infobox"] h2, 
-.callout[data-callout="infobox"] h3, 
-.callout[data-callout="infobox"] h4 {
-    display: flex !important;
-    justify-content: center !important;
-    align-items: center !important;
-    text-align: center !important;
-    width: 100% !important;
-    margin: 20px 0 10px 0 !important;
-    color: #ffffff !important;
-    border: none !important;
-}
-
-/* 3. Ajuste fino na tabela para ela também centralizar */
-.callout[data-callout="infobox"] table {
-    margin-left: auto !important;
-    margin-right: auto !important;
-    width: 95% !important;
+    border-bottom: 1px solid rgba(125, 25, 25, 0.3) !important; /* Suas linhas sutis */
 }
