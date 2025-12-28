@@ -1,5 +1,5 @@
 > [!infobox]+
-> # Ikkyu Dao
+> # Takai Gojo
 > ![[694e717ba009f4c602738520.png|cover|325]]
 > ###### Informações Biográficas
 > | | |

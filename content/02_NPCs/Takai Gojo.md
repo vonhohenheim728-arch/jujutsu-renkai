@@ -20,10 +20,8 @@ relacoes:
 > | **Status:** | Desaparecido/Morto |
 > | **Grupo:** | Renegados |
 
-**Takai Gojo** foi feiticeiro grau especial, ex-aluno da [[Escola de Tókyō]]. Desaparecido (presumido morto) após participação na [[Guerra dos Seis - 六人戦争]].
-
-Possuidor dos **Seis Olhos** e técnica **Ilimitado** — combinação extremamente rara que o tornava um dos feiticeiros mais poderosos de sua geração.
-
+ **Takai Gojo** foi feiticeiro grau especial, ex-aluno da [[Escola de Tókyō]]. Desaparecido (presumido morto) após participação na [[Guerra dos Seis - 六人戦争]].
+ Possuidor dos **Seis Olhos** e técnica **Ilimitado** — combinação extremamente rara que o tornava um dos feiticeiros mais poderosos de sua geração.
 
 #### **Histórico na Escola**
 
@@ -38,7 +36,7 @@ Após [período redatado], Takai deixou a [[Escola de Tókyō]] e foi visto em a
 
 Motivações permanecem classificadas.
 
----
+
 #### **[[Guerra dos Seis - 六人戦争]]**
 
 Takai foi um dos dois combatentes do "lado hostil" durante a [[Guerra dos Seis - 六人戦争]] (Dia 1). Registros indicam que ele declarou intenção de "destruir a escola."
@@ -49,7 +47,7 @@ O confronto resultou em colapso de Tóquio e milhões de mortos.
 
 Todos os seis combatentes foram declarados desaparecidos, presumivelmente mortos. Nenhum corpo foi recuperado.
 
----
+
 #### **Status**
 
 **Desaparecido (Presumido Morto)** - Dia 1
