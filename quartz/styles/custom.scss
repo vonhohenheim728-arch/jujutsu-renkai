@@ -56,41 +56,41 @@ h1, h2, h3, h4, h5, h6 {
 
 /* 5. AJUSTES DE CONTEÚDO (IMAGEM E TÍTULOS) */
 
-/* Centraliza tudo dentro da infobox */
+/* Força o alinhamento central em todo o bloco de conteúdo */
 .callout[data-callout="infobox"] .callout-content {
     padding: 10px 0 !important;
-    display: flex !important;
-    flex-direction: column !important;
-    align-items: center !important; /* Centraliza horizontalmente o conteúdo flex */
-    justify-content: center !important;
+    text-align: center !important; /* Alinha tudo que for inline ou inline-block */
+    display: block !important;    /* Remove o flex se ele estiver causando conflito */
 }
 
-/* Garante que o parágrafo que contém a imagem não tenha recuo e centralize */
-.callout[data-callout="infobox"] .callout-content p {
-    width: 100% !important;
-    display: flex !important;
-    justify-content: center !important;
-    margin: 10px 0 !important;
-}
-
-/* Garante que a imagem em si seja tratada como bloco centralizado */
-.callout[data-callout="infobox"] img {
+/* Centraliza a Imagem (Geralmente dentro de um parágrafo ou span) */
+.callout[data-callout="infobox"] .callout-content p,
+.callout[data-callout="infobox"] .callout-content span {
+    text-align: center !important;
     display: block !important;
-    margin: 0 auto !important;
-    border-radius: 4px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 100% !important;
 }
 
-/* Títulos internos (Informações Biográficas, etc) */
-.callout[data-callout="infobox"] .callout-content h1, 
-.callout[data-callout="infobox"] .callout-content h2, 
-.callout[data-callout="infobox"] .callout-content h3, 
-.callout[data-callout="infobox"] .callout-content h4,
-.callout[data-callout="infobox"] .callout-content h5,
-.callout[data-callout="infobox"] .callout-content h6 {
+.callout[data-callout="infobox"] img {
+    display: inline-block !important; /* Deixa o text-align do pai controlar */
+    margin: 10px auto !important;
+    max-width: 100% !important;
+    height: auto !important;
+}
+
+/* Centraliza todos os Títulos (h1 até h6) */
+.callout[data-callout="infobox"] .callout-content :is(h1, h2, h3, h4, h5, h6) {
+    display: block !important;
     text-align: center !important;
     width: 100% !important;
-    margin: 15px 0 5px 0 !important;
-    font-family: 'Unutterable', serif !important; /* Mantendo o estilo de terror */
+    margin: 20px 0 10px 0 !important;
+    padding: 0 !important;
+    font-family: 'Unutterable', serif !important;
+    /* Remove qualquer float ou posicionamento que o tema possa ter */
+    float: none !important;
+    position: static !important;
 }
 
 /* 6. TABELAS (Mantendo suas cores e linhas) */
