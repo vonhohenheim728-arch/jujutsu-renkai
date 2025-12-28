@@ -1,6 +1,6 @@
 > [!infobox]+
 > # Umeji Shintaro
-> ![[Pasted image 20251227060429.png|cover|250]]
+> ![[Pasted image 20251227060429.png|cover|300]]
 > ###### Informações Biográficas
 > | | |
 > | --- | --- |
