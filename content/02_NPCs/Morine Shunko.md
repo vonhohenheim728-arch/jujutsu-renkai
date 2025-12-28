@@ -33,7 +33,7 @@ Internamente, membros locais dos Três Grandes Clãs tentaram preencher vácuo d
 
 Durante a [[Crise dos 3 Clãs]], após execução de **Umeji Shintaro** (feiticeiro grau 3) por ordem de membros locais dos Três Grandes Clãs e subsequente tensão que levou escola à beira de motim, a estrutura de poder foi reorganizada.
 
-Os [[Três Grandes Clãs]] recuaram de tentativas de controle direto local, concordando em nomear apenas um representante consultivo ao novo **Conselho Temporário**:
+Os [[Três Grandes Clãs (御三家, _Gosanke_)]] recuaram de tentativas de controle direto local, concordando em nomear apenas um representante consultivo ao novo **Conselho Temporário**:
 
 - **Diretora** (Morine Shunko) - Poder executivo
 - **Representante dos Três Grandes Clãs** - Poder consultivo
