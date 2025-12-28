@@ -6,4 +6,4 @@ Bem-vindo à documentação pública do mundo de Jujutsu Renkai.
 - [[Resumo Campanha]]
 - [[O Colapso de Tókyō]]
 - [[Guerra dos Seis - 六人戦争]]
-- [[O Vórtice - 渦]]
+- [[o Vórtice - 渦]]
