@@ -10,7 +10,7 @@
 > | **Status** | Vivo |
 > | **Grupo** | [[Escola de Tókyō]] |
 
-### **RESUMO**
+### **Resumo**
 
 **Aji Nomoto** é feiticeiro grau 4 da [[Escola de Tókyō]], recrutado por [[Kaiba Yoshifusa]] meses antes d'[[O Colapso de Tókyō|O Colapso]].
 
@@ -24,7 +24,7 @@ Desde jovem demonstrou talento natural para cura. Quando alguém do grupo se fer
 
 Ele odiava ver amigos feridos. Odiava a violência. Mas não via saída.
 
-### **O Despertar**
+### **o Despertar**
 
 Durante emboscada da yakuza local (retaliação por "invasão de território"), o grupo de Aji foi cercado. Massacre. Todos os amigos caíram — mortos ou agonizando.
 
@@ -39,7 +39,7 @@ Aji não entendeu o que tinha feito. Mas sobreviveu.
 Seus amigos, não.
 
 ---
-### **O Recrutamento**
+### **o Recrutamento**
 
 Dias depois, [[Kaiba Yoshifusa]] apareceu. Veterano da escola, estava em missão no distrito (exorcismo de maldição menor) quando testemunhou o despertar de Aji de longe. Reconheceu potencial imediatamente.
 
