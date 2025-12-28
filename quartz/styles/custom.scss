@@ -1,13 +1,12 @@
 @use "./base.scss";
 
 /* 1. FONTES */
-
 @font-face {
     font-family: 'Unutterable';
     src: url('./fonts/Unutterable-rv3x8.ttf') format('truetype');
 }
 
-/* 2. ESTILOS GERAIS DO SITE */
+/* 2. ESTILOS GERAIS DO SITE (VERMELHO) */
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Unutterable', serif !important;
     color: #ff4d4d !important;
@@ -28,9 +27,9 @@ h1, h2, h3, h4, h5, h6 {
     overflow: hidden !important;
 }
 
-/* 4. TÍTULO SUPERIOR (NOME DO PERSONAGEM) */
+/* 4. NOME DO PERSONAGEM (BRANCO PURO) */
 .callout[data-callout="infobox"] .callout-title {
-    background-color: #ffffff !important;
+    background-color: #7d1919 !important;
     display: flex !important;
     justify-content: center !important;
     align-items: center !important;
@@ -38,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .callout[data-callout="infobox"] .callout-title-inner {
-    color: #ffffff !important;
+    color: #ffffff !important; /* Força o branco no nome do topo */
     font-size: 1.8em !important;
     text-align: center !important;
     width: 100% !important;
@@ -49,7 +48,7 @@ h1, h2, h3, h4, h5, h6 {
     display: none !important;
 }
 
-/* 5. CENTRALIZAÇÃO DE IMAGEM E TÍTULO (IMPORTADO DO SEGUNDO CÓDIGO) */
+/* 5. IMAGEM E TÍTULO BIOGRÁFICO (BRANCO PURO) */
 .callout[data-callout="infobox"] .callout-content {
     padding: 0 !important;
     display: flex !important;
@@ -64,17 +63,18 @@ h1, h2, h3, h4, h5, h6 {
     max-width: 90% !important;
 }
 
-.callout[data-callout="infobox"] :is(h1, h2, h3, h4, h5, h6) {
+/* SÓ o texto "Informações Biográficas" fica branco aqui */
+.callout[data-callout="infobox"] .callout-content :is(h1, h2, h3, h4, h5, h6) {
     display: block !important;
     text-align: center !important;
     width: 100% !important;
-    color: #ffffff !important;  /* <--- TROQUE AQUI PARA FICAR BRANCO */
+    color: #ffffff !important; /* Força o branco apenas neste título */
     font-family: 'Unutterable', serif !important;
     margin: 20px 0 10px 0 !important;
     border: none !important;
 }
 
-/* 6. TABELA UNIDA E SEM QUEBRA (AJUSTE FINO) */
+/* 6. TABELA (LEGENDAS VERMELHAS / VALORES BRANCOS) */
 .callout[data-callout="infobox"] table {
     margin: 10px auto 20px auto !important;
     width: auto !important; 
@@ -83,25 +83,25 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .callout[data-callout="infobox"] td:first-child {
-    color: #ff4d4d !important;
+    color: #ff4d4d !important; /* Legendas (Tipo, Grupo) continuam vermelhas */
     font-weight: bold !important;
     text-align: left !important;
-    padding-right: 15px !important; /* Espaço que mantém os textos próximos */
+    padding-right: 15px !important;
     white-space: nowrap !important;
     width: 1% !important; 
 }
 
 .callout[data-callout="infobox"] td:last-child {
-    text-align: left !important; /* Alinhado à esquerda para grudar na legenda */
-    color: #ffffff !important;
-    white-space: nowrap !important; /* Impede que Escola de Tókyō quebre */
+    text-align: left !important;
+    color: #ffffff !important; /* Valores da tabela em branco */
+    white-space: nowrap !important; /* Impede quebra da Escola de Tókyō */
 }
 
 .callout[data-callout="infobox"] tr {
     border-bottom: 1px solid rgba(125, 25, 25, 0.3) !important;
 }
 
-/* 7. ÂNCORA (CORRENTINHA) */
+/* 7. ÂNCORA */
 .callout[data-callout="infobox"] .heading-anchor {
     position: absolute !important;
     right: 10px !important;
