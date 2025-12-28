@@ -46,13 +46,14 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 1.8em !important;
     text-align: center !important;
     width: 100% !important;
+    display: block !important;
 }
 
 .callout[data-callout="infobox"] .callout-icon {
     display: none !important;
 }
 
-/* 5. CENTRALIZAÇÃO DA IMAGEM E TÍTULO INTERNO */
+/* 5. CENTRALIZAÇÃO DE IMAGEM E TÍTULO (IMPORTADO DO SEGUNDO CÓDIGO) */
 .callout[data-callout="infobox"] .callout-content {
     padding: 0 !important;
     display: flex !important;
@@ -67,20 +68,21 @@ h1, h2, h3, h4, h5, h6 {
     max-width: 90% !important;
 }
 
-.callout[data-callout="infobox"] .callout-content :is(h1, h2, h3, h4, h5, h6) {
+.callout[data-callout="infobox"] :is(h1, h2, h3, h4, h5, h6) {
     display: block !important;
     text-align: center !important;
     width: 100% !important;
-    color: #ffffff !important;
+    color: #ff4d4d !important; /* Voltamos para o vermelho que você pediu */
     font-family: 'Unutterable', serif !important;
     margin: 20px 0 10px 0 !important;
     border: none !important;
 }
 
-/* 6. TABELA (RESOLVENDO A QUEBRA DE TEXTO) */
+/* 6. TABELA UNIDA E SEM QUEBRA (AJUSTE FINO) */
 .callout[data-callout="infobox"] table {
     margin: 10px auto 20px auto !important;
-    width: 95% !important;
+    width: auto !important; 
+    min-width: 90% !important;
     border-collapse: collapse !important;
 }
 
@@ -88,22 +90,22 @@ h1, h2, h3, h4, h5, h6 {
     color: #ff4d4d !important;
     font-weight: bold !important;
     text-align: left !important;
-    padding-right: 10px !important;
-    white-space: nowrap !important; /* Impede a legenda de quebrar */
-    width: 1% !important; /* Força a coluna a ser o menor possível */
+    padding-right: 15px !important; /* Espaço que mantém os textos próximos */
+    white-space: nowrap !important;
+    width: 1% !important; 
 }
 
 .callout[data-callout="infobox"] td:last-child {
-    text-align: right !important; 
+    text-align: left !important; /* Alinhado à esquerda para grudar na legenda */
     color: #ffffff !important;
-    white-space: nowrap !important; /* Impede "Escola de Tókyō" de quebrar */
+    white-space: nowrap !important; /* Impede que Escola de Tókyō quebre */
 }
 
 .callout[data-callout="infobox"] tr {
     border-bottom: 1px solid rgba(125, 25, 25, 0.3) !important;
 }
 
-/* 7. TRATAMENTO DA ÂNCORA */
+/* 7. ÂNCORA (CORRENTINHA) */
 .callout[data-callout="infobox"] .heading-anchor {
     position: absolute !important;
     right: 10px !important;
