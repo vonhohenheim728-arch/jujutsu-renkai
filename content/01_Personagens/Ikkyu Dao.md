@@ -1,5 +1,5 @@
 > [!infobox]+
-> # Umeji Shintaro
+> # Ikkyu Dao
 > ![[694e717ba009f4c602738520.png|cover|325]]
 > ###### Informações Biográficas
 > | | |

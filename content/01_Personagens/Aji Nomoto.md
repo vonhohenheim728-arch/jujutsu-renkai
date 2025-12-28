@@ -1,5 +1,5 @@
 > [!infobox]+
-> # Umeji Shintaro
+> # Aji Nomoto
 > ![[Pasted image 20251227060429.png|cover|325]]
 > ###### Informações Biográficas
 > | | |
