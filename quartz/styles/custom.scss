@@ -56,41 +56,41 @@ h1, h2, h3, h4, h5, h6 {
 
 /* 5. AJUSTES DE CONTEÚDO (IMAGEM E TÍTULOS) */
 
-/* Força o alinhamento central em todo o bloco de conteúdo */
+/* Centraliza o container principal */
 .callout[data-callout="infobox"] .callout-content {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important; /* Força tudo que é flex-item para o centro */
+    text-align: center !important;
     padding: 10px 0 !important;
-    text-align: center !important; /* Alinha tudo que for inline ou inline-block */
-    display: block !important;    /* Remove o flex se ele estiver causando conflito */
 }
 
-/* Centraliza a Imagem (Geralmente dentro de um parágrafo ou span) */
-.callout[data-callout="infobox"] .callout-content p,
-.callout[data-callout="infobox"] .callout-content span {
-    text-align: center !important;
+/* CENTRALIZAÇÃO DA IMAGEM (Alvo direto no container de embed) */
+.callout[data-callout="infobox"] .internal-embed,
+.callout[data-callout="infobox"] .image-embed,
+.callout[data-callout="infobox"] p img,
+.callout[data-callout="infobox"] img {
     display: block !important;
     margin-left: auto !important;
     margin-right: auto !important;
-    width: 100% !important;
-}
-
-.callout[data-callout="infobox"] img {
-    display: inline-block !important; /* Deixa o text-align do pai controlar */
-    margin: 10px auto !important;
     max-width: 100% !important;
-    height: auto !important;
 }
 
-/* Centraliza todos os Títulos (h1 até h6) */
-.callout[data-callout="infobox"] .callout-content :is(h1, h2, h3, h4, h5, h6) {
+/* Garante que o parágrafo que envolve a imagem não tenha alinhamento à esquerda */
+.callout[data-callout="infobox"] .callout-content p {
     display: block !important;
-    text-align: center !important;
     width: 100% !important;
+    text-align: center !important;
+    margin: 10px 0 !important;
+}
+
+/* CENTRALIZAÇÃO DOS TÍTULOS (H1 a H6) */
+.callout[data-callout="infobox"] .callout-content :is(h1, h2, h3, h4, h5, h6) {
+    width: 100% !important;
+    text-align: center !important;
+    display: block !important;
     margin: 20px 0 10px 0 !important;
-    padding: 0 !important;
     font-family: 'Unutterable', serif !important;
-    /* Remove qualquer float ou posicionamento que o tema possa ter */
-    float: none !important;
-    position: static !important;
 }
 
 /* 6. TABELAS (Mantendo suas cores e linhas) */
