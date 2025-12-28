@@ -11,7 +11,7 @@
     src: url('./fonts/Unutterable-rv3x8.ttf') format('truetype');
 }
 
-/* 2. ESTILO DA INFOBOX (Container Principal) */
+/* 2. ESTILO DA INFOBOX */
 .callout[data-callout="infobox"] {
     float: right !important;
     width: 320px !important;
@@ -24,7 +24,7 @@
     clear: right;
 }
 
-/* 3. TÍTULO NO TOPO (Nome do Personagem) */
+/* 3. TÍTULO NO TOPO */
 .callout[data-callout="infobox"] .callout-title {
     background-color: #7d1919 !important;
     display: flex !important;
@@ -39,30 +39,28 @@
     text-align: center !important;
     width: 100% !important;
     display: block !important;
-    text-transform: none !important;
 }
 
 .callout[data-callout="infobox"] .callout-icon {
     display: none !important;
 }
 
-/* 4. REMOVER QUALQUER ÍCONE DE ÂNCORA/CORRENTE NA INFOBOX */
-/* Alvos: o link em si, o ícone SVG dentro dele, e qualquer símbolo gerado por CSS */
-.callout[data-callout="infobox"] .heading-anchor,
-.callout[data-callout="infobox"] .heading-anchor *,
-.callout[data-callout="infobox"] a[aria-label*="Link"],
-.callout[data-callout="infobox"] a.anchor,
-.callout[data-callout="infobox"] :is(h1, h2, h3, h4, h5, h6)::before,
-.callout[data-callout="infobox"] :is(h1, h2, h3, h4, h5, h6)::after {
-    display: none !important;
-    visibility: hidden !important;
-    width: 0 !important;
-    margin: 0 !important;
-    padding: 0 !important;
-    content: none !important;
+/* 4. POSICIONAMENTO DA ÂNCORA (O PULO DO GATO) */
+/* Tornamos o link visível, mas tiramos ele do caminho do texto */
+.callout[data-callout="infobox"] .heading-anchor {
+    display: inline-block !important;
+    opacity: 0.5 !important; /* Deixa levemente transparente para não brigar com o texto */
+    position: absolute !important; 
+    right: 10px !important; /* Joga ele lá no cantinho direito */
+    text-decoration: none !important;
 }
 
-/* 5. AJUSTES DE CONTEÚDO (Centralização Absoluta) */
+.callout[data-callout="infobox"] .heading-anchor:hover {
+    opacity: 1 !important;
+    color: #ff4d4d !important;
+}
+
+/* 5. AJUSTES DE CONTEÚDO */
 .callout[data-callout="infobox"] .callout-content {
     padding: 0 !important;
     display: flex !important;
@@ -70,14 +68,16 @@
     align-items: center !important;
 }
 
-/* Garante que o texto ocupe o espaço do ícone removido */
-.callout[data-callout="infobox"] .callout-content :is(h1, h2, h3, h4, h5, h6) {
+/* Centraliza o texto ignorando a âncora */
+.callout[data-callout="infobox"] :is(h1, h2, h3, h4, h5, h6) {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
     width: 100% !important;
-    text-align: center !important;
+    position: relative !important; /* Necessário para o "absolute" da âncora funcionar */
     margin: 20px 0 10px 0 !important;
-    padding: 0 !important;
-    display: block !important;
-    position: relative !important; /* Reseta posicionamentos que o ícone usava */
+    font-family: 'Unutterable', serif !important;
+    color: #ff4d4d !important;
 }
 
 /* Imagem Flat */
@@ -88,7 +88,7 @@
     margin: 0 !important;
 }
 
-/* 6. TABELAS (Informações Técnicas) */
+/* 6. TABELAS */
 .callout[data-callout="infobox"] table {
     margin: 10px auto 20px auto !important;
     border-collapse: collapse !important;
@@ -106,10 +106,8 @@
     border-bottom: 1px solid rgba(125, 25, 25, 0.3) !important;
 }
 
-/* 7. TÍTULOS GERAIS DO SITE (Fora da Infobox) */
+/* 7. TÍTULOS GERAIS */
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Unutterable', serif !important;
     color: #ff4d4d !important;
-    text-transform: none !important;
-    font-variant: normal !important;
 }
