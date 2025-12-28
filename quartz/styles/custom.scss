@@ -54,23 +54,20 @@ h1, h2, h3, h4, h5, h6 {
     font-variant: normal !important;
 }
 
-/* 5. TÍTULOS DENTRO DA INFOBOX (FORÇANDO CENTRALIZAÇÃO) */
-.callout[data-callout="infobox"] .callout-content > h1,
-.callout[data-callout="infobox"] .callout-content > h2,
-.callout[data-callout="infobox"] .callout-content > h3,
-.callout[data-callout="infobox"] .callout-content > h4,
-.callout[data-callout="infobox"] h1, 
-.callout[data-callout="infobox"] h2, 
-.callout[data-callout="infobox"] h3, 
-.callout[data-callout="infobox"] h4 {
+/* 5. TÍTULOS DENTRO DA INFOBOX (FORÇANDO CENTRALIZAÇÃO REAL) */
+.callout[data-callout="infobox"] .callout-content h1, 
+.callout[data-callout="infobox"] .callout-content h2, 
+.callout[data-callout="infobox"] .callout-content h3, 
+.callout[data-callout="infobox"] .callout-content h4 {
     display: block !important;
-    text-align: center !important; /* Alinhamento de texto */
-    width: 100% !important; /* Ocupa toda a largura da caixa */
-    margin: 20px auto 10px auto !important; /* Margens automáticas nas laterais */
+    text-align: center !important;
+    width: 115% !important; /* Aumentamos um pouco para compensar o recuo do Quartz */
+    margin-left: -7.5% !important; /* Puxa o texto de volta para o centro real */
+    margin-top: 20px !important;
+    margin-bottom: 10px !important;
     padding: 0 !important;
-    border: none !important;
-    font-family: var(--bodyFont) !important;
     color: #ff4d4d !important;
+    border: none !important;
 }
 
 /* 6. TABELAS (Mantendo suas cores e linhas) */
