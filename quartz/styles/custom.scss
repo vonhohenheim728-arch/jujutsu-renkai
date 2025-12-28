@@ -92,3 +92,37 @@ h1, h2, h3, h4, h5, h6 {
 .callout[data-callout="infobox"] tr {
     border-bottom: 1px solid rgba(125, 25, 25, 0.3) !important;
 }
+/* CENTRALIZAR IMAGEM E TÍTULOS NA INFOBOX */
+
+/* 1. Garante que a imagem fique no meio */
+.callout[data-callout="infobox"] img,
+.callout[data-callout="infobox"] .internal-link img {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    border-radius: 4px !important;
+    max-width: 90% !important; /* Evita que a imagem bata na borda */
+    height: auto !important;
+}
+
+/* 2. Forçar centralização do "Informações Biográficas" e outros h1-h6 */
+.callout[data-callout="infobox"] h1, 
+.callout[data-callout="infobox"] h2, 
+.callout[data-callout="infobox"] h3, 
+.callout[data-callout="infobox"] h4 {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    text-align: center !important;
+    width: 100% !important;
+    margin: 20px 0 10px 0 !important;
+    color: #ffffff !important;
+    border: none !important;
+}
+
+/* 3. Ajuste fino na tabela para ela também centralizar */
+.callout[data-callout="infobox"] table {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 95% !important;
+}
