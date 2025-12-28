@@ -1,7 +1,7 @@
 > [!infobox]+
 > # Umeji Shintaro
 > ![[Pasted image 20251227060429.png|cover|250]]
-> ######       Informações Biográficas
+> ###### Informações Biográficas
 > | | |
 > | --- | --- |
 > | **Tipo** | Player |
