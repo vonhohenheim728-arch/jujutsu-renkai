@@ -10,7 +10,7 @@ publish: true
 ![[Kaiba Yoshifusa.png]]
 
 ---
-**Kaiba Yoshifusa** é feiticeiro veterano e Comandante de Campo da [[Escola de Tókyō]]. Responsável por operações táticas e coordenação de missões.
+**Kaiba Yoshifusa** é feiticeiro veterano e Comandante de Campo da [[Escola Tókyō]]. Responsável por operações táticas e coordenação de missões.
 
 ---
 #### **Histórico**
@@ -24,7 +24,7 @@ Ainda participa ocasionalmente de missões de campo, mas apenas operações de b
 ---
 #### **Dia 1 - [[O Colapso de Tókyō|O Colapso]]**
 
-Kaiba estava na [[Escola de Tókyō]] durante a [[Guerra dos Seis - 六人戦争]]. Não foi enviado ao combate — permaneceu na base coordenando equipes de suporte.
+Kaiba estava na [[Escola Tókyō]] durante a [[Guerra dos Seis - 六人戦争]]. Não foi enviado ao combate — permaneceu na base coordenando equipes de suporte.
 
 Viu parte do confronto de longe.
 

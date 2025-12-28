@@ -2,7 +2,7 @@ A **Guerra dos Seis** (六人戦争, _Rokunin Sensō_) refere-se ao confronto ca
 
 ## **Combatentes**
 
-##### **Lado da [[Escola de Tókyō]]:**
+##### **Lado da [[Escola Tókyō]]:**
 
 - [Nome Redatado] - Grau Especial - **Desaparecido (Presumido Morto)**
 - [Nome Redatado] - Grau Especial - **Desaparecido (Presumido Morto)**

@@ -8,13 +8,13 @@
 > | **Categoria:** | Feiticeiro |
 > | **Grau:** | 4º Grau |
 > | **Status:** | Vivo |
-> | **Grupo:** | [[Escola de Tókyō]] |
+> | **Grupo:** | [[Escola Tókyō]] |
 
 ### **Resumo**
 
-**kkyu Dao** é feiticeiro grau 4 da [[Escola de Tókyō]], ex-discípulo de Moto Geto (executado pela escola aproximadamente 1 ano antes d'[[O Colapso de Tókyō|O Colapso]]).
+**kkyu Dao** é feiticeiro grau 4 da [[Escola Tókyō]], ex-discípulo de Moto Geto (executado pela escola aproximadamente 1 ano antes d'[[O Colapso de Tókyō|O Colapso]]).
 
-Natural da Tailândia, Ikkyu veio ao Japão para treinar na [[Escola de Tókyō]]. Estudou sob orientação de **Moto Geto**, ao lado de **[[Takai Gojo]]**. Os três formavam trio próximo — mestre e dois discípulos.
+Natural da Tailândia, Ikkyu veio ao Japão para treinar na [[Escola Tókyō]]. Estudou sob orientação de **Moto Geto**, ao lado de **[[Takai Gojo]]**. Os três formavam trio próximo — mestre e dois discípulos.
 
 Ikkyu demonstrou aptidão para manipulação de maldições, técnica rara e complexa.
 
@@ -56,7 +56,7 @@ Ele aceitou.
 ---
 ### **Durante [[O Colapso de Tókyō|O Colapso]]**
 
-Aji chegou à [[Escola de Tókyō]] meses antes d'[[O Colapso de Tókyō|O Colapso]] (Dia 1). Ainda estava se adaptando — aprendendo técnicas, refinando habilidades, desenvolvendo cura além do instintivo.
+Aji chegou à [[Escola Tókyō]] meses antes d'[[O Colapso de Tókyō|O Colapso]] (Dia 1). Ainda estava se adaptando — aprendendo técnicas, refinando habilidades, desenvolvendo cura além do instintivo.
 
 Ele não se encaixa perfeitamente. Fala diferente. Age diferente. Alguns feiticeiros de clãs tradicionais o veem como "de fora" (literalmente e socialmente).
 

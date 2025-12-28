@@ -2,7 +2,7 @@
 
 Há dois meses, seis feiticeiros de grau especial se enfrentaram no centro de Tóquio durante a [[Guerra dos Seis - 六人戦争]]. A destruição foi catastrófica — múltiplos distritos arrasados simultaneamente, infraestrutura crítica colapsada, aproximadamente 3 milhões de mortos.
 
-O combate terminou abruptamente. Todos os seis caíram. A [[Escola de Tókyō]] declara todos como desaparecidos, presumivelmente mortos.
+O combate terminou abruptamente. Todos os seis caíram. A [[Escola Tókyō]] declara todos como desaparecidos, presumivelmente mortos.
 
 **Ninguém sabe exatamente o que aconteceu no final daquela luta.**
 
@@ -10,7 +10,7 @@ E então as maldições começaram.
 
 ### Dias 2-30 – Caos
 
-Maldições surgiram em massa por toda Kanto — milhares delas. A [[Escola de Tókyō]] mobilizou tudo que tinha pra conter o surto e evacuar civis.
+Maldições surgiram em massa por toda Kanto — milhares delas. A [[Escola Tókyō]] mobilizou tudo que tinha pra conter o surto e evacuar civis.
 
 Não foi suficiente.
 
@@ -28,11 +28,11 @@ Muros. Cercas. Controle total das fronteiras.
 
 ### Dias 45-60 – [[Crise dos 3 Clãs]]
 
-Tensão interna na [[Escola de Tókyō]] culminou em confronto aberto entre facções. A liderança foi reorganizada. [[Morine Shunko]] assumiu como Diretora.
+Tensão interna na [[Escola Tókyō]] culminou em confronto aberto entre facções. A liderança foi reorganizada. [[Morine Shunko]] assumiu como Diretora.
 
 ### Dia 60 – Hoje
 
-A [[Escola de Tókyō]] estabilizou base em Saitama. É a única área verdadeiramente segura dentro da zona isolada — barreiras, feiticeiros patrulhando constantemente.
+A [[Escola Tókyō]] estabilizou base em Saitama. É a única área verdadeiramente segura dentro da zona isolada — barreiras, feiticeiros patrulhando constantemente.
 
 Mas os recursos são limitados. O espaço é limitado. As decisões são difíceis.
 

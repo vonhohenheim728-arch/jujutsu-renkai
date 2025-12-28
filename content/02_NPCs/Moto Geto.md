@@ -12,12 +12,12 @@ publish: true
 ![[Moto Geto.png]]
 
 ---
-**Moto Geto** foi feiticeiro grau especial da [[Escola de Tókyō]]. **Executado pela escola** aproximadamente 1 ano antes d'[[O Colapso de Tókyō|O Colapso]] sob acusação de traição.
+**Moto Geto** foi feiticeiro grau especial da [[Escola Tókyō]]. **Executado pela escola** aproximadamente 1 ano antes d'[[O Colapso de Tókyō|O Colapso]] sob acusação de traição.
 
 ---
 #### **Histórico**
 
-Moto Geto era reconhecido como um dos feiticeiros mais talentosos de sua geração, eventualmente atingindo grau especial. Atuou como mentor na [[Escola de Tókyō]], instruindo diversos alunos.
+Moto Geto era reconhecido como um dos feiticeiros mais talentosos de sua geração, eventualmente atingindo grau especial. Atuou como mentor na [[Escola Tókyō]], instruindo diversos alunos.
 
 Seus discípulos mais recentes foram **[[Takai Gojo]]** e **[[Ikkyu Dao]]**.
 
@@ -38,7 +38,7 @@ Foi executado pela escola após julgamento interno.
 ---
 #### **Consequências**
 
-Após a execução de Moto Geto, seu discípulo [[Takai Gojo]] deixou a [[Escola de Tókyō]] e foi posteriormente visto em associação com organizações criminosas.
+Após a execução de Moto Geto, seu discípulo [[Takai Gojo]] deixou a [[Escola Tókyō]] e foi posteriormente visto em associação com organizações criminosas.
 
 [[Takai Gojo]] eventualmente retornou como combatente hostil na [[Guerra dos Seis - 六人戦争]], declarando intenção de "destruir a escola."
 
