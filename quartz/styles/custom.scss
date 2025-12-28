@@ -54,30 +54,23 @@ h1, h2, h3, h4, h5, h6 {
     font-variant: normal !important;
 }
 
-/* 5. CENTRALIZAÇÃO DA IMAGEM E TÍTULO INTERNO */
-
-/* Centraliza a imagem no meio da caixa */
-.callout[data-callout="infobox"] img,
-.callout[data-callout="infobox"] .internal-link img {
-    display: block !important;
-    margin: 15px auto !important; /* Centraliza horizontalmente */
-    border-radius: 4px !important;
-    max-width: 90% !important;
-}
-
-/* Centraliza o texto "Informações Biográficas" */
+/* 5. TÍTULOS DENTRO DA INFOBOX (FORÇANDO CENTRALIZAÇÃO) */
+.callout[data-callout="infobox"] .callout-content > h1,
+.callout[data-callout="infobox"] .callout-content > h2,
+.callout[data-callout="infobox"] .callout-content > h3,
+.callout[data-callout="infobox"] .callout-content > h4,
 .callout[data-callout="infobox"] h1, 
 .callout[data-callout="infobox"] h2, 
 .callout[data-callout="infobox"] h3, 
 .callout[data-callout="infobox"] h4 {
-    font-family: var(--bodyFont) !important;
-    font-size: 1.1em !important;
-    color: #ff4d4d !important;
-    border: none !important;
     display: block !important;
-    text-align: center !important; /* Força o alinhamento central */
-    width: 100% !important;
-    margin: 20px 0 10px 0 !important;
+    text-align: center !important; /* Alinhamento de texto */
+    width: 100% !important; /* Ocupa toda a largura da caixa */
+    margin: 20px auto 10px auto !important; /* Margens automáticas nas laterais */
+    padding: 0 !important;
+    border: none !important;
+    font-family: var(--bodyFont) !important;
+    color: #ff4d4d !important;
 }
 
 /* 6. TABELAS (Mantendo suas cores e linhas) */
