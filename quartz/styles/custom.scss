@@ -1,17 +1,16 @@
 @use "./base.scss";
 
-/* 1. REGISTRO DAS FONTES */
+/* 1. FONTES */
 @font-face {
     font-family: 'Jujutsu';
     src: url('./fonts/jujutsu.ttf') format('truetype');
 }
-
 @font-face {
     font-family: 'Unutterable';
     src: url('./fonts/Unutterable-rv3x8.ttf') format('truetype');
 }
 
-/* 2. ESTILO DA INFOBOX */
+/* 2. ESTRUTURA DA INFOBOX */
 .callout[data-callout="infobox"] {
     float: right !important;
     width: 320px !important;
@@ -22,40 +21,31 @@
     border-radius: 2px !important;
     padding: 0 !important;
     clear: right;
+    overflow: hidden !important;
 }
 
-/* 3. TÍTULO NO TOPO (NOME DO PERSONAGEM) */
+/* 3. TÍTULO SUPERIOR (NOME) */
 .callout[data-callout="infobox"] .callout-title {
     background-color: #7d1919 !important;
     display: flex !important;
     justify-content: center !important;
+    align-items: center !important;
     padding: 10px !important;
 }
 
 .callout[data-callout="infobox"] .callout-title-inner {
     font-family: 'Jujutsu', sans-serif !important;
-    color: #ffffff !important; /* Nome em Branco */
+    color: #ffffff !important; /* Branco garantido */
     font-size: 1.8em !important;
     text-align: center !important;
     width: 100% !important;
-    display: block !important;
 }
 
 .callout[data-callout="infobox"] .callout-icon {
     display: none !important;
 }
 
-/* 4. POSICIONAMENTO DA ÂNCORA (CORRENTINHA) */
-.callout[data-callout="infobox"] .heading-anchor {
-    display: inline-block !important;
-    opacity: 0.6 !important;
-    position: absolute !important; 
-    right: 15px !important; /* Afastado da borda */
-    text-decoration: none !important;
-    color: #ffffff !important; /* Correntinha branca para combinar */
-}
-
-/* 5. AJUSTES DE CONTEÚDO */
+/* 4. CONTEÚDO E CENTRALIZAÇÃO */
 .callout[data-callout="infobox"] .callout-content {
     padding: 0 !important;
     display: flex !important;
@@ -63,39 +53,54 @@
     align-items: center !important;
 }
 
-/* Subtítulos dentro da Infobox (Informações Biográficas) */
-.callout[data-callout="infobox"] .callout-content :is(h1, h2, h3, h4, h5, h6) {
-    display: flex !important;
-    justify-content: center !important;
-    align-items: center !important;
+/* Centralização de Títulos Internos (Informações Biográficas) */
+/* Usamos seletores ultra-específicos para vencer o tema geral */
+.callout[data-callout="infobox"] .callout-content h1,
+.callout[data-callout="infobox"] .callout-content h2,
+.callout[data-callout="infobox"] .callout-content h3,
+.callout[data-callout="infobox"] .callout-content h4,
+.callout[data-callout="infobox"] .callout-content h5,
+.callout[data-callout="infobox"] .callout-content h6 {
+    display: block !important;
     width: 100% !important;
-    position: relative !important;
-    margin: 20px 0 10px 0 !important;
-    padding: 0 !important;
+    text-align: center !important;
+    color: #ffffff !important; /* Força o Branco */
     font-family: 'Unutterable', serif !important;
-    color: #ffffff !important; /* Texto em Branco */
+    margin: 20px 0 10px 0 !important;
     border: none !important;
+    position: relative !important;
 }
 
-/* Imagem Flat */
+/* 5. TRATAMENTO DA ÂNCORA (CORRENTINHA) */
+/* Como você quer manter, vamos forçar ela a ficar no canto e não empurrar o texto */
+.callout[data-callout="infobox"] .heading-anchor {
+    position: absolute !important;
+    right: 10px !important;
+    top: 50% !important;
+    transform: translateY(-50%) !important;
+    color: rgba(255, 255, 255, 0.5) !important; /* Correntinha branca suave */
+    text-decoration: none !important;
+}
+
+/* 6. IMAGEM FLAT */
 .callout[data-callout="infobox"] img, 
 .callout[data-callout="infobox"] .internal-embed {
     width: 100% !important;
+    max-width: 100% !important;
     display: block !important;
     margin: 0 !important;
 }
 
-/* 6. TABELAS (Mantendo Categorias em Vermelho) */
+/* 7. TABELA */
 .callout[data-callout="infobox"] table {
     margin: 10px auto 20px auto !important;
-    border-collapse: collapse !important;
     width: 90% !important;
+    border-collapse: collapse !important;
 }
 
 .callout[data-callout="infobox"] td:first-child {
-    color: #ff4d4d !important; /* Categorias (Tipo, Grau, etc) continuam vermelhas */
+    color: #ff4d4d !important; /* Labels em vermelho */
     font-weight: bold !important;
-    font-size: 0.9em !important;
     text-align: left !important;
 }
 
@@ -103,8 +108,9 @@
     border-bottom: 1px solid rgba(125, 25, 25, 0.3) !important;
 }
 
-/* 7. TÍTULOS GERAIS DO SITE (Fora da Infobox) */
-h1, h2, h3, h4, h5, h6 {
+/* 8. ESTILOS EXTERNOS (Fora da Infobox) */
+/* Mantém o resto do site com títulos vermelhos */
+body h1, body h2, body h3, body h4, body h5, body h6 {
     font-family: 'Unutterable', serif !important;
-    color: #ff4d4d !important; /* Títulos do site continuam vermelhos */
+    color: #ff4d4d !important;
 }
