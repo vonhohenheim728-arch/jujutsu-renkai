@@ -89,13 +89,6 @@ h1, h2, h3, h4 {
     font-family: 'Jujutsu';
     src: url('./fonts/Jujutsu Kaisen.ttf'); /* Verifique se o caminho está certo */
 }
-
-/* 1. Registro das Fontes (Caminho absoluto para garantir o carregamento) */
-@font-face {
-    font-family: 'Jujutsu';
-    src: url('/fonts/jujutsu.ttf') format('truetype');
-}
-
 @font-face {
     font-family: 'Unutterable';
     src: url('/fonts/Unutterable-rv3x8.ttf') format('truetype');
