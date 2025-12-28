@@ -109,3 +109,12 @@ h1, h2, h3, h4, .callout[data-callout="infobox"] h6 {
     color: #ff4d4d !important;
     text-transform: uppercase;
 }
+/* Remove o pentagrama e deixa os títulos limpos */
+h1, h2, h3, h4, h5, h6, 
+.callout[data-callout="infobox"] .callout-title-inner,
+.callout[data-callout="infobox"] h6 {
+    font-family: 'Unutterable', serif !important;
+    text-transform: none !important; /* Desativa o modo MAIÚSCULO que ativa o símbolo */
+    font-variant: normal !important;
+    color: #ff4d4d !important;
+}

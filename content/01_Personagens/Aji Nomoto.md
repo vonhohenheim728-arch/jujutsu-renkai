@@ -10,7 +10,7 @@
 > | **Status** | Vivo |
 > | **Grupo** | [[Escola de Tókyō]] |
 
-### **RESUMO**   O o O 0
+### **RESUMO**
 
 **Aji Nomoto** é feiticeiro grau 4 da [[Escola de Tókyō]], recrutado por [[Kaiba Yoshifusa]] meses antes d'[[O Colapso de Tókyō|O Colapso]].
 
