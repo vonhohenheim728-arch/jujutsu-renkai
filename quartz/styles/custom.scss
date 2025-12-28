@@ -1,6 +1,6 @@
 @use "./base.scss";
 
-/* 1. REGISTRO DAS FONTES (Caminho corrigido para styles/fonts) */
+/* 1. REGISTRO DAS FONTES */
 @font-face {
     font-family: 'Jujutsu';
     src: url('./fonts/jujutsu.ttf') format('truetype');
@@ -11,20 +11,20 @@
     src: url('./fonts/Unutterable-rv3x8.ttf') format('truetype');
 }
 
-/* 2. ESTILO DA INFOBOX (Mantendo todas as suas funções) */
+/* 2. ESTILO DA INFOBOX (Container Principal) */
 .callout[data-callout="infobox"] {
     float: right !important;
     width: 320px !important;
     margin-left: 20px !important;
     margin-bottom: 15px !important;
-    background-color: transparent !important; /* Sua função de fundo */
-    border: 2px solid #7d1919 !important; /* Sua borda vermelha */
+    background-color: transparent !important;
+    border: 2px solid #7d1919 !important;
     border-radius: 2px !important;
     padding: 0 !important;
     clear: right;
 }
 
-/* 3. NOME DO PERSONAGEM (Topo da Infobox) */
+/* 3. TÍTULO NO TOPO (Nome do Personagem) */
 .callout[data-callout="infobox"] .callout-title {
     background-color: #7d1919 !important;
     display: flex !important;
@@ -43,85 +43,68 @@
 }
 
 .callout[data-callout="infobox"] .callout-icon {
-    display: none !important; /* Sua função de remover o ícone */
+    display: none !important;
 }
 
-/* 4. TÍTULOS DO SITE (Fonte de terror limpa) */
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'Unutterable', serif !important;
-    color: #ff4d4d !important;
-    text-transform: none !important;
-    font-variant: normal !important;
+/* 4. REMOVER ÍCONES DE CORRENTE (ÂNCORAS) */
+/* Isso remove o que estava entortando o texto */
+.callout[data-callout="infobox"] .heading-anchor,
+.callout[data-callout="infobox"] a.heading-anchor {
+    display: none !important;
 }
 
-/* 5. AJUSTES DE ALINHAMENTO DA INFOBOX */
-
-/* Remove qualquer recuo que o Quartz coloca por padrão no conteúdo */
+/* 5. AJUSTES DE CONTEÚDO (Imagem e Subtítulos) */
 .callout[data-callout="infobox"] .callout-content {
     padding: 0 !important;
     display: flex !important;
     flex-direction: column !important;
     align-items: center !important;
-}
-
-/* Centraliza o Título do Personagem e remove folgas */
-.callout[data-callout="infobox"] .callout-content h1 {
-    width: 100% !important;
     text-align: center !important;
-    margin: 15px 0 !important;
-    padding: 0 !important;
-    display: block !important;
 }
 
-/* Garante que a imagem ocupe o espaço e não tenha margens que a empurrem */
+/* Imagem Flat (Ocupando toda a largura) */
 .callout[data-callout="infobox"] img, 
 .callout[data-callout="infobox"] .internal-embed {
     width: 100% !important;
     display: block !important;
     margin: 0 !important;
+    border-radius: 0 !important;
 }
 
-/* Centraliza o "Informações Biográficas" e remove o ícone de link que entorta o texto */
-.callout[data-callout="infobox"] :is(h1, h2, h3, h4, h5, h6) {
+/* Subtítulos (Informações Biográficas, etc) */
+.callout[data-callout="infobox"] .callout-content :is(h1, h2, h3, h4, h5, h6) {
+    display: block !important;
     width: 100% !important;
     text-align: center !important;
     margin: 20px 0 10px 0 !important;
+    padding: 0 !important;
+    font-family: 'Unutterable', serif !important;
+    color: #ff4d4d !important;
+    border: none !important;
 }
 
-/* Isso aqui remove aquele ícone de corrente/link que fica do lado do título e joga ele pra esquerda */
-.callout[data-callout="infobox"] a.heading-anchor {
-    display: none !important;
-}
-
-/* 6. TABELAS (Mantendo suas cores e linhas) */
+/* 6. TABELAS (Informações Técnicas) */
 .callout[data-callout="infobox"] table {
-    margin: 10px auto !important;
+    margin: 10px auto 20px auto !important;
     border-collapse: collapse !important;
     width: 90% !important;
 }
 
 .callout[data-callout="infobox"] td:first-child {
-    color: #ff4d4d !important; /* Suas categorias em vermelho */
+    color: #ff4d4d !important;
     font-weight: bold !important;
     font-size: 0.9em !important;
     text-align: left !important;
 }
 
 .callout[data-callout="infobox"] tr {
-    border-bottom: 1px solid rgba(125, 25, 25, 0.3) !important; /* Suas linhas sutis */
+    border-bottom: 1px solid rgba(125, 25, 25, 0.3) !important;
 }
 
-/* Remove o ícone de corrente (link) que desalinha o texto na Infobox */
-.callout[data-callout="infobox"] .heading-anchor,
-.callout[data-callout="infobox"] a.heading-anchor {
-    display: none !important;
-}
-
-/* Garante que o título não tenha margens laterais que o empurrem */
-.callout[data-callout="infobox"] :is(h1, h2, h3, h4, h5, h6) {
-    padding-left: 0 !important;
-    padding-right: 0 !important;
-    margin-left: 0 !important;
-    margin-right: 0 !important;
-    text-indent: 0 !important;
+/* 7. TÍTULOS GERAIS DO SITE (Fora da Infobox) */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Unutterable', serif !important;
+    color: #ff4d4d !important;
+    text-transform: none !important;
+    font-variant: normal !important;
 }
