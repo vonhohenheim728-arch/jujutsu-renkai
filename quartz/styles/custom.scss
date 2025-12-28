@@ -54,22 +54,43 @@ h1, h2, h3, h4, h5, h6 {
     font-variant: normal !important;
 }
 
-/* 5. TÍTULOS DENTRO DA INFOBOX (CENTRALIZAÇÃO TOTAL) */
+/* 5. AJUSTES DE CONTEÚDO (IMAGEM E TÍTULOS) */
 
-/* Alvos: todos os níveis de cabeçalho (h1 até h6) dentro da infobox */
+/* Centraliza tudo dentro da infobox */
+.callout[data-callout="infobox"] .callout-content {
+    padding: 10px 0 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important; /* Centraliza horizontalmente o conteúdo flex */
+    justify-content: center !important;
+}
+
+/* Garante que o parágrafo que contém a imagem não tenha recuo e centralize */
+.callout[data-callout="infobox"] .callout-content p {
+    width: 100% !important;
+    display: flex !important;
+    justify-content: center !important;
+    margin: 10px 0 !important;
+}
+
+/* Garante que a imagem em si seja tratada como bloco centralizado */
+.callout[data-callout="infobox"] img {
+    display: block !important;
+    margin: 0 auto !important;
+    border-radius: 4px !important;
+}
+
+/* Títulos internos (Informações Biográficas, etc) */
 .callout[data-callout="infobox"] .callout-content h1, 
 .callout[data-callout="infobox"] .callout-content h2, 
 .callout[data-callout="infobox"] .callout-content h3, 
 .callout[data-callout="infobox"] .callout-content h4,
 .callout[data-callout="infobox"] .callout-content h5,
 .callout[data-callout="infobox"] .callout-content h6 {
-    display: block !important;
-    text-align: center !important; /* Centraliza o texto */
-    width: 100% !important;        /* Garante que ocupe a largura toda */
-    margin: 20px 0 10px 0 !important;
-    padding: 0 !important;
-    left: 0 !important;           /* Remove possíveis deslocamentos */
-    right: 0 !important;
+    text-align: center !important;
+    width: 100% !important;
+    margin: 15px 0 5px 0 !important;
+    font-family: 'Unutterable', serif !important; /* Mantendo o estilo de terror */
 }
 
 /* 6. TABELAS (Mantendo suas cores e linhas) */
