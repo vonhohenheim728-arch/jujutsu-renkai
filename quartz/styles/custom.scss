@@ -1,6 +1,6 @@
 @use "./base.scss";
 
-/* 1. FONTES (Caminhos confirmados para styles/fonts) */
+/* 1. FONTES */
 @font-face {
     font-family: 'Jujutsu';
     src: url('./fonts/jujutsu.ttf') format('truetype');
@@ -10,8 +10,7 @@
     src: url('./fonts/Unutterable-rv3x8.ttf') format('truetype');
 }
 
-/* 2. ESTILOS GERAIS DO SITE (Fora da Infobox) */
-/* Isso garante que o resto do site continue vermelho */
+/* 2. ESTILOS GERAIS DO SITE */
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Unutterable', serif !important;
     color: #ff4d4d !important;
@@ -43,18 +42,17 @@ h1, h2, h3, h4, h5, h6 {
 
 .callout[data-callout="infobox"] .callout-title-inner {
     font-family: 'Jujutsu', sans-serif !important;
-    color: #ffffff !important; /* Força o Branco no nome */
+    color: #ffffff !important;
     font-size: 1.8em !important;
     text-align: center !important;
     width: 100% !important;
-    display: block !important;
 }
 
 .callout[data-callout="infobox"] .callout-icon {
     display: none !important;
 }
 
-/* 5. CONTEÚDO E CENTRALIZAÇÃO TOTAL */
+/* 5. CENTRALIZAÇÃO DA IMAGEM E TÍTULO INTERNO (DO SEGUNDO CÓDIGO) */
 .callout[data-callout="infobox"] .callout-content {
     padding: 0 !important;
     display: flex !important;
@@ -62,42 +60,29 @@ h1, h2, h3, h4, h5, h6 {
     align-items: center !important;
 }
 
-/* CENTRALIZAÇÃO REAL DO "INFORMAÇÕES BIOGRÁFICAS" */
-.callout[data-callout="infobox"] h1, 
-.callout[data-callout="infobox"] h2, 
-.callout[data-callout="infobox"] h3, 
-.callout[data-callout="infobox"] h4 {
-    display: flex !important;
-    justify-content: center !important;
-    align-items: center !important;
-    width: 100% !important;
+.callout[data-callout="infobox"] img {
+    display: block !important;
+    margin: 15px auto !important; 
+    border-radius: 4px !important;
+    max-width: 90% !important;
+}
+
+/* Centraliza o texto "Informações Biográficas" */
+.callout[data-callout="infobox"] .callout-content :is(h1, h2, h3, h4, h5, h6) {
+    display: block !important;
     text-align: center !important;
-    color: #ffffff !important; /* Força o Branco aqui também */
+    width: 100% !important;
+    color: #ffffff !important; /* Mude para #ff4d4d se quiser vermelho */
     font-family: 'Unutterable', serif !important;
     margin: 20px 0 10px 0 !important;
     border: none !important;
 }
 
-/* 6. TRATAMENTO DA ÂNCORA (CORRENTINHA) */
-/* Ela continuará existindo, mas sem empurrar o texto */
-.callout[data-callout="infobox"] .heading-anchor {
-    position: absolute !important;
-    right: 10px !important;
-    color: rgba(255, 255, 255, 0.3) !important;
-}
-
-/* 7. IMAGEM */
-.callout[data-callout="infobox"] img {
-    width: 100% !important;
-    display: block !important;
-    margin: 0 auto !important;
-}
-
-/* 8. TABELA INTERNA (TEXTOS PRÓXIMOS E SEM QUEBRA) */
+/* 6. TABELA INTERNA (UNIDA E SEM QUEBRA - DO PRIMEIRO CÓDIGO) */
 .callout[data-callout="infobox"] table {
     margin: 10px auto 20px auto !important;
-    width: auto !important; /* Deixa a tabela ter apenas o tamanho do texto */
-    min-width: 85% !important; /* Mas garante que não fique pequena demais */
+    width: auto !important; 
+    min-width: 85% !important;
     max-width: 95% !important;
     border-collapse: collapse !important;
 }
@@ -106,18 +91,25 @@ h1, h2, h3, h4, h5, h6 {
     color: #ff4d4d !important;
     font-weight: bold !important;
     text-align: left !important;
-    padding-right: 20px !important; /* Espaço fixo entre a legenda e o valor */
+    padding-right: 20px !important; /* Mantém os textos próximos */
     white-space: nowrap !important;
     font-size: 0.85em !important;
 }
 
 .callout[data-callout="infobox"] td:last-child {
-    text-align: left !important; /* Mudamos para esquerda para ficar perto da legenda */
+    text-align: left !important; 
     color: #ffffff !important;
-    white-space: nowrap !important; /* Força a Escola de Tókyō em uma linha */
+    white-space: nowrap !important;
     font-size: 0.9em !important;
 }
 
 .callout[data-callout="infobox"] tr {
     border-bottom: 1px solid rgba(125, 25, 25, 0.3) !important;
+}
+
+/* 7. TRATAMENTO DA ÂNCORA */
+.callout[data-callout="infobox"] .heading-anchor {
+    position: absolute !important;
+    right: 10px !important;
+    color: rgba(255, 255, 255, 0.3) !important;
 }
