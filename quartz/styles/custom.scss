@@ -90,29 +90,29 @@ h1, h2, h3, h4 {
     src: url('./fonts/Jujutsu Kaisen.ttf'); /* Verifique se o caminho está certo */
 }
 
-/* Registrando a fonte Unutterable (para títulos com acentos) */
-@font-face {
-    font-family: 'Unutterable';
-    src: url('./fonts/Unutterable-rv3x8.ttf');
-}
-/* 1. Registro da Fonte (Certifique-se de renomear o arquivo para jujutsu.ttf) */
+/* 1. Registro das Fontes (Caminho absoluto para garantir o carregamento) */
 @font-face {
     font-family: 'Jujutsu';
     src: url('/fonts/jujutsu.ttf') format('truetype');
 }
 
-/* 2. Aplicação no Nome do Personagem */
-.callout[data-callout="infobox"] .callout-title-inner {
+@font-face {
+    font-family: 'Unutterable';
+    src: url('/fonts/Unutterable-rv3x8.ttf') format('truetype');
+}
+
+/* 2. NOME DO PERSONAGEM (Topo da Infobox) */
+.callout[data-callout="infobox"] > .callout-title > .callout-title-inner {
     font-family: 'Jujutsu', sans-serif !important;
-    font-size: 2.2em !important; 
+    font-size: 1.6em !important; /* Tamanho reduzido para não estourar */
     color: #ffffff !important;
     text-align: center !important;
-    width: 100% !important;
     display: block !important;
+    width: 100% !important;
     text-transform: none !important;
 }
 
-/* 3. Ajuste para os outros títulos da Infobox (Informações Biográficas) */
+/* 3. TÍTULOS INTERNOS (Ex: Informações Biográficas) */
 .callout[data-callout="infobox"] h1, 
 .callout[data-callout="infobox"] h2, 
 .callout[data-callout="infobox"] h3, 
@@ -120,9 +120,17 @@ h1, h2, h3, h4 {
 .callout[data-callout="infobox"] h5, 
 .callout[data-callout="infobox"] h6 {
     font-family: 'Unutterable', serif !important;
+    font-size: 1.1em !important; /* Tamanho menor e controlado */
     text-align: center !important;
     color: #ffffff !important;
-    text-transform: none !important; /* Remove o pentagrama */
+    text-transform: none !important; /* Sem pentagrama */
+    margin: 15px 0 5px 0 !important;
+    border: none !important;
+}
+
+/* 4. TEXTO DAS TABELAS (Tipo, Grau, etc) */
+.callout[data-callout="infobox"] td {
+    font-size: 0.85em !important; /* Garante que os dados da tabela fiquem pequenos */
 }
 /* Remove o pentagrama e deixa os títulos limpos */
 h1, h2, h3, h4, h5, h6, 
