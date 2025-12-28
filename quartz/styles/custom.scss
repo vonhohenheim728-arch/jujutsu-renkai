@@ -63,12 +63,18 @@ h1, h2, h3, h4, h5, h6 {
 .callout[data-callout="infobox"] h2, 
 .callout[data-callout="infobox"] h3, 
 .callout[data-callout="infobox"] h4 {
-    font-family: var(--bodyFont) !important; /* Sem fonte especial para não bugar */
+    font-family: var(--bodyFont) !important;
     font-size: 1.1em !important;
-    text-align: center !important;
     color: #ffffff !important;
     border: none !important;
     margin: 15px 0 5px 0 !important;
+    
+    /* Forçando a centralização real */
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    width: 100% !important;
+    text-align: center !important;
 }
 
 /* 6. TABELAS DA INFOBOX */
