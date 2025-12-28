@@ -1,10 +1,7 @@
 @use "./base.scss";
 
 /* 1. FONTES */
-@font-face {
-    font-family: 'Jujutsu';
-    src: url('./fonts/jujutsu.ttf') format('truetype');
-}
+
 @font-face {
     font-family: 'Unutterable';
     src: url('./fonts/Unutterable-rv3x8.ttf') format('truetype');
@@ -41,7 +38,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .callout[data-callout="infobox"] .callout-title-inner {
-    font-family: 'Jujutsu', sans-serif !important;
     color: #ffffff !important;
     font-size: 1.8em !important;
     text-align: center !important;
@@ -72,7 +68,7 @@ h1, h2, h3, h4, h5, h6 {
     display: block !important;
     text-align: center !important;
     width: 100% !important;
-    color: #ff4d4d !important; /* Voltamos para o vermelho que você pediu */
+    color: #ffffff !important;  /* <--- TROQUE AQUI PARA FICAR BRANCO */
     font-family: 'Unutterable', serif !important;
     margin: 20px 0 10px 0 !important;
     border: none !important;
