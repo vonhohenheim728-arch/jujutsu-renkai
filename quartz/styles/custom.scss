@@ -90,19 +90,26 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0 auto !important;
 }
 
-/* 8. TABELA INTERNA */
+/* 8. TABELA INTERNA (AJUSTE DE LARGURA PARA NÃO QUEBRAR TEXTO) */
 .callout[data-callout="infobox"] table {
     margin: 10px auto 20px auto !important;
-    width: 90% !important;
+    width: 95% !important; /* Aumenta a largura total da tabela na caixa */
     border-collapse: collapse !important;
+    table-layout: auto !important; /* Permite que as colunas se ajustem ao conteúdo */
 }
 
 .callout[data-callout="infobox"] td:first-child {
-    color: #ff4d4d !important; /* Labels em Vermelho como você gosta */
+    color: #ff4d4d !important;
     font-weight: bold !important;
     text-align: left !important;
+    width: 30% !important; /* Diminuímos a largura da etiqueta (Tipo, Grupo) */
+    white-space: nowrap !important; /* Garante que a etiqueta não quebre */
+    padding-right: 10px !important;
 }
 
-.callout[data-callout="infobox"] tr {
-    border-bottom: 1px solid rgba(125, 25, 25, 0.3) !important;
+.callout[data-callout="infobox"] td:last-child {
+    text-align: right !important;
+    color: #ffffff !important;
+    width: 70% !important; /* Damos mais espaço para o valor (Escola de Tókyō) */
+    word-break: keep-all !important; /* Evita quebra de palavras */
 }
