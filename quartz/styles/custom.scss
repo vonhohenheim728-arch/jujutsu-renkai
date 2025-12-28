@@ -46,41 +46,46 @@
     display: none !important;
 }
 
-/* 4. REMOVER ÍCONES DE CORRENTE (ÂNCORAS) */
-/* Isso remove o que estava entortando o texto */
+/* 4. REMOVER QUALQUER ÍCONE DE ÂNCORA/CORRENTE NA INFOBOX */
+/* Alvos: o link em si, o ícone SVG dentro dele, e qualquer símbolo gerado por CSS */
 .callout[data-callout="infobox"] .heading-anchor,
-.callout[data-callout="infobox"] a.heading-anchor {
+.callout[data-callout="infobox"] .heading-anchor *,
+.callout[data-callout="infobox"] a[aria-label*="Link"],
+.callout[data-callout="infobox"] a.anchor,
+.callout[data-callout="infobox"] :is(h1, h2, h3, h4, h5, h6)::before,
+.callout[data-callout="infobox"] :is(h1, h2, h3, h4, h5, h6)::after {
     display: none !important;
+    visibility: hidden !important;
+    width: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    content: none !important;
 }
 
-/* 5. AJUSTES DE CONTEÚDO (Imagem e Subtítulos) */
+/* 5. AJUSTES DE CONTEÚDO (Centralização Absoluta) */
 .callout[data-callout="infobox"] .callout-content {
     padding: 0 !important;
     display: flex !important;
     flex-direction: column !important;
     align-items: center !important;
-    text-align: center !important;
 }
 
-/* Imagem Flat (Ocupando toda a largura) */
+/* Garante que o texto ocupe o espaço do ícone removido */
+.callout[data-callout="infobox"] .callout-content :is(h1, h2, h3, h4, h5, h6) {
+    width: 100% !important;
+    text-align: center !important;
+    margin: 20px 0 10px 0 !important;
+    padding: 0 !important;
+    display: block !important;
+    position: relative !important; /* Reseta posicionamentos que o ícone usava */
+}
+
+/* Imagem Flat */
 .callout[data-callout="infobox"] img, 
 .callout[data-callout="infobox"] .internal-embed {
     width: 100% !important;
     display: block !important;
     margin: 0 !important;
-    border-radius: 0 !important;
-}
-
-/* Subtítulos (Informações Biográficas, etc) */
-.callout[data-callout="infobox"] .callout-content :is(h1, h2, h3, h4, h5, h6) {
-    display: block !important;
-    width: 100% !important;
-    text-align: center !important;
-    margin: 20px 0 10px 0 !important;
-    padding: 0 !important;
-    font-family: 'Unutterable', serif !important;
-    color: #ff4d4d !important;
-    border: none !important;
 }
 
 /* 6. TABELAS (Informações Técnicas) */
