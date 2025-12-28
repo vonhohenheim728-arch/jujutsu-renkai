@@ -83,11 +83,15 @@ h1, h2, h3, h4, h5, h6 {
     color: rgba(255, 255, 255, 0.3) !important;
 }
 
-/* 7. IMAGEM */
-.callout[data-callout="infobox"] img {
-    width: 100% !important;
+/* 5. CENTRALIZAÇÃO DA IMAGEM E TÍTULO INTERNO */
+
+/* Centraliza a imagem no meio da caixa */
+.callout[data-callout="infobox"] img,
+.callout[data-callout="infobox"] .internal-link img {
     display: block !important;
-    margin: 0 auto !important;
+    margin: 15px auto !important; /* Centraliza horizontalmente */
+    border-radius: 4px !important;
+    max-width: 90% !important;
 }
 
 /* 8. TABELA INTERNA (TEXTOS PRÓXIMOS E SEM QUEBRA) */
