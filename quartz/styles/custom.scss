@@ -83,21 +83,22 @@ h1, h2, h3, h4 {
     background-color: #7d1919 !important;
     margin: 0 !important;
     padding: 10px 0 !important;
-}
-/* Registrando a fonte de Jujutsu (para o nome do personagem) */
+}/* 1. REGISTRO DAS FONTES - Garanta que o arquivo na pasta fonts se chame jujutsu.ttf */
+
 @font-face {
     font-family: 'Jujutsu';
-    src: url('./fonts/Jujutsu Kaisen.ttf'); /* Verifique se o caminho está certo */
+    src: url('/fonts/jujutsu.ttf') format('truetype');
 }
+
 @font-face {
     font-family: 'Unutterable';
     src: url('/fonts/Unutterable-rv3x8.ttf') format('truetype');
 }
 
-/* 2. NOME DO PERSONAGEM (Topo da Infobox) */
+/* 2. NOME DO PERSONAGEM (Topo da Infobox) - Único lugar com a fonte Jujutsu */
 .callout[data-callout="infobox"] > .callout-title > .callout-title-inner {
     font-family: 'Jujutsu', sans-serif !important;
-    font-size: 1.6em !important; /* Tamanho reduzido para não estourar */
+    font-size: 1.6em !important;
     color: #ffffff !important;
     text-align: center !important;
     display: block !important;
@@ -105,32 +106,26 @@ h1, h2, h3, h4 {
     text-transform: none !important;
 }
 
-/* 3. TÍTULOS INTERNOS (Ex: Informações Biográficas) */
+/* 3. TÍTULOS DO SITE (RESUMO, A GANGUE) - Usam a fonte Unutterable limpa */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Unutterable', serif !important;
+    color: #ff4d4d !important;
+    text-transform: none !important; /* Remove o pentagrama */
+    font-variant: normal !important;
+}
+
+/* 4. INFORMAÇÕES BIOGRÁFICAS (Título dentro da Infobox) - Sem fonte especial para não crescer */
 .callout[data-callout="infobox"] h1, 
 .callout[data-callout="infobox"] h2, 
 .callout[data-callout="infobox"] h3, 
 .callout[data-callout="infobox"] h4, 
 .callout[data-callout="infobox"] h5, 
 .callout[data-callout="infobox"] h6 {
-    font-family: 'Unutterable', serif !important;
-    font-size: 1.1em !important; /* Tamanho menor e controlado */
+    font-family: var(--bodyFont) !important; /* Fonte padrão do site */
+    font-size: 1.1em !important;
     text-align: center !important;
     color: #ffffff !important;
-    text-transform: none !important; /* Sem pentagrama */
-    margin: 15px 0 5px 0 !important;
+    margin: 10px 0 !important;
     border: none !important;
-}
-
-/* 4. TEXTO DAS TABELAS (Tipo, Grau, etc) */
-.callout[data-callout="infobox"] td {
-    font-size: 0.85em !important; /* Garante que os dados da tabela fiquem pequenos */
-}
-/* Remove o pentagrama e deixa os títulos limpos */
-h1, h2, h3, h4, h5, h6, 
-.callout[data-callout="infobox"] .callout-title-inner,
-.callout[data-callout="infobox"] h6 {
-    font-family: 'Unutterable', serif !important;
-    text-transform: none !important; /* Desativa o modo MAIÚSCULO que ativa o símbolo */
-    font-variant: normal !important;
-    color: #ff4d4d !important;
+    text-transform: none !important;
 }
