@@ -15,7 +15,7 @@ Após a [[Crise dos 3 Clãs]] (Dia 45-60), a estrutura de liderança foi reorgan
 **Conselho Temporário:**
 
 - **[[Morine Shunko]]** - Diretora (poder executivo)
-- Representante dos [[Três Grandes Clãs]] (poder consultivo)
+- Representante dos Três Grandes Clãs (poder consultivo)
 - Representante Civil (legitimação popular)
 
 **Nota Crítica:** A escola perdeu toda sua força de elite na [[Guerra dos Seis - 六人戦争]]. Feiticeiros grau 4 (anteriormente considerados soldados rasos) são agora espinha dorsal das operações.
