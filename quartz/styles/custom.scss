@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
     display: none !important;
 }
 
-/* 5. CENTRALIZAÇÃO DA IMAGEM E TÍTULO INTERNO (DO SEGUNDO CÓDIGO) */
+/* 5. CENTRALIZAÇÃO DA IMAGEM E TÍTULO INTERNO */
 .callout[data-callout="infobox"] .callout-content {
     padding: 0 !important;
     display: flex !important;
@@ -67,23 +67,20 @@ h1, h2, h3, h4, h5, h6 {
     max-width: 90% !important;
 }
 
-/* Centraliza o texto "Informações Biográficas" */
 .callout[data-callout="infobox"] .callout-content :is(h1, h2, h3, h4, h5, h6) {
     display: block !important;
     text-align: center !important;
     width: 100% !important;
-    color: #ffffff !important; /* Mude para #ff4d4d se quiser vermelho */
+    color: #ffffff !important;
     font-family: 'Unutterable', serif !important;
     margin: 20px 0 10px 0 !important;
     border: none !important;
 }
 
-/* 6. TABELA INTERNA (UNIDA E SEM QUEBRA - DO PRIMEIRO CÓDIGO) */
+/* 6. TABELA (RESOLVENDO A QUEBRA DE TEXTO) */
 .callout[data-callout="infobox"] table {
     margin: 10px auto 20px auto !important;
-    width: auto !important; 
-    min-width: 85% !important;
-    max-width: 95% !important;
+    width: 95% !important;
     border-collapse: collapse !important;
 }
 
@@ -91,16 +88,15 @@ h1, h2, h3, h4, h5, h6 {
     color: #ff4d4d !important;
     font-weight: bold !important;
     text-align: left !important;
-    padding-right: 20px !important; /* Mantém os textos próximos */
-    white-space: nowrap !important;
-    font-size: 0.85em !important;
+    padding-right: 10px !important;
+    white-space: nowrap !important; /* Impede a legenda de quebrar */
+    width: 1% !important; /* Força a coluna a ser o menor possível */
 }
 
 .callout[data-callout="infobox"] td:last-child {
-    text-align: left !important; 
+    text-align: right !important; 
     color: #ffffff !important;
-    white-space: nowrap !important;
-    font-size: 0.9em !important;
+    white-space: nowrap !important; /* Impede "Escola de Tókyō" de quebrar */
 }
 
 .callout[data-callout="infobox"] tr {
