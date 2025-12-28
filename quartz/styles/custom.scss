@@ -54,11 +54,21 @@ h1, h2, h3, h4, h5, h6 {
     font-variant: normal !important;
 }
 
-/* 5. TÍTULOS DENTRO DA INFOBOX (FORÇANDO CENTRALIZAÇÃO REAL) */
-.callout[data-callout="infobox"] .callout-content h1, 
-.callout[data-callout="infobox"] .callout-content h2, 
-.callout[data-callout="infobox"] .callout-content h3, 
-.callout[data-callout="infobox"] .callout-content h4 {
+/* 5. TÍTULOS DENTRO DA INFOBOX (REMOVENDO RECUO PADRÃO) */
+
+/* Remove o recuo interno do Quartz que empurra o texto para o lado */
+.callout[data-callout="infobox"] .callout-content {
+    padding: 0 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+}
+
+/* Garante que o título ocupe 100% da largura e centralize o texto */
+.callout[data-callout="infobox"] h1, 
+.callout[data-callout="infobox"] h2, 
+.callout[data-callout="infobox"] h3, 
+.callout[data-callout="infobox"] h4 {
     display: block !important;
     text-align: center !important;
     width: 100% !important;
@@ -66,9 +76,7 @@ h1, h2, h3, h4, h5, h6 {
     padding: 0 !important;
     color: #ff4d4d !important;
     border: none !important;
-    /* Remove qualquer recuo que o Quartz tente colocar no texto */
-    position: relative !important;
-    left: 0 !important;
+    font-family: var(--bodyFont) !important;
 }
 
 /* 6. TABELAS (Mantendo suas cores e linhas) */
