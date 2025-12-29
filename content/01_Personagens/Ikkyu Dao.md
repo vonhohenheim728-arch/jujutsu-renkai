@@ -14,7 +14,7 @@
 
 **kkyu Dao** é feiticeiro grau 4 da [[Escola de Tókyō]], ex-discípulo de Moto Geto (executado pela escola aproximadamente 1 ano antes d'[[O Colapso de Tókyō|O Colapso]]).
 
-Natural da Tailândia, Ikkyu veio ao Japão para treinar na [[Escola de Tókyō]]. Estudou sob orientação de **Moto Geto**, ao lado de **[[Takai Gojo]]**. Os três formavam trio próximo — mestre e dois discípulos.
+Natural da Tailândia, Ikkyu veio ao Japão para treinar na [[Escola de Tókyō]]. Estudou sob orientação de [[Moto Geto]], ao lado de **[[Takai Gojo]]**. Os três formavam trio próximo — mestre e dois discípulos.
 
 Ikkyu demonstrou aptidão para manipulação de maldições, técnica rara e complexa.
 
@@ -24,7 +24,7 @@ Aproximadamente 2-3 anos antes d'[[O Colapso de Tókyō|O Colapso]], Ikkyu deixo
 
 Não foi expulsão ou deserção — foi escolha. Ele estava "empacado" no desenvolvimento como feiticeiro e decidiu sair "pra tomar um ar do mundo feitiçeiro."
 
-Perdeu contato gradual com Moto Geto e [[Takai Gojo]].
+Perdeu contato gradual com [[Moto Geto]] e [[Takai Gojo]].
 
 ### **o Que Aconteceu Enquanto Estava Fora**
 
