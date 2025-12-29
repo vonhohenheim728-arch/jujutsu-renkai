@@ -7,7 +7,6 @@ grupo: Escola Tokyo
 relacoes:
   - "[[Takai Gojo]]"
   - "[[Ikkyu Dao]]"
-publish: true
 ---
 > [!infobox]+
 > # Moto Geto
@@ -21,7 +20,7 @@ publish: true
 > | **Status:** | Morto |
 > | **Grupo:** | [[Escola de Tókyō]] |
 
----
+
 **Moto Geto** foi feiticeiro grau especial da [[Escola de Tókyō]]. **Executado pela escola** aproximadamente 1 ano antes d'[[O Colapso de Tókyō|O Colapso]] sob acusação de traição.
 
 
