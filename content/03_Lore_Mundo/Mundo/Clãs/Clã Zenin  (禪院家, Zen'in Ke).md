@@ -1,4 +1,4 @@
-O **Clã Zenin** é um dos [[Três Grandes Clãs (御三家, _Gosanke_)]] de feiticeiros no Japão, ao lado dos [[Clã Gojo (五条家, _Gojō Ke_)]] e [[Clã Kamo (加茂家, _Kamo Ke_)]].
+O **Clã Zenin** é um dos [[Três Grandes Clãs (御三家, Gosanke)]] de feiticeiros no Japão, ao lado dos [[Clã Gojo (五条家, Gojō Ke)]] e [[Clã Kamo (加茂家, Kamo Ke)]].
 
 #### **Valores e Tradições**
 
@@ -24,12 +24,12 @@ O clã opera sob liderança de **chefe de família** (geralmente homem mais velh
 
 #### **Relação com Outros Clãs**
 
-**[[Clã Gojo (五条家, _Gojō Ke_)]]:** Rivalidade histórica. Zenin ressentiu poder desproporcional de usuários dos Seis Olhos.
+**[[Clã Gojo (五条家, Gojō Ke)]]:** Rivalidade histórica. Zenin ressentiu poder desproporcional de usuários dos Seis Olhos.
 
-**[[Clã Kamo (加茂家, _Kamo Ke_)]]:** Relação pragmática, frequentemente aliados por conveniência.
+**[[Clã Kamo (加茂家, Kamo Ke)]]:** Relação pragmática, frequentemente aliados por conveniência.
 
 #### **Pós-[[O Colapso de Tókyō|Colapso]]**
 
-O Clã Zenin perdeu membros significativos durante [[O Colapso de Tókyō|O Colapso]] e período subsequente. Status atual dentro da [[Escola de Tókyō]] e relação com [[Morine Shunko]] é tenso — como parte dos [[Três Grandes Clãs (御三家, _Gosanke_)]], Zenin tentou consolidar poder durante [[Crise dos 3 Clãs]] mas foi forçado a recuar.
+O Clã Zenin perdeu membros significativos durante [[O Colapso de Tókyō|O Colapso]] e período subsequente. Status atual dentro da [[Escola de Tókyō]] e relação com [[Morine Shunko]] é tenso — como parte dos [[Três Grandes Clãs (御三家, Gosanke)]], Zenin tentou consolidar poder durante [[Crise dos 3 Clãs]] mas foi forçado a recuar.
 
 Representante Zenin no Conselho Temporário mantém influência consultiva mas perdeu controle direto sobre operações da escola.

@@ -1,4 +1,4 @@
-O **Clã Gojo** é um dos [[Três Grandes Clãs (御三家, _Gosanke_)]], descendente de **Michizane Sugawara**, um dos renomados Três Grandes Espíritos Vingativos do Japão.
+O **Clã Gojo** é um dos [[Três Grandes Clãs (御三家, Gosanke)]], descendente de **Michizane Sugawara**, um dos renomados Três Grandes Espíritos Vingativos do Japão.
 
 #### **Técnicas Herdadas**
 
@@ -18,15 +18,15 @@ Historicamente, o Clã Gojo detinha influência política desproporcional devido
 
 - Voz significativa no Conselho
 - Capacidade de proteger indivíduos contra facções conservadoras
-- Rival político direto do [[Clã Zenin  (禪院家, _Zen'in Ke_)]]
+- Rival político direto do [[Clã Zenin  (禪院家, Zen'in Ke)]]
 
 Pode-se dizer que um único usuário dos Seis Olhos + Ilimitado possui poder político comparável a clãs inteiros.
 
-#### **Rivalidade com [[Clã Zenin  (禪院家, _Zen'in Ke_)]]**
+#### **Rivalidade com [[Clã Zenin  (禪院家, Zen'in Ke)]]**
 
 Contenda especialmente amarga entre Gojo e Zenin. Chefes passados dos dois clãs supostamente mataram um ao outro.
 
-[[Clã Zenin  (禪院家, _Zen'in Ke_)]] historicamente ressentiu poder desproporcional do Clã Gojo, considerando "injusto" que técnica de um indivíduo eclipsasse clã inteiro.
+[[Clã Zenin  (禪院家, Zen'in Ke)]] historicamente ressentiu poder desproporcional do Clã Gojo, considerando "injusto" que técnica de um indivíduo eclipsasse clã inteiro.
 
 #### **[[Takai Gojo]]**
 
@@ -40,7 +40,7 @@ Sua morte/desaparecimento foi perda catastrófica não apenas para o clã, mas p
 
 Com desaparecimento de [[Takai Gojo]], o Clã Gojo perdeu sua principal fonte de influência política.
 
-Durante [[Crise dos 3 Clãs]] (Dias 45-60), Clã Gojo tentou consolidar poder junto com [[Clã Zenin  (禪院家, _Zen'in Ke_)]] e [[Clã Kamo (加茂家, _Kamo Ke_)]], mas falhou.
+Durante [[Crise dos 3 Clãs]] (Dias 45-60), Clã Gojo tentou consolidar poder junto com [[Clã Zenin  (禪院家, Zen'in Ke)]] e [[Clã Kamo (加茂家, Kamo Ke)]], mas falhou.
 
 **Status atual:**
 
