@@ -1,6 +1,6 @@
 > [!infobox]+
 > #  
-> ![[Okane Zenin.jpg|cover|325]]
+> ![[Okane Zenin.png|cover|325]]
 > ###### Informações Biográficas
 > | | |
 > | --- | --- |
