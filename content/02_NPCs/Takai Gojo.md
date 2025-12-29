@@ -9,12 +9,12 @@ relacoes:
   - "[[Moto Geto]]"
 ---
 > [!infobox]+
-> # Ikkyu Dao
+> # Takai Gojo
 > ![[Takai Gojo.png|cover|325]]
 > ###### Informações Biográficas
 > | | |
 > | --- | --- |
-> | **Tipo:** | Player |
+> | **Tipo:** | NPC |
 > | **Categoria:** | Feiticeiro |
 > | **Grau:** | Especial |
 > | **Status:** | Desaparecido/Morto |
