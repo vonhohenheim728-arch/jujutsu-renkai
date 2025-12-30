@@ -18,7 +18,7 @@ Okane nasceu em ramo secundário do [[Clã Zenin (禪院家, Zen'in Ke)]], manif
 
 Para o [[Clã Zenin (禪院家, Zen'in Ke)]], que valoriza técnicas herdadas previsíveis e força bruta, versatilidade de Okane foi interpretada como **defeito**. Sua técnica era considerada incontrolável e perigosa. Desde jovem, foi tratada como anomalia indesejada.
 
-#### **Aoi Zenin**
+#### **[[Aoi Zenin]]**
 
 Única exceção ao desprezo familiar foi sua tia, **Aoi Zenin** — feiticeira grau 1 já afastada de disputas internas do clã. Aoi não possuía técnica hereditária poderosa, mas era reconhecida por controle refinado de energia amaldiçoada e pragmatismo que permitiu sobrevivência em ambiente hostil.
 
@@ -28,9 +28,7 @@ Aoi acolheu Okane quando pressão do clã se tornou insuportável. Foi quem ensi
 
 #### **Entrada na Escola**
 
-Contrariando diretamente vontade do [[Clã Zenin (禪院家, Zen'in Ke)]], Aoi insistiu para que Okane se candidatasse à [[Escola de Tókyō]]. Okane foi aceita [período não-especificado antes d'[[O Colapso de Tókyō|O Colapso]]].
-
-[Status de Aoi Zenin pós-[[O Colapso de Tókyō|Colapso]]: não-especificado]
+Contrariando diretamente vontade do [[Clã Zenin (禪院家, Zen'in Ke)|Clã Zenin]], Aoi insistiu para que Okane se candidatasse à [[Escola de Tókyō]]. Okane foi aceita [período não-especificado antes d'[[O Colapso de Tókyō|O Colapso]]].
 
 #### **Técnica**
 
@@ -44,11 +42,11 @@ Okane manifesta controle sobre múltiplos elementos (fogo, água, vento, terra) 
 
 **Treinamento na escola:** Foco em estabilização e controle refinado sob orientação de instrutores.
 
-#### **Relação com [[Clã Zenin (禪院家, Zen'in Ke)]]**
+#### **Relação com [[Clã Zenin (禪院家, Zen'in Ke)|Clã Zenin]]**
 
-Tensa. Okane mantém sobrenome mas não mantém laços próximos com clã. [[Clã Zenin (禪院家, Zen'in Ke)]] a vê como membro problemático/dispensável de ramo secundário.
+Tensa. Okane mantém sobrenome mas não mantém laços próximos com clã. [[Clã Zenin (禪院家, Zen'in Ke)|Clã Zenin]] a vê como membro problemático/dispensável de ramo secundário.
 
-Durante [[Crise dos 3 Clãs]] (Dias 45-60), Okane observou tentativa do [[Clã Zenin (禪院家, Zen'in Ke)]] (e outros [[Três Grandes Clãs  (御三家, Gosanke)]]) de consolidar controle sobre escola.
+Durante [[Crise dos 3 Clãs]] (Dias 45-60), Okane observou tentativa do [[Clã Zenin (禪院家, Zen'in Ke)|Clã Zenin]] (e outros [[Três Grandes Clãs  (御三家, Gosanke)|Três Grandes Clãs]]) de consolidar controle sobre escola.
 #### **Status Atual**
 
 Feiticeira grau 4 ativa. Opera em missões de campo conforme designação.

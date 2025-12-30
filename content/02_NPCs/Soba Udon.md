@@ -1,3 +1,25 @@
+---
+tipo: Personagem
+categoria: Feiticeiro
+grau: 4º Grau
+status: Vivo
+grupo: "[[Escola de Tókyō]]"
+relacoes:
+  - "[[Gyoza Udon]]"
+  - "[[Katsu Udon]]"
+---
+> [!infobox]+
+> # 
+> ![[|cover|325]]
+> ###### Informações Biográficas
+> | | |
+> | --- | --- |
+> | **Tipo:** | NPC |
+> | **Categoria:** |  |
+> | **Grau:** |  |
+> | **Status:** |  |
+> | **Grupo:** |  |---
+
 
 **Soba Udon** (そばうどん) é feiticeiro da [[Escola de Tókyō]], membro do Clã Udon.
 
