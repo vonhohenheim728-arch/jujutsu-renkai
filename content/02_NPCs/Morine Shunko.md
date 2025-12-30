@@ -6,29 +6,36 @@ status: Vivo
 grupo: Escola Tokyo
 relacoes:
   - "[[Kaiba Yoshifusa]]"
-publish: false
 ---
-![[Morine Shunko.png]]
-
----
+> [!infobox]+
+> # Kaiba Yoshifusa
+> ![[Morine Shunko.png|cover|325]]
+> ###### Informações Biográficas
+> | | |
+> | --- | --- |
+> | **Tipo:** | NPC |
+> | **Categoria:** | Feiticeiro |
+> | **Grau:** | 1º Grau |
+> | **Status:** | Vivo |
+> | **Grupo:** | [[Escola de Tókyō]] |---
 
 **Morine Shunko** é a Diretora da [[Escola de Tókyō]]. Após a [[Crise dos 3 Clãs]], a escola estabeleceu autonomia de facto, e o papel de Morine foi significativamente ampliado.
 
----
+
 #### **Antes da [[Crise dos 3 Clãs]]**
 
 Morine já era Diretora da [[Escola de Tókyō]] antes d'[[O Colapso de Tókyō|O Colapso]], mas — como todas as escolas de jujutsu no Japão — operava subordinada ao **Conselho** (corpo de anciões, majoritariamente dos Três Grandes Clãs, responsável por grandes decisões no mundo de jujutsu).
 
 Decisões importantes requeriam aprovação do Conselho. O papel de Diretor era mais administrativo que executivo.
 
----
+
 #### **Pós-[[O Colapso de Tókyō|Colapso]] - Isolamento**
 
 Com o isolamento de Kanto (Dia 30) e comunicação cortada com mundo exterior, a [[Escola de Tókyō]] perdeu contato prático com o Conselho. Decisões precisavam ser tomadas localmente, sem aprovação externa.
 
 Internamente, membros locais dos Três Grandes Clãs tentaram preencher vácuo de autoridade, pressionando Morine e outros administradores.
 
----
+
 #### **[[Crise dos 3 Clãs]] - Reestruturação**
 
 Durante a [[Crise dos 3 Clãs]], após execução de **Umeji Shintaro** (feiticeiro grau 3) por ordem de membros locais dos Três Grandes Clãs e subsequente tensão que levou escola à beira de motim, a estrutura de poder foi reorganizada.
@@ -41,7 +48,7 @@ Os [[Três Grandes Clãs (御三家, Gosanke)]] recuaram de tentativas de contro
 
 Tecnicamente, a [[Escola de Tókyō]] ainda "responde" ao Conselho, mas na prática opera de forma completamente autônoma.
 
----
+
 #### **Filosofia de Comando**
 
 Morine é conhecida por pragmatismo brutal. Sob sua liderança reestruturada, a [[Escola de Tókyō]] adotou postura de sobrevivência a qualquer custo.
@@ -54,14 +61,14 @@ Decisões controversas incluem:
 
 Frequentemente citada: _"Prioridade não é justiça. É sobrevivência."_
 
----
+
 #### **Relação com Comando de Campo**
 
 Trabalha diretamente com [[Kaiba Yoshifusa]] (Comandante de Campo), mantendo divisão clara: Morine decide **o quê** fazer, Kaiba decide **como** fazer.
 
 A relação é funcional mas tensa — Kaiba lida com consequências humanas das decisões de Morine.
 
----
+
 #### **Reputação**
 
 Entre feiticeiros: Respeitada por competência, temida por frieza.
