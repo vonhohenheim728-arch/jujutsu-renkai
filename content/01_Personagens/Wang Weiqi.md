@@ -85,3 +85,15 @@ Wang Weiqi continua investigando, acessando registros, questionando sobrevivente
 Como estrangeiro e recém-chegado durante crise, Wang Weiqi é visto com desconfiança por feiticeiros mais conservadores (especialmente membros de clãs tradicionais). No entanto, alguns que conheceram Kanzaki demonstram curiosidade ou respeito.
 
 Reputação entre feiticeiros: "Sortudo" — apelido "Xiao Long" reflete percepção de que ele sobrevive situações impossíveis através de sorte inexplicável.
+
+
+<iframe
+  style="border-radius:12px"
+  src="https://open.spotify.com/embed/track/5TBQofnJ2Q2iwLEsXDXvjb"
+  width="100%"
+  height="152"
+  frameborder="0"
+  allowfullscreen=""
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy">
+</iframe>
