@@ -18,6 +18,7 @@ relacoes:
 > | **Grau:** | 2º Grau |
 > | **Status:** | Vivo |
 > | **Grupo:** | [[Escola de Tókyō]] |---
+
 **Kaiba Yoshifusa** é feiticeiro veterano e Comandante de Campo da [[Escola de Tókyō]]. Responsável por operações táticas e coordenação de missões.
 
 
