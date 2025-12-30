@@ -5,3 +5,9 @@ Coletivamente controlam aproximadamente 6 milhões dos 7 milhões de sobrevivent
 #### **Origem do Termo**
 
 Surgiu entre população civil por volta do Dia 20-25. A referência aos guardiões das quatro direções cardinais é considerada irônica — os Shiten são amplamente vistos como oportunistas, não protetores.
+
+
+[[Rei do Oeste]]
+[[Rei do Norte]]
+[[Rei do Centro]]
+[[Rei do Sul]]
