@@ -48,7 +48,7 @@ Okane manifesta controle sobre múltiplos elementos (fogo, água, vento, terra) 
 
 Tensa. Okane mantém sobrenome mas não mantém laços próximos com clã. [[Clã Zenin (禪院家, Zen'in Ke)]] a vê como membro problemático/dispensável de ramo secundário.
 
-Durante [[Crise dos 3 Clãs]] (Dias 45-60), Okane observou tentativa do [[Clã Zenin (禪院家, Zen'in Ke)]] (e outros [[Três Grandes Clãs (御三家, Gosanke)]]) de consolidar controle sobre escola.
+Durante [[Crise dos 3 Clãs]] (Dias 45-60), Okane observou tentativa do [[Clã Zenin (禪院家, Zen'in Ke)]] (e outros [[Três Grandes Clãs  (御三家, Gosanke)]]) de consolidar controle sobre escola.
 #### **Status Atual**
 
 Feiticeira grau 4 ativa. Opera em missões de campo conforme designação.
