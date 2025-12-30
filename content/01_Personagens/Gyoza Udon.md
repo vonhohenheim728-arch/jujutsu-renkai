@@ -1,5 +1,5 @@
 > [!infobox]+
-> # Aji Nomoto
+> # Gyoza Udon
 > ![[Gyoza Udon.png|cover|325]]
 > ###### Informações Biográficas
 > | | |
