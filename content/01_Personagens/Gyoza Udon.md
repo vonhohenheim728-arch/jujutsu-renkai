@@ -44,20 +44,11 @@ Gyoza trabalha com objetivo pragmático de manter escola funcional até situaç�
 
 Cozinhar funciona como atividade terapêutica após missões — rotina previsível que contrasta com caos de campo.
 
-
-<iframe style="border-radius:12px"
-src="https://youtu.be/e8xR3Q8TijQ?si=jm7ZShnsuB4rkYqq"
-width="100%" height="350"
-frameborder="0"
-allowfullscreen=""
-allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
-</iframe>
-
-
-<iframe style="border-radius:12px"
-src="https://open.spotify.com/intl-pt/track/1QV6tiMFM6fSOKOGLMHYYg?si=b41e9d4d499043ff"
-width="100%" height="152"
-frameborder="0"
-allowfullscreen=""
-allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
+<iframe style="border-radius:12px" 
+  src="https://open.spotify.com/embed/track/3OT3Kg4jyVkdZm4Ncz6JgX?utm_source=generator" 
+  width="100%" height="152" 
+  frameborder="0" 
+  allowfullscreen="" 
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+  loading="lazy">
 </iframe>
