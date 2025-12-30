@@ -1,6 +1,6 @@
 > [!infobox]+
 > # Ikkyo Dao
-> ![[694e717ba009f4c602738520.png|cover|325]]
+> ![[04_Fotos/Ikkyu Dao.png|cover|325]]
 > ###### Informações Biográficas
 > | | |
 > | --- | --- |
