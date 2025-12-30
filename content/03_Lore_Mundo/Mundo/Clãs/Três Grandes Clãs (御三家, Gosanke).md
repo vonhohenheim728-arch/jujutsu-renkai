@@ -1,4 +1,4 @@
-Os **Três Grandes Clãs** são as três linhagens de feiticeiros mais prestigiadas e influentes do Japão: **[[Clã Zenin  (禪院家, Zen'in Ke)]]**, **[[Clã Gojo (五条家, Gojō Ke)]]**, e **[[Clã Kamo (加茂家, Kamo Ke)]]**.
+Os **Três Grandes Clãs** são as três linhagens de feiticeiros mais prestigiadas e influentes do Japão: **[[Clã Zenin (禪院家, Zen'in Ke)]]**, **[[Clã Gojo (五条家, Gojō Ke)]]**, e **[[Clã Kamo (加茂家, Kamo Ke)]]**.
 
 #### **História**
 
@@ -18,7 +18,7 @@ Antes d'[[O Colapso de Tókyō|O Colapso]], os Três Grandes Clãs detinham pode
 
 Apesar de serem aliados políticos, os três clãs mantêm rivalidade histórica:
 
-**[[Clã Gojo (五条家, Gojō Ke)]] vs [[Clã Zenin  (禪院家, Zen'in Ke)]]:** Contenda especialmente amarga. Chefes passados supostamente mataram um ao outro.
+**[[Clã Gojo (五条家, Gojō Ke)]] vs [[Clã Zenin (禪院家, Zen'in Ke)]]:** Contenda especialmente amarga. Chefes passados supostamente mataram um ao outro.
 
 **[[Clã Kamo (加茂家, Kamo Ke)]]:** Pragmático, frequentemente arbitra entre Gojo e Zenin.
 

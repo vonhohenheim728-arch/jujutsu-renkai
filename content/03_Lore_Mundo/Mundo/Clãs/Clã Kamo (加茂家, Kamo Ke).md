@@ -24,7 +24,7 @@ Apesar disso, o clã mantém influência devido à antiguidade e conexões polí
 
 **[[Clã Gojo (五条家, Gojō Ke)]]:** Pragmática, frequentemente tensa (Kamo é conservador, Gojo historicamente progressista)
 
-**[[Clã Zenin  (禪院家, Zen'in Ke)]]:** Aliados por conveniência, compartilham valores tradicionais
+**[[Clã Zenin (禪院家, Zen'in Ke)]]:** Aliados por conveniência, compartilham valores tradicionais
 
 #### **Pós-[[O Colapso de Tókyō|Colapso]]**
 

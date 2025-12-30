@@ -17,7 +17,7 @@ Sua morte catalisou a [[Crise dos 3 Clãs]].
 
 #### **Histórico**
 
-Umeji era feiticeiro competente de clã menor — não afiliado aos [[Três Grandes Clãs (御三家, Gosanke)]] ([[Clã Gojo (五条家, Gojō Ke)]], [[Clã Zenin  (禪院家, Zen'in Ke)]], [[Clã Kamo (加茂家, Kamo Ke)]]).
+Umeji era feiticeiro competente de clã menor — não afiliado aos [[Três Grandes Clãs (御三家, Gosanke)]] ([[Clã Gojo (五条家, Gojō Ke)]], [[Clã Zenin (禪院家, Zen'in Ke)]], [[Clã Kamo (加茂家, Kamo Ke)]]).
 
 Operou ativamente durante [[O Colapso de Tókyō|O Colapso]], participando de missões de evacuação e exorcismo nos primeiros dias críticos.
 

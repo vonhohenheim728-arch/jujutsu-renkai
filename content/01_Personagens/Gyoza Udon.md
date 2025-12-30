@@ -14,7 +14,7 @@
 
 #### **Histórico**
 
-Gyoza chegou à [[Escola de Tókyō]] [período não-especificado] como feiticeiro competente com técnica analítica precisa. Demonstrou aptidão tanto para combate quanto para trabalho culinário.
+Gyoza chegou à [[Escola de Tókyō]] como feiticeiro competente com técnica analítica precisa. Demonstrou aptidão tanto para combate quanto para trabalho culinário.
 
 Optou por trabalhar primariamente na cozinha da escola, contribuindo como chef principal enquanto mantinha capacidade de combate quando necessário. Preferia rotina mais estável e possuía paixão genuína por cozinhar.
 
@@ -48,6 +48,15 @@ Cozinhar funciona como atividade terapêutica após missões — rotina previsí
 <iframe style="border-radius:12px"
 src="https://youtu.be/e8xR3Q8TijQ?si=jm7ZShnsuB4rkYqq"
 width="100%" height="350"
+frameborder="0"
+allowfullscreen=""
+allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
+</iframe>
+
+
+<iframe style="border-radius:12px"
+src="https://open.spotify.com/intl-pt/track/1QV6tiMFM6fSOKOGLMHYYg?si=b41e9d4d499043ff"
+width="100%" height="152"
 frameborder="0"
 allowfullscreen=""
 allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
