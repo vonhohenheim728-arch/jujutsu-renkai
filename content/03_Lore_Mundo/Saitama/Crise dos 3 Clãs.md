@@ -6,8 +6,8 @@ Após a [[Guerra dos Seis - 六人戦争]] e perda da liderança sênior, os Tr�
 
 Recursos escassos e decisões cada vez mais difíceis criaram tensão entre facções: clãs tradicionais vs feiticeiros "comuns" vs administração remanescente.
 
-### **Execução de [[Umeji Shintaro]]
-Por volta do Dia 45-50, o feiticeiro de grau 3 [[**Umeji Shintaro**]] (de clã menor) foi executado por recusar ordens diretas durante missão crítica.
+### **Execução de [[Umeji Shintaro]]**
+Por volta do Dia 45-50, o feiticeiro de grau 3 [[Umeji Shintaro]] (de clã menor) foi executado por recusar ordens diretas durante missão crítica.
 
 A execução foi ordenada por representantes dos Três Grandes Clãs como "demonstração de autoridade" e "restauração de disciplina."
 

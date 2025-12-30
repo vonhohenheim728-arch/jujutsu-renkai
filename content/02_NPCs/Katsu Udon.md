@@ -22,7 +22,7 @@ Katsu culpa falha parcialmente na ausência de [[Gyoza Udon]] — acredita que p
 
 #### **Relação com Filhos**
 
-**[[Gyoza Udon]] (mais velho):** Ressentimento mútuo. Não mantém contato desde que Gyoza deixou o clã. Considera escolha de Gyoza como desperdício de potencial e traição à família.
+**[[Gyoza Udon]] (mais velho):** Ressentimento. Não mantém contato desde que Gyoza deixou o clã. Considera escolha de Gyoza como desperdício de potencial e traição à família.
 
 **[[Soba Udon]] (mais novo):** Ignorou durante anos por falta de técnica herdada. Após saída de Gyoza, voltou atenção a Soba como substituto — não por afeto, mas por necessidade de representante do clã. Soba segue orientações paternas de forma incondicional, buscando aprovação que nunca recebeu antes.
 
