@@ -3,7 +3,7 @@ tipo: Personagem
 categoria: Feiticeiro
 grau: Especial
 status: Morto
-grupo: Escola Tokyo
+grupo: "[[Escola de Tókyō]]"
 relacoes:
   - "[[Takai Gojo]]"
   - "[[Ikkyu Dao]]"

@@ -8,11 +8,10 @@ relacoes:
   - "[[Wang Weiqi]]"
   - "[[Morine Shunko]]"
   - "[[Kaiba Yoshifusa]]"
-publish: false
 ---
 > [!infobox]+
 > # 
-> ![[|cover|325]]
+> ![[Kanzaki Koma.png|cover|325]]
 > ###### Informações Biográficas
 > | | |
 > | --- | --- |

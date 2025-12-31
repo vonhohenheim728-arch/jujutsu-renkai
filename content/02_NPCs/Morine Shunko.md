@@ -3,7 +3,7 @@ tipo: Personagem
 categoria: Feiticeiro
 grau: 1º Grau
 status: Vivo
-grupo: Escola Tokyo
+grupo: "[[Escola de Tókyō]]"
 relacoes:
   - "[[Kaiba Yoshifusa]]"
 ---
