@@ -6,6 +6,7 @@
 > | --- | --- |
 > | **Tipo:** | Machado Grande |
 > | **Crítico:** | 20 |
+> | **Encantamentos:** | Cruel, Destruidora, Elemental, Drenadora |
 > | **Origem:** | Era Heian (~1000 anos) |
 > | **Grau:** | Especial |
 > | **Status:** | Desaparecida |
