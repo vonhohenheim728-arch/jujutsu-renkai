@@ -9,7 +9,7 @@ relacoes:
 ---
 > [!infobox]+
 > # 
-> ![[|cover|325]]
+> ![[Aoi Zenin.png|cover|325]]
 > ###### Informações Biográficas
 > | | |
 > | --- | --- |
