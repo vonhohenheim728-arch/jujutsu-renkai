@@ -8,7 +8,7 @@ relacoes:
   - "[[Okane Zenin]]"
 ---
 > [!infobox]+
-> # 
+> # Aoi Zenin
 > ![[Aoi Zenin.png|cover|325]]
 > ###### Informações Biográficas
 > | | |

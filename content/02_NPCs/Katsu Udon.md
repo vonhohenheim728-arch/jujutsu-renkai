@@ -9,7 +9,7 @@ relacoes:
   - "[[Gyoza Udon]]"
 ---
 > [!infobox]+
-> # 
+> # Katsu Udon
 > ![[|cover|325]]
 > ###### Informações Biográficas
 > | | |

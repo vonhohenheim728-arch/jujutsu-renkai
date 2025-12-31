@@ -9,7 +9,7 @@ relacoes:
   - "[[Katsu Udon]]"
 ---
 > [!infobox]+
-> # 
+> # Soba Udon
 > ![[|cover|325]]
 > ###### Informações Biográficas
 > | | |

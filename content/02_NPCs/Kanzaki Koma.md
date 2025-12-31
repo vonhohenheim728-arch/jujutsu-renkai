@@ -10,7 +10,7 @@ relacoes:
   - "[[Kaiba Yoshifusa]]"
 ---
 > [!infobox]+
-> # 
+> # Kanzaki Koma
 > ![[Kanzaki Koma.png|cover|325]]
 > ###### Informações Biográficas
 > | | |
