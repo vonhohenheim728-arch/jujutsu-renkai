@@ -4,7 +4,7 @@ A **Guerra dos Seis** (六人戦争, _Rokunin Sensō_) refere-se ao confronto ca
 
 ##### **Lado da [[Escola de Tókyō]]:**
 
-- [Nome Redatado] - Grau Especial - **Desaparecido (Presumido Morto)**
+- [[Satow Toki]] - Grau Especial - **Desaparecido (Presumido Morto)**
 - [Nome Redatado] - Grau Especial - **Desaparecido (Presumido Morto)**
 - [Nome Redatado] - Grau Especial - **Desaparecido (Presumido Morto)**
 - [Nome Redatado] - Grau Especial - **Desaparecido (Presumido Morto)**

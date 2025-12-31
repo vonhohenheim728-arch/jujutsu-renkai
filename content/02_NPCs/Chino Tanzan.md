@@ -17,16 +17,24 @@ relacoes:
 > | **Tipo:** | NPC |
 > | **Categoria:** | Feiticeiro |
 > | **Grau:** | Especial |
-> | **Status:** | Desaparecido/Morto |
+> | **Status:** | Desaparecida/Morta |
 > | **Grupo:** | Renegados |---
 
+---
 
-**Chino Tanzan** (千野丹山) foi feiticeira grau especial. **Declarada morta durante [[Guerra dos Seis - 六人戦争]]** (Dia 1).
+**Chino Tanzan** (千野丹山) foi feiticeira grau especial.
+
+#### **Reputação**
+
+Reconhecida por técnica **impossível de bloquear ou defender** — nenhum feiticeiro conseguiu impedir ataques dela com a única exceção sendo [[Takai Gojo]].
 
 #### **Guerra dos Seis**
 
-Chino Tanzan foi uma das seis feiticeiros grau especial que se enfrentaram no Dia 1. Combate resultou em morte/desaparecimento de todos os seis participantes e destruição catastrófica de Tóquio.
+Chino Tanzan foi uma das seis feiticeiros grau especial que se enfrentaram no Dia 1. Lutou ao lado de [[Takai Gojo]].
 
-Circunstâncias específicas da morte não-documentadas.
+Combate resultou em destruição catastrófica de Tóquio. Todos os seis participantes foram **declarados mortos** pela [[Escola de Tókyō]].
+
+Circunstâncias específicas não-documentadas. Corpos não foram recuperados.
 
 
+_Participante: [[Guerra dos Seis - 六人戦争]]_
