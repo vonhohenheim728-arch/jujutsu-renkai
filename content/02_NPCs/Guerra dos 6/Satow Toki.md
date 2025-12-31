@@ -26,7 +26,7 @@ Conseguiu se tornar a feiticeira **mais rápida** com a única exceção sendo [
 
 #### **[[Guerra dos Seis - 六人戦争]]**
 
-Satow Toki foi uma das seis feiticeiros grau especial que se enfrentaram no Dia 1.
+Satow Toki foi uma dos seis feiticeiros grau especial que se enfrentaram no Dia 1.
 
 Combate resultou em destruição catastrófica de Tóquio. Todos os seis participantes foram **declarados mortos** pela [[Escola de Tókyō]].
 

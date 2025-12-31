@@ -1,3 +1,11 @@
+---
+tipo: Personagem
+categoria: Feiticeiro
+grau: 3º Grau
+status: Morto
+grupo: "[[Escola de Tókyō]]"
+relacoes:
+---
 > [!infobox]+
 > # Umeji Shintaro
 > ![[Umeji Shintaro.png|cover|325]]
