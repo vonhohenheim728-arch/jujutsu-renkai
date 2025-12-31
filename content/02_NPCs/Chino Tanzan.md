@@ -28,7 +28,7 @@ relacoes:
 
 Reconhecida por técnica **impossível de bloquear ou defender** — nenhum feiticeiro conseguiu impedir ataques dela com a única exceção sendo [[Takai Gojo]].
 
-#### **Guerra dos Seis**
+#### **[[Guerra dos Seis - 六人戦争]]**
 
 Chino Tanzan foi uma das seis feiticeiros grau especial que se enfrentaram no Dia 1. Lutou ao lado de [[Takai Gojo]].
 

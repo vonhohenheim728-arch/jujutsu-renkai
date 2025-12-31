@@ -1,6 +1,14 @@
+---
+tipo: Personagem
+categoria: Feiticeiro
+grau: Especial
+status: Desaparecido/Morto
+grupo: "[[Escola de Tókyō]]"
+relacoes:
+---
 > [!infobox]+
 > # Satow Toki
-> ![[Satow Toki.png]]
+> ![[Satow Toki.png|cover|325]]
 > ###### Informações Biográficas
 > | | |
 > | --- | --- |
@@ -16,7 +24,7 @@
 
 Conseguiu se tornar a feiticeira **mais rápida** com a única exceção sendo [[Takai Gojo]].
 
-#### **Guerra dos Seis**
+#### **[[Guerra dos Seis - 六人戦争]]**
 
 Satow Toki foi uma das seis feiticeiros grau especial que se enfrentaram no Dia 1.
 

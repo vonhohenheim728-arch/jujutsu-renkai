@@ -1,6 +1,6 @@
 > [!infobox]+
 > # Aki Fujio
-> ![[Aki Fujio.png]]
+> ![[Aki Fujio.png|cover|325]]
 > ###### Informações Biográficas
 > | | |
 > | --- | --- |
@@ -16,7 +16,7 @@
 
 Possuía o **controle mais refinado de energia amaldiçoada** com a única exceção sendo [[Takai Gojo]].
 
-#### **Guerra dos Seis**
+#### **[[Guerra dos Seis - 六人戦争]]**
 
 Aki Fujio foi um dos seis feiticeiros grau especial que se enfrentaram no Dia 1.
 
