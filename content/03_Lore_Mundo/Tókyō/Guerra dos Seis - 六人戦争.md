@@ -12,7 +12,7 @@ A **Guerra dos Seis** (六人戦争, _Rokunin Sensō_) refere-se ao confronto ca
 ##### **Lado Hostil:**
 
 - **[[Takai Gojo]]** - Grau Especial - **Desaparecido (Presumido Morto)**
-- [Nome Redatado] - Grau Especial - **Desaparecido (Presumido Morto)**
+- [[Chino Tanzan]] - Grau Especial - **Desaparecido (Presumido Morto)**
 
 _Nota: Identidades dos combatentes permanecem parcialmente classificadas por ordem da administração da escola._
 

@@ -10,7 +10,7 @@ relacoes:
 ---
 > [!infobox]+
 > # Katsu Udon
-> ![[|cover|325]]
+> ![[Katsu Udon.png|cover|325]]
 > ###### Informações Biográficas
 > | | |
 > | --- | --- |

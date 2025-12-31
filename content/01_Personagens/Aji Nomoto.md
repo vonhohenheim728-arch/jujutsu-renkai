@@ -1,6 +1,6 @@
 > [!infobox]+
 > # Aji Nomoto
-> ![[04_Fotos/Aji Nomoto.png|cover|325]]
+> ![[Aji Nomoto.png|cover|325]]
 > ###### Informações Biográficas
 > | | |
 > | --- | --- |
