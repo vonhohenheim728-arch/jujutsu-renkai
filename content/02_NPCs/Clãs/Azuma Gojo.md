@@ -21,10 +21,10 @@ relacoes:
 > |---|---|
 > |**Tipo:**|NPC|
 > |**Categoria:**|Feiticeiro|
-> |**Clã:**|[[Clã Gojo (五条家, Gojō Ke)]]|
 > |**Grau:**|2|
 > |**Status:**|Vivo|
-> |**Grupo:**|Escola de Tókyō|
+> |**Grupo:**|[[Escola de Tókyō]]|
+> |**Clã:**|[[Clã Gojo (五条家, Gojō Ke)]]|
 > |**Posição:**|Representante do Clã Gojo|
 
 **Azuma Gojo** (吾妻五条) é feiticeiro grau 2 do [[Clã Gojo (五条家, Gojō Ke)]].
