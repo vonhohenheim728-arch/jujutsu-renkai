@@ -17,7 +17,7 @@ relacoes:
 > | **Categoria:** | Feiticeiro |
 > | **Grau:** | 1º Grau |
 > | **Status:** | Morto |
-> | **Grupo:** | [[Escola de Tókyō]] |---
+> | **Grupo:** | [[Escola de Tókyō]] |
 
 **Aoi Zenin** (葵 禅院) foi feiticeira grau 1 do [[Clã Zenin (禪院家, Zen'in Ke)|Clã Zenin]]. **Morta durante [[O Colapso de Tókyō|O Colapso]]** (Dias 2-10).
 

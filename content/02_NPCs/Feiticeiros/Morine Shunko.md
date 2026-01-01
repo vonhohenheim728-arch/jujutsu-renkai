@@ -8,7 +8,7 @@ relacoes:
   - "[[Kaiba Yoshifusa]]"
 ---
 > [!infobox]+
-> # Kaiba Yoshifusa
+> # Morine Shunko
 > ![[Morine Shunko.png|cover|325]]
 > ###### Informações Biográficas
 > | | |
