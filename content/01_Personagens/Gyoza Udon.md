@@ -16,7 +16,7 @@
 
 Gyoza nasceu no Clã Udon, clã menor conhecido por técnica herdada que identifica pontos fracos estruturais. Manifestou a técnica desde jovem, sendo designado herdeiro por [[Katsu Udon]] (pai e chefe do clã).
 
-Katsu é politicamente ambicioso — sonha elevar Clã Udon ao status dos [[Três Grandes Clãs  (御三家, Gosanke)|Três Grandes Clãs]]. Pressionou Gyoza desde jovem para assumir papel de representante político do clã.
+Katsu é politicamente ambicioso — sonha elevar Clã Udon ao status dos [[Três Grandes Clãs (御三家, Gosanke)|Três Grandes Clãs]]. Pressionou Gyoza desde jovem para assumir papel de representante político do clã.
 
 Gyoza rejeitou. Declarou preferência por trabalho culinário ao invés de representação política, rompendo com expectativas paternas. Entrou na [[Escola de Tókyō]] solicitando trabalho na cozinha.
 
@@ -28,7 +28,7 @@ Gyoza estava na cozinha quando a [[Guerra dos Seis - 六人戦争]] começou (Di
 
 Nos dias seguintes, com perda massiva de efetivo da escola, foi solicitado a assumir funções de linha de frente. Aceitou relutantemente, reconhecendo necessidade prática: "Várias pessoas podem cozinhar. Poucas podem lutar."
 
-Durante [[Crise dos 3 Clãs]] (Dias 45-60), [[Katsu Udon]] foi voz proeminente entre clãs menores, argumentando que [[Três Grandes Clãs  (御三家, Gosanke)|Três Grandes Clãs]] haviam perdido legitimidade. Tentativa falhou. Katsu culpa Gyoza pela ausência de apoio político.
+Durante [[Crise dos 3 Clãs]] (Dias 45-60), [[Katsu Udon]] foi voz proeminente entre clãs menores, argumentando que [[Três Grandes Clãs (御三家, Gosanke)|Três Grandes Clãs]] haviam perdido legitimidade. Tentativa falhou. Katsu culpa Gyoza pela ausência de apoio político.
 
 Gyoza rejeitou envolver-se em disputa. Quando solicitado para operações de campo, aceitou com foco em necessidade da escola, não em representação do clã.
 

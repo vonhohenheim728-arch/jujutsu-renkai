@@ -1,4 +1,4 @@
-O **Clã Kamo** é um dos [[Três Grandes Clãs  (御三家, Gosanke)]], considerado núcleo da facção **conservadora** no mundo de jujutsu.
+O **Clã Kamo** é um dos [[Três Grandes Clãs (御三家, Gosanke)]], considerado núcleo da facção **conservadora** no mundo de jujutsu.
 
 #### **Valores**
 
@@ -28,6 +28,6 @@ Apesar disso, o clã mantém influência devido à antiguidade e conexões polí
 
 #### **Pós-[[O Colapso de Tókyō|Colapso]]**
 
-Como parte dos [[Três Grandes Clãs  (御三家, Gosanke)]], Kamo participou da tentativa de controle durante [[Crise dos 3 Clãs]]. Após falha, recuou junto com Gojo e Zenin.
+Como parte dos [[Três Grandes Clãs (御三家, Gosanke)]], Kamo participou da tentativa de controle durante [[Crise dos 3 Clãs]]. Após falha, recuou junto com Gojo e Zenin.
 
 Representante Kamo no Conselho Temporário mantém posição consultiva mas perdeu controle direto.

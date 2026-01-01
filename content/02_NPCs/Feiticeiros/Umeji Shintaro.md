@@ -19,13 +19,13 @@ relacoes:
 > | **Grupo** | [[Escola de Tókyō]] |
 
 
-**Umeji Shintaro** (梅地 真太郎) foi feiticeiro grau 3 da [[Escola de Tókyō]]. **Executado** aproximadamente Dia 45-50 pós-colapso por ordem de membros locais dos [[Três Grandes Clãs  (御三家, Gosanke)|Três Grandes Clãs]].
+**Umeji Shintaro** (梅地 真太郎) foi feiticeiro grau 3 da [[Escola de Tókyō]]. **Executado** aproximadamente Dia 45-50 pós-colapso por ordem de membros locais dos [[Três Grandes Clãs (御三家, Gosanke)|Três Grandes Clãs]].
 
 Sua morte catalisou a [[Crise dos 3 Clãs]].
 
 #### **Histórico**
 
-Umeji era feiticeiro competente de clã menor — não afiliado aos [[Três Grandes Clãs  (御三家, Gosanke)|Três Grandes Clãs]] ([[Clã Gojo (五条家, Gojō Ke)]], [[Clã Zenin (禪院家, Zen'in Ke)]], [[Clã Kamo (加茂家, Kamo Ke)]]).
+Umeji era feiticeiro competente de clã menor — não afiliado aos [[Três Grandes Clãs (御三家, Gosanke)|Três Grandes Clãs]] ([[Clã Gojo (五条家, Gojō Ke)]], [[Clã Zenin (禪院家, Zen'in Ke)]], [[Clã Kamo (加茂家, Kamo Ke)]]).
 
 Operou ativamente durante [[O Colapso de Tókyō|O Colapso]], participando de missões de evacuação e exorcismo nos primeiros dias críticos.
 
@@ -33,13 +33,13 @@ Sobreviveu ao período mais caótico (Dias 1-30) e continuou servindo a [[Escola
 
 #### **Recusa de Ordens**
 
-Durante missão crítica (detalhes específicos não-divulgados), Umeji recusou ordens diretas emitidas por representantes dos [[Três Grandes Clãs  (御三家, Gosanke)]].
+Durante missão crítica (detalhes específicos não-divulgados), Umeji recusou ordens diretas emitidas por representantes dos [[Três Grandes Clãs (御三家, Gosanke)]].
 
 A natureza exata da ordem e razão da recusa permanecem objeto de especulação — versões variam entre "ordem suicida", "ordem que sacrificaria civis", ou simplesmente "insubordinação".
 
 #### **Execução**
 
-Membros locais dos [[Três Grandes Clãs  (御三家, Gosanke)]], tentando consolidar autoridade no vácuo de poder pós-[[O Colapso de Tókyō|Colapso]], ordenaram execução de Umeji como "demonstração de disciplina" e "restauração de ordem".
+Membros locais dos [[Três Grandes Clãs (御三家, Gosanke)]], tentando consolidar autoridade no vácuo de poder pós-[[O Colapso de Tókyō|Colapso]], ordenaram execução de Umeji como "demonstração de disciplina" e "restauração de ordem".
 
 Umeji foi executado aproximadamente Dia 45-50.
 
@@ -50,10 +50,10 @@ A execução gerou reação imediata e violenta entre feiticeiros de clãs menor
 Muitos viram a morte de Umeji como:
 
 - Execução sumária sem devido processo
-- Abuso de poder pelos [[Três Grandes Clãs  (御三家, Gosanke)]]
+- Abuso de poder pelos [[Três Grandes Clãs (御三家, Gosanke)]]
 - Evidência de que clãs tradicionais tentavam reassumir controle total
 
-Tensão escalou rapidamente, levando escola à beira de motim. A [[Crise dos 3 Clãs]] culminou em reestruturação completa da liderança, com [[Morine Shunko]] assumindo poder executivo ampliado e os [[Três Grandes Clãs  (御三家, Gosanke)]] recuando de administração direta.
+Tensão escalou rapidamente, levando escola à beira de motim. A [[Crise dos 3 Clãs]] culminou em reestruturação completa da liderança, com [[Morine Shunko]] assumindo poder executivo ampliado e os [[Três Grandes Clãs (御三家, Gosanke)]] recuando de administração direta.
 
 #### **Legado**
 
@@ -61,7 +61,7 @@ Tensão escalou rapidamente, levando escola à beira de motim. A [[Crise dos 3 C
 
 Muitos feiticeiros não esqueceram. Sua morte é citada frequentemente como exemplo de:
 
-- Por que [[Três Grandes Clãs  (御三家, Gosanke)]] não podem ter controle absoluto
+- Por que [[Três Grandes Clãs (御三家, Gosanke)]] não podem ter controle absoluto
 - Por que estrutura atual (Conselho Temporário) existe
 - Por que [[Morine Shunko]] governa com equilíbrio entre facções
 

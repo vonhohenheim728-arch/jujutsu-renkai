@@ -1,4 +1,4 @@
-O **Clã Gojo** é um dos [[Três Grandes Clãs  (御三家, Gosanke)]], descendente de **Michizane Sugawara**, um dos renomados Três Grandes Espíritos Vingativos do Japão.
+O **Clã Gojo** é um dos [[Três Grandes Clãs (御三家, Gosanke)]], descendente de **Michizane Sugawara**, um dos renomados Três Grandes Espíritos Vingativos do Japão.
 
 #### **Técnicas Herdadas**
 

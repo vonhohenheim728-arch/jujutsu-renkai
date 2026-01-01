@@ -9,7 +9,6 @@ relacoes:
   - "[[Morine Shunko]]"
   - "[[Katsu Udon]]"
 ---
-
 > [!infobox]+
 > 
 > # Azuma Gojo
@@ -22,23 +21,18 @@ relacoes:
 > |---|---|
 > |**Tipo:**|NPC|
 > |**Categoria:**|Feiticeiro|
-> |**Clã:**|[[Clã Gojo]]|
+> |**Clã:**|[[Clã Gojo (五条家, Gojō Ke)]]|
 > |**Grau:**|2|
-> |**Status:**|Ativo|
-> |**Grupo:**|[[Escola de Tókyō]]|
-
-
+> |**Status:**|Vivo|
+> |**Grupo:**|Escola de Tókyō|
+> |**Posição:**|Representante do Clã Gojo|
 
 **Azuma Gojo** (吾妻五条) é feiticeiro grau 2 do [[Clã Gojo (五条家, Gojō Ke)]].
 
 #### **Posição**
 
-Representa [[Clã Gojo (五条家, Gojō Ke)]] na [[Escola de Tókyō]] desde antes d'[[O Colapso de Tókyō|O Colapso]].
+Representa [[Clã Gojo (五条家, Gojō Ke)]] na [[Escola de Tókyō]].
 
 Assumiu papel de maior destaque após desaparecimento de [[Takai Gojo]] durante [[Guerra dos Seis - 六人戦争|Guerra dos Seis]].
 
-#### **Status Atual (Dia 60)**
-
-Continua servindo como representante do clã durante crise pós-[[O Colapso de Tókyō|Colapso]].
-
-Auxilia [[Kaiba Yoshifusa]] e [[Morine Shunko]] em assuntos relacionados aos [[Três Grandes Clãs  (御三家, Gosanke)]]
+Perdeu disputa para cargo de Representante dos [[Três Grandes Clãs (御三家, Gosanke)|Três Grandes Clãs]] no Conselho Temporário — [[Goda Kamo]] venceu (Dias 50-60 pós-[[O Colapso de Tókyō|Colapso]]).
