@@ -1,3 +1,11 @@
+---
+tipo: Personagem
+categoria: Feiticeiro
+grau: Especial
+status: Vivo
+grupo: "[[Escola de Tókyō]]"
+relacoes:
+---
 > [!infobox]+
 > 
 > # Matsui Yakumo

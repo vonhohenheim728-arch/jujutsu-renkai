@@ -1,3 +1,11 @@
+---
+tipo: Personagem
+categoria: Feiticeiro
+grau: 2º Grau
+status: Vivo
+grupo: "[[Escola de Tókyō]]"
+relacoes:
+---
 
 > [!infobox]+
 > 
