@@ -23,6 +23,6 @@
 
 Representa [[Clã Zenin (禪院家, Zen'in Ke)|Clã Zenin]] na [[Escola de Tókyō]].
 
-Perdeu disputa para cargo de Representante dos [[Os Três Grandes Clãs - 御三家|Três Grandes Clãs]] no Conselho Temporário — [[Goda Kamo]] venceu (Dias 50-60 pós-[[O Colapso de Tókyō|Colapso]]).
+Perdeu disputa para cargo de Representante dos [[Três Grandes Clãs (御三家, Gosanke)|Três Grandes Clãs]] no Conselho Temporário — [[Goda Kamo]] venceu (Dias 50-60 pós-[[O Colapso de Tókyō|Colapso]]).
 
 Mantém influência significativa dentro do [[Clã Zenin (禪院家, Zen'in Ke)]] apesar da derrota política.
