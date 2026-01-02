@@ -44,7 +44,7 @@ Competente mas exausto. Trabalha mesmo reclamando constantemente.
 
 #### **Relação com Feiticeiros**
 
-Acompanhou grupo de feiticeiros júnior em patrulhas iniciais (Dias 35-45 pós-[[O Colapso de Tókyō|Colapso]]). Ensinou rotas de segurança e checagem de pontos cegos.
+Acompanhou grupo de feiticeiros júnior em patrulhas iniciais. Ensinou rotas de segurança e checagem de pontos cegos.
 
 Feiticeiros reconhecem competência apesar de personalidade difícil.
 
