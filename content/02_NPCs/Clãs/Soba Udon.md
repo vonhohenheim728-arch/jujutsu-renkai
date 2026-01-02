@@ -10,7 +10,7 @@ relacoes:
 ---
 > [!infobox]+
 > # Soba Udon
-> ![[|cover|325]]
+> ![[Soba Udon.png|cover|325]]
 > ###### Informações Biográficas
 > | | |
 > | --- | --- |
