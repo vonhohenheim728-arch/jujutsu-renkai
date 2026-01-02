@@ -34,7 +34,7 @@ DAproximadamente 1 ano antes d'[[O Colapso de Tókyō|O Colapso]], **Moto Geto f
 
 **Ikkyu não soube de nada disso.** Estava fora, sem contato com o mundo de jujutsu.
 
----
+
 ### **o Retorno**
 
 Semanas antes da [[Guerra dos Seis - 六人戦争]], Ikkyu encontrou conhecido por acaso que mencionou a morte de Moto Geto e rumores sobre [[Takai Gojo]].
@@ -43,7 +43,7 @@ Chocado, Ikkyu decidiu voltar à [[Escola de Tókyō]] para entender o que havia
 
 Foi readmitido temporariamente. Tentou investigar, mas antes que pudesse descobrir qualquer coisa, a [[Guerra dos Seis - 六人戦争]] aconteceu.
 
----
+
 ### **Durante [[O Colapso de Tókyō|O Colapso]]**
 
 Ikkyu estava na escola quando a [[Guerra dos Seis - 六人戦争]] eclodiu. Viu de longe a destruição. Soube que [[Takai Gojo]] estava entre os seis combatentes.
@@ -52,7 +52,7 @@ Todos foram declarados desaparecidos, presumivelmente mortos.
 
 Nos 60 dias seguintes, Ikkyu — como todos os feiticeiros — focou em sobrevivência. Evacuação de civis, exorcismo de maldições, defesa da escola. Não teve tempo de processar. Não teve tempo de investigar.
 
----
+
 ### **Dia 60 - Hoje**
 
 Finalmente, com situação relativamente estabilizada, Ikkyu tem espaço mental para voltar às perguntas que o trouxeram de volta:

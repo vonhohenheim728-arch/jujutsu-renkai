@@ -21,7 +21,7 @@ Ferramenta amaldiçoada de grau especial.
 
 #### **Aparência**
 
-Manoplas demoníacas de metal negro e ouro com núcleo carmesim pulsante no centro que brilha intensamente conforme acumula poder. Chamas vermelhas emanam dos punhos. Detalhes ornamentados cobrem toda armadura.
+Manoplas demoníacas de metal negro e ouro com núcleo carmesim pulsante no centro que brilha intensamente conforme acumula poder. Chamas vermelhas emanam dos punhos.
 
 Energia do núcleo pulsa em sincronia com batimentos cardíacos do usuário — quanto mais agressivo, mais brilha.
 
