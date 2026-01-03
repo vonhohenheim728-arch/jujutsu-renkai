@@ -1,6 +1,6 @@
 > [!infobox]+
 > 
-> # Shokeisha
+> # Shokeisha (処刑者)
 > 
 > ![[Shokeisha.png|cover|325]]
 > 

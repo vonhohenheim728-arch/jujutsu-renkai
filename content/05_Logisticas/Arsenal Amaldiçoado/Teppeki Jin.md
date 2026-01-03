@@ -1,6 +1,6 @@
 > [!infobox]+
 > 
-> # Teppeki Jin
+> # Teppeki Jin (鉄壁陣)
 > 
 > ![[Teppeki Jin.png|cover|325]]
 > 

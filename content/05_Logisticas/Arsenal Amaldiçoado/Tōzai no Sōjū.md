@@ -1,6 +1,6 @@
 > [!infobox]+
 > 
-> # Tōzai no Sōjū
+> # Tōzai no Sōjū  (東西の操縦)
 > 
 > ![[Tōzai no Sōjū.png|cover|325]]
 > 

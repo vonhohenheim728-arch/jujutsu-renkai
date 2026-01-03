@@ -1,6 +1,6 @@
 > [!infobox]+
 > 
-> # Kurai Kiri
+> # Kurai Kiri  (喰らい斬り)
 > 
 > ![[Kurai Kiri.png|cover|325]]
 > 
