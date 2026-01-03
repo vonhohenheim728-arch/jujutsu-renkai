@@ -1,6 +1,6 @@
 > [!infobox]+
 > # **Bara Ryū Ono (薔薇竜斧 )**
-> ![[Machado do Dragão de Rosas.png|cover|325]]
+> ![[Bara Ryū Ono.png|cover|325]]
 > ###### Informações Biográficas
 > | | |
 > | --- | --- |

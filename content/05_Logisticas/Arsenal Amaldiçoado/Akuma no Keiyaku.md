@@ -1,16 +1,14 @@
-
-
-
 > [!infobox]+
 > # **Akuma no Keiyaku (悪魔の契約)**
-> ![[5367ccc869a253bed19d51d4d493db95.png|cover|325]]
+> ![[Akuma no Keiyaku.png|cover|325]]
 > ###### Informações Biográficas
 > | | |
 > | --- | --- |
 > | **Tipo:** | Leque |
 > | **Origem:** | Período Edo |
 > | **Grau:** | Especial |
-> | **Status:** | [[Escola de Tókyō]] |
+> | **Status:** | Ativa |
+> |**Dono Atual:**|[[Escola de Tókyō]]|
 
 
 

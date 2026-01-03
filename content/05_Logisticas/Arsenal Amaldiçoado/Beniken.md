@@ -11,7 +11,8 @@
 > |**Tipo:**|Manoplas|
 > |**Origem:**|Era Sengoku (~400-500 anos)|
 > |**Grau:**|Especial|
-> |**Status:**|[[Escola de Tókyō]]|
+> | **Status:** | Ativa |
+> |**Dono Atual:**|[[Escola de Tókyō]]|
 
 ### **紅拳 (Beniken)**
 
