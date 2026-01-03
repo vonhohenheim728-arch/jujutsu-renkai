@@ -6,7 +6,6 @@ status: Desaparecido/Morto
 grupo: "[[Escola de Tókyō]]"
 relacoes:
 ---
-
 > [!infobox]+
 > # Aki Fujio
 > ![[Aki Fujio.png|cover|325]]
