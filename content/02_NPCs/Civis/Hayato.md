@@ -10,7 +10,6 @@
 > |---|---|
 > |**Tipo:**|NPC|
 > |**Categoria:**|Civil|
-> |**Grau:**|—|
 > |**Status:**|Vivo|
 > |**Grupo:**|Escola de Tókyō (patrulheiro)|
 

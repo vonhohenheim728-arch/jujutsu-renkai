@@ -20,8 +20,6 @@ relacoes:
 > | **Status:** | Desaparecida/Morta |
 > | **Grupo:** | Renegados |---
 
----
-
 **Chino Tanzan** (千野丹山) foi feiticeira grau especial.
 
 #### **Reputação**

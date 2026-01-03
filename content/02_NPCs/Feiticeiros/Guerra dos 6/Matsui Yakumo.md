@@ -2,7 +2,7 @@
 tipo: Personagem
 categoria: Feiticeiro
 grau: Especial
-status: Vivo
+status: Desaparecido/Morto
 grupo: "[[Escola de Tókyō]]"
 relacoes:
 ---

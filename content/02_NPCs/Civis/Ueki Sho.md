@@ -10,7 +10,6 @@
 > |---|---|
 > |**Tipo:**|NPC|
 > |**Categoria:**|Civil|
-> |**Grau:**|—|
 > |**Status:**|Viva|
 > |**Grupo:**|Escola de Tókyō|
 
