@@ -20,8 +20,7 @@ relacoes:
 > |**Categoria:**|Feiticeiro|
 > |**Grau:**|3|
 > |**Status:**|Vivo|
-> |**Grupo:**|Escola de Tókyō|
-> |**Esquadrão:**|Kaiba Yoshifusa|
+> |**Grupo:**|[[Escola de Tókyō]]|
 
 **Noboru Masamune** (正宗昇) é feiticeiro grau 3 da [[Escola de Tókyō]]. Membro do esquadrão comandado por [[Kaiba Yoshifusa]].
 

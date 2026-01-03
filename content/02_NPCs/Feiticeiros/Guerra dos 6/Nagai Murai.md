@@ -16,7 +16,7 @@ relacoes:
 > | **Categoria:** | Feiticeiro |
 > | **Grau:** | Especial |
 > | **Status:** | Desaparecido/Morto |
-> | **Grupo:** | [[Escola de Tókyō]] |---
+> | **Grupo:** | [[Escola de Tókyō]] |
 
 **Nagai Murai** (永井村井) foi feiticeiro grau especial.
 

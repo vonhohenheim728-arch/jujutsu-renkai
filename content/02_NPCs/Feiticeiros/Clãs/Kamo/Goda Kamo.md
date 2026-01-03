@@ -22,7 +22,7 @@ relacoes:
 > |**Status:**|Vivo|
 > |**Grupo:**|[[Escola de Tókyō]]|
 > |**Clã:**|[[Clã Kamo (加茂家, Kamo Ke)]]|
-> |**Posição:**|Representante dos Três Grandes Clãs|
+> |**Posição:**|Representante Três Grandes Clãs|
 
 **Goda Kamo** (郷田加茂) é feiticeiro grau 2 do [[Clã Kamo (加茂家, Kamo Ke)]].
 

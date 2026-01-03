@@ -11,7 +11,7 @@
 > |**Tipo:**|NPC|
 > |**Categoria:**|Civil|
 > |**Status:**|Vivo|
-> |**Grupo:**|Escola de Tókyō (patrulheiro)|
+> |**Grupo:**|[[Escola de Tókyō]] (patrulheiro)|
 
 **Hayato** é patrulheiro civil que realiza rondas de segurança ao redor da [[Escola de Tókyō]] e cidade próxima (Saitama).
 

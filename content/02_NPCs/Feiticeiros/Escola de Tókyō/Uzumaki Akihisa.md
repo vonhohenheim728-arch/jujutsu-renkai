@@ -21,7 +21,7 @@ relacoes:
 > |**Categoria:**|Feiticeira|
 > |**Grau:**|3|
 > |**Status:**|Viva|
-> |**Grupo:**|Escola de Tókyō|
+> |**Grupo:**|[[Escola de Tókyō]]|
 
 **Uzumaki Akihisa** (渦巻明久) é feiticeira grau 3 da [[Escola de Tókyō]].
 

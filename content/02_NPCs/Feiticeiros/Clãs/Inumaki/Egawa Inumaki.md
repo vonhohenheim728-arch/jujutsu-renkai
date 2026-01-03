@@ -22,7 +22,7 @@ relacoes:
 > |**Status:**|Vivo|
 > |**Grupo:**|Escola de Tókyō|
 > |**Esquadrão:**|Kaiba Yoshifusa|
-> |**Clã:**|[[Clã Inumaki (犬巻家, Inumaki Ke)|
+> |**Clã:**|[[Clã Inumaki (犬巻家, Inumaki Ke)]]|
 
 **Egawa Inumaki** (江川犬巻) é feiticeiro grau 4 da [[Escola de Tókyō]]. Membro do esquadrão comandado por [[Kaiba Yoshifusa]]. Pertence ao [[Clã Inumaki (犬巻家, Inumaki Ke)]].
 
