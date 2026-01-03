@@ -13,7 +13,7 @@
 > |**Categoria:**|Twin Uzis|
 > |**Origem:**|Desconhecida|
 > |**Status:**|Lenda Urbana / Não Confirmada|
-> |**Dono Atual:**|Desconhecido (Especula-se Alta Cúpula Yakuza)|
+> |**Dono Atual:**|Desconhecido|
 
 **Tōzai no Sōjū** (東西の操縦, "O Controle do Leste e Oeste") é considerada por muitos no mundo Jujutsu como um mito, uma "creepypasta" de feiticeiros. Dizem ser um par de Uzis amaldiçoadas que carregam uma ironia cruel e sangrenta sobre a história do Hip-Hop americano.
 
