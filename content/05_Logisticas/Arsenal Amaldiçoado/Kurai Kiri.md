@@ -11,7 +11,7 @@
 > |**Tipo:**|Ferramenta Amaldiçoada|
 > |**Grau:**|Especial|
 > |**Categoria:**|Espada Colossal|
-> |**Origem:**|Período Tenmei (1781-1789)|
+> |**Origem:**|Período Tenmei|
 > |**Status:**|**Perdida em Tóquio**|
 > |**Último Usuário:**|[[Nagai Murai]]|
 

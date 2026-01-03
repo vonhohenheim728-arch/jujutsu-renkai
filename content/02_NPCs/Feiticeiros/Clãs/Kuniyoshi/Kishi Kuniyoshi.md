@@ -22,7 +22,7 @@ relacoes:
 > |**Status:**|Vivo|
 > |**Grupo:**|Escola de Tókyō|
 > |**Esquadrão:**|Kaiba Yoshifusa|
-> |**Clã:**|[[Clã Kuniyoshi (国芳家, Kuniyoshi Ke)|
+> |**Clã:**|[[Clã Kuniyoshi (国芳家, Kuniyoshi Ke)]]|
 
 **Kishi Kuniyoshi** (岸国芳) é feiticeiro grau 3 da [[Escola de Tókyō]]. Membro do esquadrão comandado por [[Kaiba Yoshifusa]].
 
