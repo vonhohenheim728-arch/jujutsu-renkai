@@ -12,7 +12,7 @@
 > |**Origem:**|Era Sengoku (~400-500 anos)|
 > |**Grau:**|Especial|
 > | **Status:** | Ativa |
-> |**Dono Atual:**|[[Escola de Tókyō]]|
+> |**Dono Atual:**|[[03_Lore_Mundo/Saitama/Escola de Tókyō]]|
 
 ### **紅拳 (Beniken)**
 
@@ -44,11 +44,11 @@ Núcleo carmesim não é adorno decorativo — é concentração visual da energ
 
 Arma passou por várias mãos ao longo dos séculos. Apenas feiticeiros com afinidade por combate brutal podiam empunhá-la efetivamente — manoplas "escolhem" usuário através de ressonância com agressividade.
 
-Eventualmente, **Beniken** foi integrado ao arsenal da [[Escola de Tókyō]], guardado em cofre junto a outras ferramentas amaldiçoadas grau especial.
+Eventualmente, **Beniken** foi integrado ao arsenal da [[03_Lore_Mundo/Saitama/Escola de Tókyō]], guardado em cofre junto a outras ferramentas amaldiçoadas grau especial.
 
 #### **Status Atual (Dia 60)**
 
-Em posse da [[Escola de Tókyō]]. Guardado em arsenal sob custódia da administração.
+Em posse da [[03_Lore_Mundo/Saitama/Escola de Tókyō]]. Guardado em arsenal sob custódia da administração.
 
 Acesso restrito — uso requer autorização devido a natureza perigosa do artefato (ressonância com agressividade pode corromper usuário inexperiente).
 

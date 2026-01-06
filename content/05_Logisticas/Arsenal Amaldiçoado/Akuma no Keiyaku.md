@@ -8,7 +8,7 @@
 > | **Origem:** | Período Edo |
 > | **Grau:** | Especial |
 > | **Status:** | Ativa |
-> |**Dono Atual:**|[[Escola de Tókyō]]|
+> |**Dono Atual:**|[[03_Lore_Mundo/Saitama/Escola de Tókyō]]|
 
 
 
@@ -52,6 +52,6 @@ Feiticeiros experientes reconhecem natureza das cicatrizes.
 
 #### **Status Atual**
 
-Em posse da [[Escola de Tókyō]]. Guardado em arsenal sob custódia da administração.
+Em posse da [[03_Lore_Mundo/Saitama/Escola de Tókyō]]. Guardado em arsenal sob custódia da administração.
 
 Acesso restrito — uso requer autorização devido a natureza perigosa do artefato (corrupção permanente, conexão com maldição selada).

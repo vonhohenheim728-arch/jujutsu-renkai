@@ -17,7 +17,7 @@
 
 **"Dragão Apodrecido"**
 
-Maldição reportada por refugiados. Não-confirmada diretamente pela [[Escola de Tókyō]].
+Maldição reportada por refugiados. Não-confirmada diretamente pela [[03_Lore_Mundo/Saitama/Escola de Tókyō]].
 
 #### **Relatos**
 
@@ -34,7 +34,7 @@ Testemunhas relatam que quarteirões ao redor da torre foram destruídos. Não h
 
 #### **Status (Dia 60)**
 
-[[Escola de Tókyō]] registrou relatos mas **não enviou equipe de reconhecimento**.
+[[03_Lore_Mundo/Saitama/Escola de Tókyō]] registrou relatos mas **não enviou equipe de reconhecimento**.
 
 **Razões:**
 

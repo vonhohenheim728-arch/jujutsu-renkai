@@ -3,7 +3,7 @@ tipo: Personagem
 categoria: Feiticeiro
 grau: 2º Grau
 status: Vivo
-grupo: "[[Escola de Tókyō]]"
+grupo: "[[03_Lore_Mundo/Saitama/Escola de Tókyō]]"
 relacoes:
 ---
 > [!infobox]+
@@ -20,7 +20,7 @@ relacoes:
 > |**Categoria:**|Feiticeiro|
 > |**Grau:**|2|
 > |**Status:**|Vivo|
-> |**Grupo:**|[[Escola de Tókyō]]|
+> |**Grupo:**|[[03_Lore_Mundo/Saitama/Escola de Tókyō]]|
 > |**Clã:**|[[Clã Kamo (加茂家, Kamo Ke)]]|
 > |**Posição:**|Representa os 3 Grandes Clãs|
 
@@ -28,7 +28,7 @@ relacoes:
 
 #### **Posição**
 
-Representa os [[Três Grandes Clãs (御三家, Gosanke)|Três Grandes Clãs]] no Conselho Temporário da [[Escola de Tókyō]].
+Representa os [[Três Grandes Clãs (御三家, Gosanke)|Três Grandes Clãs]] no Conselho Temporário da [[03_Lore_Mundo/Saitama/Escola de Tókyō]].
 
 Cargo é consultivo — não possui poder executivo. Decisões finais cabem à [[Morine Shunko]] (Diretora).
 

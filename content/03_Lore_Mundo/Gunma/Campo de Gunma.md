@@ -6,7 +6,7 @@
 Situado na província de Gunma, **dentro** da zona isolada — não na fronteira propriamente dita, mas alguns quilômetros para o interior.
 
 **Decisão Estratégica:**  
-Inicialmente, o governo planejou estabelecer o campo diretamente na fronteira. No entanto, após consulta com feiticeiros da [[Escola de Kyōto]], a decisão foi revista.
+Inicialmente, o governo planejou estabelecer o campo diretamente na fronteira. No entanto, após consulta com feiticeiros da [[03_Lore_Mundo/Mundo/Escola de Kyōto]], a decisão foi revista.
 
 **Razão:** Se o campo fosse atacado por maldições e colapsasse, a fronteira seria comprometida simultaneamente. Manter distância entre campo e fronteira cria camada de segurança — se campo cair, fronteira ainda pode ser mantida.
 
@@ -20,10 +20,10 @@ Condições são precárias — superlotação, recursos limitados, tensão cons
 **Hub Logístico:**  
 Governo opera a partir de Gunma, coordenando suprimentos e monitoramento da zona.
 
-[[Escola de Tókyō]] recebe recursos (comida, medicina, equipamento) via Gunma, mas quantidade é limitada e sujeita a decisões governamentais.
+[[03_Lore_Mundo/Saitama/Escola de Tókyō]] recebe recursos (comida, medicina, equipamento) via Gunma, mas quantidade é limitada e sujeita a decisões governamentais.
 
 **Proteção:**  
-Campo é protegido por contingente de feiticeiros (não da [[Escola de Tókyō]] — enviados pela [[Escola de Kyōto]]) e forças militares convencionais.
+Campo é protegido por contingente de feiticeiros (não da [[03_Lore_Mundo/Saitama/Escola de Tókyō]] — enviados pela [[03_Lore_Mundo/Mundo/Escola de Kyōto]]) e forças militares convencionais.
 
 Ataques de maldições são frequentes, mas gerenciáveis dado posicionamento estratégico e recursos defensivos.
 
@@ -41,7 +41,7 @@ A maioria dos 12 milhões presos em Kanto **não tem autorização para sair.**
 **Entrada em Kanto:**  
 Ainda mais restrita. Apenas pessoal autorizado (governo, militares, observadores internacionais em raras ocasiões).
 
-#### **Relação com [[Escola de Tókyō]]**
+#### **Relação com [[03_Lore_Mundo/Saitama/Escola de Tókyō]]**
 
 A escola depende de Gunma para suprimentos, mas relação é tensa.
 

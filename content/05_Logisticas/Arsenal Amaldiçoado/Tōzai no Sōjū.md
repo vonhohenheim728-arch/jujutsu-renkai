@@ -17,7 +17,7 @@
 
 **Tōzai no Sōjū** (東西の操縦, "O Controle do Leste e Oeste") é considerada por muitos no mundo jujutsu como um mito — uma "creepypasta de feiticeiros". Dizem ser par de Uzis amaldiçoadas que carregam ironia cruel e sangrenta sobre história do Hip-Hop americano.
 
-**Status atual:** Não existem registros oficiais nos arquivos da [[Escola de Tókyō]]. No entanto, relatos de "tiroteios fantasmas" em Roppongi, onde maldições de grau 1 foram encontradas perfuradas por energia amaldiçoada pura, mantêm lenda viva.
+**Status atual:** Não existem registros oficiais nos arquivos da [[03_Lore_Mundo/Saitama/Escola de Tókyō]]. No entanto, relatos de "tiroteios fantasmas" em Roppongi, onde maldições de grau 1 foram encontradas perfuradas por energia amaldiçoada pura, mantêm lenda viva.
 
 ## **Aparência e Simbolismo**
 
@@ -57,4 +57,4 @@ Testemunhas civis relataram "tiroteios fantasmas" — sons de disparos automáti
 
 **Osaka (2015):** Feiticeiro renegado eliminado por autoridades. Corpo encontrado com par de pistolas customizadas — análise revelou energia residual intensa mas nenhuma evidência conclusiva de serem ferramentas amaldiçoadas genuínas.
 
-**Pós-[[O Colapso de Tókyō|Colapso]] (Dia 60):** Sem novos relatos. [[Escola de Tókyō]] não considera busca pelas armas como prioridade.
+**Pós-[[O Colapso de Tókyō|Colapso]] (Dia 60):** Sem novos relatos. [[03_Lore_Mundo/Saitama/Escola de Tókyō]] não considera busca pelas armas como prioridade.

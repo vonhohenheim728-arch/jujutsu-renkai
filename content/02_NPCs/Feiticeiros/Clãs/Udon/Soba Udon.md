@@ -3,7 +3,7 @@ tipo: Personagem
 categoria: Feiticeiro
 grau: 4º Grau
 status: Vivo
-grupo: "[[Escola de Tókyō]]"
+grupo: "[[03_Lore_Mundo/Saitama/Escola de Tókyō]]"
 relacoes:
   - "[[Gyoza Udon]]"
   - "[[Katsu Udon]]"
@@ -18,10 +18,10 @@ relacoes:
 > | **Categoria:** | Feiticeiro |
 > | **Grau:** | 4º Grau |
 > | **Status:** | Vivo |
-> | **Grupo:** | [[Escola de Tókyō]] |
+> | **Grupo:** | [[03_Lore_Mundo/Saitama/Escola de Tókyō]] |
 
 
-**Soba Udon** (そばうどん) é feiticeiro da [[Escola de Tókyō]], membro do Clã Udon.
+**Soba Udon** (そばうどん) é feiticeiro da [[03_Lore_Mundo/Saitama/Escola de Tókyō]], membro do Clã Udon.
 
 #### **Histórico**
 
@@ -29,11 +29,11 @@ Soba é irmão mais novo de [[Gyoza Udon]]. Não manifestou técnica herdada do 
 
 Cresceu à sombra do irmão — observando Gyoza receber atenção, treinamento e expectativas paternas enquanto ele próprio era tratado como irrelevante. Desenvolveu ressentimento profundo tanto pelo pai (que o ignorava) quanto pelo irmão (que recebia tudo).
 
-Quando Gyoza rejeitou papel de herdeiro e deixou o clã para trabalhar na cozinha da [[Escola de Tókyō]], Katsu voltou atenção a Soba por necessidade — não por afeto, mas porque precisava de representante do clã.
+Quando Gyoza rejeitou papel de herdeiro e deixou o clã para trabalhar na cozinha da [[03_Lore_Mundo/Saitama/Escola de Tókyō]], Katsu voltou atenção a Soba por necessidade — não por afeto, mas porque precisava de representante do clã.
 
 #### **Entrada na Escola**
 
-Soba entrou na [[Escola de Tókyō]] recentemente [antes ou logo após [[O Colapso de Tókyō|O Colapso]]] como feiticeiro. Não possui técnica herdada, mas é competente.
+Soba entrou na [[03_Lore_Mundo/Saitama/Escola de Tókyō]] recentemente [antes ou logo após [[O Colapso de Tókyō|O Colapso]]] como feiticeiro. Não possui técnica herdada, mas é competente.
 
 Segue orientações de [[Katsu Udon]] de forma incondicional. Tenta compensar ausência de [[Gyoza Udon]] como representante do clã, buscando aprovação paterna que nunca recebeu durante maior parte da vida.
 

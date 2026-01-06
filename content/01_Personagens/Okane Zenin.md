@@ -8,9 +8,9 @@
 > | **Categoria:** | Feiticeiro |
 > | **Grau:** | 4º Grau |
 > | **Status:** | Vivo |
-> | **Grupo:** | [[Escola de Tókyō]] |
+> | **Grupo:** | [[03_Lore_Mundo/Saitama/Escola de Tókyō]] |
 
-**Okane Zenin** (お金 禅院) é feiticeira grau 4 da [[Escola de Tókyō]], membro de ramo secundário do [[Clã Zenin (禪院家, Zen'in Ke)|Clã Zenin (禪院家, Zen'in Ke)]].
+**Okane Zenin** (お金 禅院) é feiticeira grau 4 da [[03_Lore_Mundo/Saitama/Escola de Tókyō]], membro de ramo secundário do [[Clã Zenin (禪院家, Zen'in Ke)|Clã Zenin (禪院家, Zen'in Ke)]].
 
 #### **Origem**
 
@@ -28,7 +28,7 @@ Aoi acolheu Okane quando pressão do clã se tornou insuportável. Foi quem ensi
 
 #### **Entrada na Escola**
 
-Contrariando diretamente vontade do [[Clã Zenin (禪院家, Zen'in Ke)|Clã Zenin (禪院家, Zen'in Ke)]], Aoi insistiu para que Okane se candidatasse à [[Escola de Tókyō]]. Okane foi aceita pouco antes d'[[O Colapso de Tókyō|O Colapso]].
+Contrariando diretamente vontade do [[Clã Zenin (禪院家, Zen'in Ke)|Clã Zenin (禪院家, Zen'in Ke)]], Aoi insistiu para que Okane se candidatasse à [[03_Lore_Mundo/Saitama/Escola de Tókyō]]. Okane foi aceita pouco antes d'[[O Colapso de Tókyō|O Colapso]].
 
 #### **Técnica**
 

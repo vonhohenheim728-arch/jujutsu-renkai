@@ -3,7 +3,7 @@ tipo: Personagem
 categoria: Feiticeiro
 grau: 2º Grau
 status: Vivo
-grupo: "[[Escola de Tókyō]]"
+grupo: "[[03_Lore_Mundo/Saitama/Escola de Tókyō]]"
 relacoes:
   - "[[Takai Gojo]]"
   - "[[Morine Shunko]]"
@@ -23,7 +23,7 @@ relacoes:
 > |**Categoria:**|Feiticeiro|
 > |**Grau:**|2|
 > |**Status:**|Vivo|
-> |**Grupo:**|[[Escola de Tókyō]]|
+> |**Grupo:**|[[03_Lore_Mundo/Saitama/Escola de Tókyō]]|
 > |**Clã:**|[[Clã Gojo (五条家, Gojō Ke)]]|
 > |**Posição:**|Representante do Clã Gojo|
 
@@ -31,7 +31,7 @@ relacoes:
 
 #### **Posição**
 
-Representa [[Clã Gojo (五条家, Gojō Ke)]] na [[Escola de Tókyō]].
+Representa [[Clã Gojo (五条家, Gojō Ke)]] na [[03_Lore_Mundo/Saitama/Escola de Tókyō]].
 
 Assumiu papel de maior destaque após desaparecimento de [[Takai Gojo]] durante [[Guerra dos Seis - 六人戦争|Guerra dos Seis]].
 

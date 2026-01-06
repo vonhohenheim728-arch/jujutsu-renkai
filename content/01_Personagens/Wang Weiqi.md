@@ -8,9 +8,9 @@
 > | **Categoria:** | Feiticeiro |
 > | **Grau:** | 4º Grau |
 > | **Status:** | Vivo |
-> | **Grupo:** | [[Escola de Tókyō]] |
+> | **Grupo:** | [[03_Lore_Mundo/Saitama/Escola de Tókyō]] |
 
-**Wang Weiqi** (王维奇) é feiticeiro da [[Escola de Tókyō]], filho de [[Kanzaki Koma]] (feiticeiro japonês) e mãe chinesa. Também conhecido como **Xiao Long** (小龍, "Pequeno Dragão").
+**Wang Weiqi** (王维奇) é feiticeiro da [[03_Lore_Mundo/Saitama/Escola de Tókyō]], filho de [[Kanzaki Koma]] (feiticeiro japonês) e mãe chinesa. Também conhecido como **Xiao Long** (小龍, "Pequeno Dragão").
 
 #### **Origem**
 

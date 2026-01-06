@@ -3,7 +3,7 @@ tipo: Personagem
 categoria: Feiticeiro
 grau: 4º Grau
 status: Vivo
-grupo: "[[Escola de Tókyō]]"
+grupo: "[[03_Lore_Mundo/Saitama/Escola de Tókyō]]"
 relacoes:
 ---
 
@@ -21,9 +21,9 @@ relacoes:
 > |**Categoria:**|Feiticeiro|
 > |**Grau:**|4|
 > |**Status:**|Vivo|
-> |**Grupo:**|[[Escola de Tókyō]]|
+> |**Grupo:**|[[03_Lore_Mundo/Saitama/Escola de Tókyō]]|
 
-**Sora Matsuda** (松田空) é feiticeiro grau 4 da [[Escola de Tókyō]]. Membro do esquadrão comandado por [[Kaiba Yoshifusa]].
+**Sora Matsuda** (松田空) é feiticeiro grau 4 da [[03_Lore_Mundo/Saitama/Escola de Tókyō]]. Membro do esquadrão comandado por [[Kaiba Yoshifusa]].
 
 #### **Aparência**
 

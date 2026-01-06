@@ -3,7 +3,7 @@ tipo: Personagem
 categoria: Feiticeiro
 grau: 1º Grau
 status: Morto
-grupo: "[[Escola de Tókyō]]"
+grupo: "[[03_Lore_Mundo/Saitama/Escola de Tókyō]]"
 relacoes:
   - "[[Okane Zenin]]"
 ---
@@ -17,7 +17,7 @@ relacoes:
 > | **Categoria:** | Feiticeiro |
 > | **Grau:** | 1º Grau |
 > | **Status:** | Morto |
-> | **Grupo:** | [[Escola de Tókyō]] |
+> | **Grupo:** | [[03_Lore_Mundo/Saitama/Escola de Tókyō]] |
 > | **Clã:** | [[Clã Zenin (禪院家, Zen'in Ke)]] |
 
 **Aoi Zenin** (葵 禅院) foi feiticeira grau 1 do [[Clã Zenin (禪院家, Zen'in Ke)|Clã Zenin]]. **Morta durante [[O Colapso de Tókyō|O Colapso]]** (Dias 2-10).
@@ -36,7 +36,7 @@ Aoi foi primeira a reconhecer valor de [[Okane Zenin|Okane]], ensinando fundamen
 
 #### **Morte**
 
-Após deixar [[Okane Zenin|Okane]] na [[Escola de Tókyō]], Aoi retornou a Tóquio para operações de resgate civil (Dias 2-10 pós-[[O Colapso de Tókyō|colapso]]).
+Após deixar [[Okane Zenin|Okane]] na [[03_Lore_Mundo/Saitama/Escola de Tókyō]], Aoi retornou a Tóquio para operações de resgate civil (Dias 2-10 pós-[[O Colapso de Tókyō|colapso]]).
 
 Solicitou reforços ao [[Clã Zenin (禪院家, Zen'in Ke)|Clã Zenin (禪院家, Zen'in Ke)]]. Pedido foi negado — clã considerou operação "desperdício de recursos".
 
@@ -44,7 +44,7 @@ Aoi prosseguiu com força reduzida (dois feiticeiros de apoio). Combateu maldiç
 
 Durante resgate final, civil em pânico abriu fogo. Aoi foi atingida fatalmente.
 
-Um dos feiticeiros de apoio retornou à [[Escola de Tókyō]] com notícia. Corpo de Aoi nunca foi recuperado.
+Um dos feiticeiros de apoio retornou à [[03_Lore_Mundo/Saitama/Escola de Tókyō]] com notícia. Corpo de Aoi nunca foi recuperado.
 
 #### **Legado**
 

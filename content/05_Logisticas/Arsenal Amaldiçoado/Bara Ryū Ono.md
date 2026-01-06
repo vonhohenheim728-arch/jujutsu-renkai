@@ -37,13 +37,13 @@ Arma passou por diversas mãos ao longo dos séculos. Apenas feiticeiros com afi
 
 Usuários relatavam sentir presença vigilante de Ryūka — dragão ainda existe dentro da arma, observando.
 
-Eventualmente, **Bara Ryū Ono** foi integrada ao arsenal da [[Escola de Tókyō]], guardada em cofre junto a outras ferramentas amaldiçoadas grau especial.
+Eventualmente, **Bara Ryū Ono** foi integrada ao arsenal da [[03_Lore_Mundo/Saitama/Escola de Tókyō]], guardada em cofre junto a outras ferramentas amaldiçoadas grau especial.
 
 #### **Furto**
 
 **Aproximadamente 2 anos antes d'[[O Colapso de Tókyō|O Colapso]]:**
 
-Arsenal da [[Escola de Tókyō]] foi **invadido**. **Bara Ryū Ono** foi furtada.
+Arsenal da [[03_Lore_Mundo/Saitama/Escola de Tókyō]] foi **invadido**. **Bara Ryū Ono** foi furtada.
 
 Circunstâncias do furto não-esclarecidas:
 
@@ -57,7 +57,7 @@ Investigação não identificou culpado. Arma desapareceu.
 
 **Localização:** Desconhecida há 2 anos.
 
-[[Escola de Tókyō]] tentou recuperar pré-[[O Colapso de Tókyō|Colapso]], mas sem sucesso.
+[[03_Lore_Mundo/Saitama/Escola de Tókyō]] tentou recuperar pré-[[O Colapso de Tókyō|Colapso]], mas sem sucesso.
 
 Pós-Colapso: Recuperação é considerada **prioridade baixa** (escola tem crises mais urgentes).
 

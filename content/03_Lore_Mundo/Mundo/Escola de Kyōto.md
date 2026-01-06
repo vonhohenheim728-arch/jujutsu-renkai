@@ -1,8 +1,8 @@
-**Escola de Jujutsu de Kyoto** (京都府立呪術高等専門学校, _Kyōto Furitsu Jujutsu Kōtō Senmon Gakkō_) é a escola irmã da [[Escola de Tókyō]]. É uma das duas principais instituições de jujutsu no Japão dedicadas a formar a próxima geração de feiticeiros.
+**Escola de Jujutsu de Kyoto** (京都府立呪術高等専門学校, _Kyōto Furitsu Jujutsu Kōtō Senmon Gakkō_) é a escola irmã da [[03_Lore_Mundo/Mundo/Escola de Kyōto]]. É uma das duas principais instituições de jujutsu no Japão dedicadas a formar a próxima geração de feiticeiros.
 
 #### **Papel no Mundo de Jujutsu**
 
-Ao lado da [[Escola de Tókyō]], Kyoto é considerada um dos pilares da comunidade de jujutsu no Japão. Ambas são igualmente responsáveis por treinar estudantes e coordenar missões de feiticeiros.
+Ao lado da [[03_Lore_Mundo/Mundo/Escola de Kyōto]], Kyoto é considerada um dos pilares da comunidade de jujutsu no Japão. Ambas são igualmente responsáveis por treinar estudantes e coordenar missões de feiticeiros.
 
 Antes d'[[O Colapso de Tókyō|O Colapso]], as duas escolas operavam em coordenação próxima, respondendo ao mesmo Conselho de anciões.
 

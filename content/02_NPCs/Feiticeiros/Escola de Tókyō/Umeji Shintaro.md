@@ -3,7 +3,7 @@ tipo: Personagem
 categoria: Feiticeiro
 grau: 3º Grau
 status: Morto
-grupo: "[[Escola de Tókyō]]"
+grupo: "[[03_Lore_Mundo/Saitama/Escola de Tókyō]]"
 relacoes:
 ---
 > [!infobox]+
@@ -16,10 +16,10 @@ relacoes:
 > | **Categoria** | Feiticeiro |
 > | **Grau** | 3º Grau |
 > | **Status** | Morto |
-> | **Grupo** | [[Escola de Tókyō]] |
+> | **Grupo** | [[03_Lore_Mundo/Saitama/Escola de Tókyō]] |
 
 
-**Umeji Shintaro** (梅地 真太郎) foi feiticeiro grau 3 da [[Escola de Tókyō]]. **Executado** aproximadamente Dia 45-50 pós-colapso por ordem de membros locais dos [[Três Grandes Clãs (御三家, Gosanke)|Três Grandes Clãs]].
+**Umeji Shintaro** (梅地 真太郎) foi feiticeiro grau 3 da [[03_Lore_Mundo/Saitama/Escola de Tókyō]]. **Executado** aproximadamente Dia 45-50 pós-colapso por ordem de membros locais dos [[Três Grandes Clãs (御三家, Gosanke)|Três Grandes Clãs]].
 
 Sua morte catalisou a [[Crise dos 3 Clãs]].
 
@@ -29,7 +29,7 @@ Umeji era feiticeiro competente de clã menor — não afiliado aos [[Três Gran
 
 Operou ativamente durante [[O Colapso de Tókyō|O Colapso]], participando de missões de evacuação e exorcismo nos primeiros dias críticos.
 
-Sobreviveu ao período mais caótico (Dias 1-30) e continuou servindo a [[Escola de Tókyō]] sob nova administração pós-isolamento.
+Sobreviveu ao período mais caótico (Dias 1-30) e continuou servindo a [[03_Lore_Mundo/Saitama/Escola de Tókyō]] sob nova administração pós-isolamento.
 
 #### **Recusa de Ordens**
 
@@ -57,7 +57,7 @@ Tensão escalou rapidamente, levando escola à beira de motim. A [[Crise dos 3 C
 
 #### **Legado**
 
-**A execução de Umeji Shintaro permanece ponto de tensão na [[Escola de Tókyō]].**
+**A execução de Umeji Shintaro permanece ponto de tensão na [[03_Lore_Mundo/Saitama/Escola de Tókyō]].**
 
 Muitos feiticeiros não esqueceram. Sua morte é citada frequentemente como exemplo de:
 

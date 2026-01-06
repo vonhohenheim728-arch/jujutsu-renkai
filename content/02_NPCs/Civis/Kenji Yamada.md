@@ -14,7 +14,7 @@
 > |**Grupo:**|Escola de Tókyō|
 > |**Função:**|Líder dos refugiados|
 
-**Kenji Yamada** (山田健二) é civil que representa refugiados no acampamento da [[Escola de Tókyō]].
+**Kenji Yamada** (山田健二) é civil que representa refugiados no acampamento da [[03_Lore_Mundo/Saitama/Escola de Tókyō]].
 
 #### **Antes d'O Colapso**
 
@@ -53,7 +53,7 @@ Representa aproximadamente 15 mil refugiados. Impossível agradar todos.
 - Ressentimento (_"Ele nem estava em Tóquio, não sofreu como nós"_)
 - Frustração deslocada (mais fácil culpá-lo que maldições)
 
-**Relação com escola:** Pragmático. Entende limitações da [[Escola de Tókyō]]. Negocia ao invés de exigir.
+**Relação com escola:** Pragmático. Entende limitações da [[03_Lore_Mundo/Saitama/Escola de Tókyō]]. Negocia ao invés de exigir.
 
 Serve como ponte difícil — civis reclamam dele, escola depende dele.
 

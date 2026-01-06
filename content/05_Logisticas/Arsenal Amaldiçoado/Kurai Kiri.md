@@ -47,4 +47,4 @@ Kurai Kiri "aprendeu" com fome que a criou: **consumir para sobreviver**. Espada
 
 Durante [[Guerra dos 6]], Kurai Kiri foi portada por [[Nagai Murai]], um dos seis feiticeiros de grau especial.
 
-Ferramenta foi perdida durante conflito em Tóquio. Recuperação é considerada inviável pela [[Escola de Tókyō]] — área permanece infestada por maldições de alto grau. Destino atual da ferramenta é desconhecido.
+Ferramenta foi perdida durante conflito em Tóquio. Recuperação é considerada inviável pela [[03_Lore_Mundo/Saitama/Escola de Tókyō]] — área permanece infestada por maldições de alto grau. Destino atual da ferramenta é desconhecido.

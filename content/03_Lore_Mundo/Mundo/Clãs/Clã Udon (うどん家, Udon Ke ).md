@@ -18,15 +18,15 @@ Sob liderança de [[Katsu Udon]], clã busca ativamente elevar status político 
 
 Durante [[Crise dos 3 Clãs]] (Dias 45-60 pós-[[O Colapso de Tókyō|colapso]]), [[Katsu Udon]] foi voz proeminente entre clãs menores, argumentando que os **Três Grandes Clãs (御三家, _Gosanke_)** haviam perdido legitimidade.
 
-Clã Udon tentou consolidar influência durante vácuo de poder, mas tentativa falhou. Influência política foi reduzida após reorganização da [[Escola de Tókyō]].
+Clã Udon tentou consolidar influência durante vácuo de poder, mas tentativa falhou. Influência política foi reduzida após reorganização da [[03_Lore_Mundo/Saitama/Escola de Tókyō]].
 
 #### **Membros Conhecidos**
 
 **[[Katsu Udon]]:** Chefe do clã. Politicamente ambicioso, busca elevar Clã Udon ao status dos **Três Grandes Clãs (御三家, _Gosanke_)**.
 
-**[[Gyoza Udon]]:** Herdeiro que manifestou técnica herdada. Rejeitou papel político, trabalha como chef principal na [[Escola de Tókyō]]. Rompimento com o clã.
+**[[Gyoza Udon]]:** Herdeiro que manifestou técnica herdada. Rejeitou papel político, trabalha como chef principal na [[03_Lore_Mundo/Saitama/Escola de Tókyō]]. Rompimento com o clã.
 
-**[[Soba Udon]]:** Filho mais novo de Katsu. Não manifestou técnica herdada. Serve como representante atual do clã na [[Escola de Tókyō]].
+**[[Soba Udon]]:** Filho mais novo de Katsu. Não manifestou técnica herdada. Serve como representante atual do clã na [[03_Lore_Mundo/Saitama/Escola de Tókyō]].
 
 #### **Status Atual**
 

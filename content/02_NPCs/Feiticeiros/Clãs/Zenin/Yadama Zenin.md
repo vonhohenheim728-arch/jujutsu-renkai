@@ -3,7 +3,7 @@ tipo: Personagem
 categoria: Feiticeiro
 grau: 3º Grau
 status: Vivo
-grupo: "[[Escola de Tókyō]]"
+grupo: "[[03_Lore_Mundo/Saitama/Escola de Tókyō]]"
 relacoes:
 ---
 > [!infobox]+
@@ -21,7 +21,7 @@ relacoes:
 > |**Clã:**|[[Clã Zenin (禪院家, Zen'in Ke)]]|
 > |**Grau:**|3|
 > |**Status:**|Vivo|
-> |**Grupo:**|[[Escola de Tókyō]]|
+> |**Grupo:**|[[03_Lore_Mundo/Saitama/Escola de Tókyō]]|
 
 **Yadama Zenin** (矢玉禪院) é feiticeiro grau 3 do [[Clã Zenin (禪院家, Zen'in Ke)]].
 
@@ -29,7 +29,7 @@ relacoes:
 
 Veterano de campo. Opera primariamente em missões de combate direto e eliminação de maldições.
 
-Não possui cargo político ou administrativo na [[Escola de Tókyō]] — função é estritamente operacional.
+Não possui cargo político ou administrativo na [[03_Lore_Mundo/Saitama/Escola de Tókyō]] — função é estritamente operacional.
 
 Leal ao [[Clã Zenin (禪院家, Zen'in Ke)]] e segue ordens de [[Tamaki Zenin]] (representante do clã).
 
