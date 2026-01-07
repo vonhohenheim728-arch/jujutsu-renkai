@@ -17,7 +17,7 @@
 
 **"O Observador"**
 
-Maldição grau 2. Registrada pela [[03_Lore_Mundo/Saitama/Escola de Tókyō]].
+Maldição grau 2. Registrada pela [[Escola de Tókyō]].
 
 #### **Aparência**
 
@@ -67,7 +67,7 @@ Kanshi demonstra padrão de caça único entre maldições registradas:
 
 #### **Registro e Status (Dia 60)**
 
-[[03_Lore_Mundo/Saitama/Escola de Tókyō]] confirmou existência através de múltiplos relatos consistentes de sobreviventes (Dia 20-40 pós-[[O Colapso de Tókyō|Colapso]]).
+[[Escola de Tókyō]] confirmou existência através de múltiplos relatos consistentes de sobreviventes (Dia 20-40 pós-[[O Colapso de Tókyō|Colapso]]).
 
 **Mortes confirmadas:** 5-8 (baixo comparado a outras maldições grau 2)
 

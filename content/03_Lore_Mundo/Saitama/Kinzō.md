@@ -16,7 +16,7 @@
 
 **Kinzō** (金象, "Elefante Dourado") é maldição que supostamente habita Sano Premium Outlets em Sano City, Tochigi.
 
-**Status atual:** Ativa (Dia 60 pós-[[O Colapso de Tókyō|Colapso]]). [[03_Lore_Mundo/Saitama/Escola de Tókyō]] possui informações **extremamente limitadas** — relatos obtidos de terceira mão. Existência não confirmada diretamente.
+**Status atual:** Ativa (Dia 60 pós-[[O Colapso de Tókyō|Colapso]]). [[Escola de Tókyō]] possui informações **extremamente limitadas** — relatos obtidos de terceira mão. Existência não confirmada diretamente.
 
 ## **Aparência**
 
@@ -26,7 +26,7 @@ Corpo humanoide massivo com cabeça de elefante. Altura estimada entre 4-5 metro
 
 Olhos descritos como vermelhos brilhantes. Musculatura pronunciada. Aparência simultaneamente bestial e majestosa.
 
-**Nota:** [[03_Lore_Mundo/Saitama/Escola de Tókyō]] não possui fotografias ou testemunhos diretos de feiticeiros. Descrições vêm de relatos de civis não confirmados.
+**Nota:** [[Escola de Tókyō]] não possui fotografias ou testemunhos diretos de feiticeiros. Descrições vêm de relatos de civis não confirmados.
 
 ## **Comportamento**
 
@@ -38,7 +38,7 @@ Relatos sugerem que Kinzō atua como **sentinela** dentro do shopping:
 - Patrulha interior do complexo
 - Reage a intrusões ou ameaças percebidas
 
-Comportamento exato é **desconhecido** — [[03_Lore_Mundo/Saitama/Escola de Tókyō]] não enviou equipe de reconhecimento devido a prioridades mais urgentes.
+Comportamento exato é **desconhecido** — [[Escola de Tókyō]] não enviou equipe de reconhecimento devido a prioridades mais urgentes.
 
 ## **Localização**
 
@@ -53,7 +53,7 @@ Shopping está **abandonado** desde [[O Colapso de Tókyō|O Colapso]]. Área ev
 
 ## **Informação Limitada**
 
-[[03_Lore_Mundo/Saitama/Escola de Tókyō]] sabe **muito pouco** sobre Kinzō:
+[[Escola de Tókyō]] sabe **muito pouco** sobre Kinzō:
 
 **Fonte dos relatos:**
 

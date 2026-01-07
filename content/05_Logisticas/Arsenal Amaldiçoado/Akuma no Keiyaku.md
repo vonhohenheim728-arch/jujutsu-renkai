@@ -8,7 +8,7 @@
 > | **Origem:** | Período Edo |
 > | **Grau:** | Especial |
 > | **Status:** | Ativa |
-> |**Dono Atual:**|[[03_Lore_Mundo/Saitama/Escola de Tókyō]]|
+> |**Dono Atual:**|[[Escola de Tókyō]]|
 
 
 

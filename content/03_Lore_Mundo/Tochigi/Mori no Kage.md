@@ -14,9 +14,9 @@
 > |**Localização:**|"Floresta dos Corpos", Tochigi|
 
 
-**Mori no Kage** (森の影, "Sombra da Floresta") é maldição que habita floresta na região de Nikkō, Tochigi — área referenciada como **"Floresta dos Corpos"**. Informações sobre a maldição foram obtidas pela [[03_Lore_Mundo/Saitama/Escola de Kyōto]] através de incidente catastrófico.
+**Mori no Kage** (森の影, "Sombra da Floresta") é maldição que habita floresta na região de Nikkō, Tochigi — área referenciada como **"Floresta dos Corpos"**. Informações sobre a maldição foram obtidas pela [[Escola de Kyōto]] através de incidente catastrófico.
 
-**Status atual:** Ativa (Dia 60 pós-[[O Colapso de Tókyō|Colapso]]). [[03_Lore_Mundo/Mundo/Escola de Kyōto]] classificou resolução como **prioridade extremamente alta** devido a culto ativo e ameaça crescente. Opções de intervenção estão sendo avaliadas.
+**Status atual:** Ativa (Dia 60 pós-[[O Colapso de Tókyō|Colapso]]). [[Escola de Tókyō]] classificou resolução como **prioridade extremamente alta** devido a culto ativo e ameaça crescente. Opções de intervenção estão sendo avaliadas.
 
 ## **Aparência**
 
@@ -89,11 +89,11 @@ Micro culto ativo opera na região de Nikkō:
 
 Impossível distinguir cultistas de civis genuínos até ação hostil. Qualquer operação contra o culto **pode resultar em baixas civis não desejadas** — pessoas inocentes podem ser confundidas com cultistas ou pegos no fogo cruzado.
 
-[[03_Lore_Mundo/Mundo/Escola de Kyōto]] está avaliando como proceder sem causar mortes desnecessárias.
+[[Escola de Tókyō]] está avaliando como proceder sem causar mortes desnecessárias.
 
 ## **Resposta da Escola**
 
-[[03_Lore_Mundo/Mundo/Escola de Kyōto]] classificou Mori no Kage como **prioridade extremamente alta**:
+[[Escola de Tókyō]] classificou Mori no Kage como **prioridade extremamente alta**:
 
 **Razões:**
 

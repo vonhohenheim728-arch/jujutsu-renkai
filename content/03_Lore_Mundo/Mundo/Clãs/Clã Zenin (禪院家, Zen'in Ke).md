@@ -30,6 +30,6 @@ O clã opera sob liderança de **chefe de família** (geralmente homem mais velh
 
 #### **Pós-[[O Colapso de Tókyō|Colapso]]**
 
-O Clã Zenin perdeu membros significativos durante [[O Colapso de Tókyō|O Colapso]] e período subsequente. Status atual dentro da [[03_Lore_Mundo/Saitama/Escola de Tókyō]] e relação com [[Morine Shunko]] é tenso — como parte dos [[Três Grandes Clãs (御三家, Gosanke)]], Zenin tentou consolidar poder durante [[Crise dos 3 Clãs]] mas foi forçado a recuar.
+O Clã Zenin perdeu membros significativos durante [[O Colapso de Tókyō|O Colapso]] e período subsequente. Status atual dentro da [[Escola de Tókyō]] e relação com [[Morine Shunko]] é tenso — como parte dos [[Três Grandes Clãs (御三家, Gosanke)]], Zenin tentou consolidar poder durante [[Crise dos 3 Clãs]] mas foi forçado a recuar.
 
 Representante Zenin no Conselho Temporário mantém influência consultiva mas perdeu controle direto sobre operações da escola.

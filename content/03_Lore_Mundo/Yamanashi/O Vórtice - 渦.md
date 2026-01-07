@@ -21,6 +21,6 @@ Testemunhas reportam que nas primeiras 6-8 horas após o término da [[Guerra do
 - Barreira natural ao sul/sudoeste de Tóquio
 #### **Status**
 
-Ativo. Possível expansão (~50-100m/mês). [[03_Lore_Mundo/Saitama/Escola de Tókyō]] mantém observação mas sem recursos para selamento.
+Ativo. Possível expansão (~50-100m/mês). [[Escola de Tókyō]] mantém observação mas sem recursos para selamento.
 
 **⚠️ Aproximação não-autorizada proibida.**

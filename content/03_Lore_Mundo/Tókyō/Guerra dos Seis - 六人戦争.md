@@ -2,7 +2,7 @@ A **Guerra dos Seis** (六人戦争, _Rokunin Sensō_) refere-se ao confronto ca
 
 ## **Combatentes**
 
-##### **Lado da [[03_Lore_Mundo/Saitama/Escola de Tókyō]]:**
+##### **Lado da [[Escola de Tókyō]]:**
 
 - [[Satow Toki]] - Grau Especial - **Desaparecida (Presumido Morto)**
 - [[Aki Fujio]] - Grau Especial - **Desaparecido (Presumido Morto)**

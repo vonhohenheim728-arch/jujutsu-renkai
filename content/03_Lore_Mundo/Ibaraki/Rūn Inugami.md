@@ -16,7 +16,7 @@
 
 **Rūn Inugami** (ルーン犬神, "Deus-Cão Rúnico") é maldição de grau 2 que assombra seção da Jōban Expressway em Ibaraki.
 
-**Status atual:** Ativa (Dia 60 pós-[[O Colapso de Tókyō|Colapso]]). [[03_Lore_Mundo/Saitama/Escola de Tókyō]] registrou presença mas não possui recursos para exorcismo imediato.
+**Status atual:** Ativa (Dia 60 pós-[[O Colapso de Tókyō|Colapso]]). [[Escola de Tókyō]] registrou presença mas não possui recursos para exorcismo imediato.
 
 ## **Aparência**
 
@@ -63,7 +63,7 @@ Quando detecta alvo válido (alta velocidade), persegue até:
 
 ## **Contenção**
 
-[[03_Lore_Mundo/Saitama/Escola de Tókyō]] colocou sinalizações improvisadas:
+[[Escola de Tókyō]] colocou sinalizações improvisadas:
 
 - "NÃO CORRA"
 - "VELOCIDADE MÁXIMA: 20 KM/H"

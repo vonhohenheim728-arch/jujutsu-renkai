@@ -26,7 +26,7 @@ Cada clã vigia os outros de perto, incluindo informações sobre técnicas herd
 
 #### **Pós-[[O Colapso de Tókyō|Colapso]]**
 
-A [[Crise dos 3 Clãs]] (Dias 45-60) marcou tentativa dos três clãs de consolidar controle direto sobre [[03_Lore_Mundo/Saitama/Escola de Tókyō]] no vácuo de poder.
+A [[Crise dos 3 Clãs]] (Dias 45-60) marcou tentativa dos três clãs de consolidar controle direto sobre [[Escola de Tókyō]] no vácuo de poder.
 
 **Resultado:**
 

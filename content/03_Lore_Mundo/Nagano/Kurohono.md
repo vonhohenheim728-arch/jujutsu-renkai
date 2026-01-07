@@ -18,7 +18,7 @@
 
 **"Chama Negra"**
 
-Maldição grau 1. Registrada pela [[03_Lore_Mundo/Saitama/Escola de Tókyō]].
+Maldição grau 1. Registrada pela [[Escola de Tókyō]].
 
 Conhecida popularmente como **"Chama Negra de Yatsugatake"** quando referida por localização específica.
 
@@ -42,11 +42,11 @@ Ataca qualquer ser vivo que entre no perímetro. Não demonstra inteligência �
 
 Primeiros relatos vieram de grupo de refugiados tentando atravessar Yatsugatake (Dia 12 pós-[[O Colapso de Tókyō|Colapso]]). Sobreviventes descreveram "lobo de fogo gigante" que queimou metade do grupo.
 
-[[03_Lore_Mundo/Saitama/Escola de Tókyō]] enviou equipe de reconhecimento (Dia 15). Confirmaram existência de maldição grau 1. Tentativa de exorcismo foi abortada — força da maldição superou estimativa inicial, equipe recuou com baixas.
+[[Escola de Tókyō]] enviou equipe de reconhecimento (Dia 15). Confirmaram existência de maldição grau 1. Tentativa de exorcismo foi abortada — força da maldição superou estimativa inicial, equipe recuou com baixas.
 
 #### **Status Atual (Dia 60)**
 
-Maldição permanece ativa em Yatsugatake. [[03_Lore_Mundo/Saitama/Escola de Tókyō]] registrou oficialmente mas não planeja exorcismo no curto prazo.
+Maldição permanece ativa em Yatsugatake. [[Escola de Tókyō]] registrou oficialmente mas não planeja exorcismo no curto prazo.
 
 **Razões:**
 
