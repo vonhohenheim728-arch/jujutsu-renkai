@@ -3,7 +3,7 @@ tipo: Personagem
 categoria: Feiticeiro
 grau: 4º Grau
 status: Vivo
-grupo: "[[03_Lore_Mundo/Saitama/Escola de Tókyō]]"
+grupo: "[[Escola de Tókyō]]"
 relacoes:
   - "[[Gyoza Udon]]"
   - "[[Katsu Udon]]"
@@ -18,10 +18,10 @@ relacoes:
 > | **Categoria:** | Feiticeiro |
 > | **Grau:** | 4º Grau |
 > | **Status:** | Vivo |
-> | **Grupo:** | [[03_Lore_Mundo/Saitama/Escola de Tókyō]] |
+> | **Grupo:** | [[Escola de Tókyō]] |
 
 
-**Soba Udon** (そばうどん) é feiticeiro da [[03_Lore_Mundo/Saitama/Escola de Tókyō]], membro do Clã Udon.
+**Soba Udon** (そばうどん) é feiticeiro da [[Escola de Tókyō]], membro do Clã Udon.
 
 #### **Histórico**
 
@@ -33,7 +33,7 @@ Quando Gyoza rejeitou papel de herdeiro e deixou o clã para trabalhar na cozinh
 
 #### **Entrada na Escola**
 
-Soba entrou na [[03_Lore_Mundo/Saitama/Escola de Tókyō]] recentemente [antes ou logo após [[O Colapso de Tókyō|O Colapso]]] como feiticeiro. Não possui técnica herdada, mas é competente.
+Soba entrou na [[Escola de Tókyō]] recentemente [antes ou logo após [[O Colapso de Tókyō|O Colapso]]] como feiticeiro. Não possui técnica herdada, mas é competente.
 
 Segue orientações de [[Katsu Udon]] de forma incondicional. Tenta compensar ausência de [[Gyoza Udon]] como representante do clã, buscando aprovação paterna que nunca recebeu durante maior parte da vida.
 

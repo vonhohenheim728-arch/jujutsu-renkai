@@ -20,7 +20,7 @@ relacoes:
 > | **Status:** | Desaparecido/Morto |
 > | **Grupo:** | Renegados |
 
- **Takai Gojo** foi feiticeiro grau especial, ex-aluno da [[03_Lore_Mundo/Saitama/Escola de Tókyō]]. Desaparecido (presumido morto) após participação na [[Guerra dos Seis - 六人戦争]].
+ **Takai Gojo** foi feiticeiro grau especial, ex-aluno da [[Escola de Tókyō]]. Desaparecido (presumido morto) após participação na [[Guerra dos Seis - 六人戦争]].
  Possuidor dos **Seis Olhos** e técnica **Ilimitado** — combinação extremamente rara que o tornava um dos feiticeiros mais poderosos de sua geração.
 
 #### **Histórico na Escola**
@@ -32,7 +32,7 @@ Estudou sob orientação de **Moto Geto** (executado pela escola ~1 ano antes d'
 
 #### **Deserção**
 
-Após [período redatado], Takai deixou a [[03_Lore_Mundo/Saitama/Escola de Tókyō]] e foi visto em associação com organizações criminosas de jujutsu.
+Após [período redatado], Takai deixou a [[Escola de Tókyō]] e foi visto em associação com organizações criminosas de jujutsu.
 
 Motivações permanecem classificadas.
 

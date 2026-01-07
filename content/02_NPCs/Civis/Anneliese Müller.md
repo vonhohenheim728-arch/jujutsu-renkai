@@ -11,10 +11,10 @@
 > |**Tipo:**|NPC|
 > |**Categoria:**|Civil|
 > |**Status:**|Viva|
-> |**Grupo:**|Escola de Tókyō|
+> |**Grupo:**|[[Escola de Tókyō]]|
 > |**Nacionalidade:**|Alemã|
 
-**Anneliese Müller** — conhecida como **Anne** — é engenheira civil alemã que reside no acampamento da [[03_Lore_Mundo/Saitama/Escola de Tókyō]].
+**Anneliese Müller** — conhecida como **Anne** — é engenheira civil alemã que reside no acampamento da[[Escola de Tókyō]].
 
 #### **Função**
 

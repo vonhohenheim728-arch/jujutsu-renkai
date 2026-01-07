@@ -3,7 +3,7 @@ tipo: Personagem
 categoria: Feiticeiro
 grau: 4º Grau
 status: Vivo
-grupo: "[[03_Lore_Mundo/Saitama/Escola de Tókyō]]"
+grupo: "[[Escola de Tókyō]]"
 relacoes:
 ---
 > [!infobox]+
@@ -20,11 +20,11 @@ relacoes:
 > |**Categoria:**|Feiticeiro|
 > |**Grau:**|4|
 > |**Status:**|Vivo|
-> |**Grupo:**|Escola de Tókyō|
+> |**Grupo:**|[[Escola de Tókyō]]|
 > |**Esquadrão:**|Kaiba Yoshifusa|
 > |**Clã:**|[[Clã Inumaki (犬巻家, Inumaki Ke)]]|
 
-**Egawa Inumaki** (江川犬巻) é feiticeiro grau 4 da [[03_Lore_Mundo/Saitama/Escola de Tókyō]]. Membro do esquadrão comandado por [[Kaiba Yoshifusa]]. Pertence ao [[Clã Inumaki (犬巻家, Inumaki Ke)]].
+**Egawa Inumaki** (江川犬巻) é feiticeiro grau 4 da [[Escola de Tókyō]]. Membro do esquadrão comandado por [[Kaiba Yoshifusa]]. Pertence ao [[Clã Inumaki (犬巻家, Inumaki Ke)]].
 
 #### **Limitação**
 

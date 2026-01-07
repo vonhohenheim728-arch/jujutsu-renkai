@@ -3,7 +3,7 @@ tipo: Personagem
 categoria: Feiticeiro
 grau: 3º Grau
 status: Vivo
-grupo: "[[03_Lore_Mundo/Saitama/Escola de Tókyō]]"
+grupo: "[[Escola de Tókyō]]"
 relacoes:
 ---
 > [!infobox]+
@@ -20,10 +20,10 @@ relacoes:
 > |**Categoria:**|Feiticeiro|
 > |**Grau:**|3|
 > |**Status:**|Vivo|
-> |**Grupo:**|[[03_Lore_Mundo/Saitama/Escola de Tókyō]]|
+> |**Grupo:**|[[Escola de Tókyō]]|
 
 
-**Asai Seison** (浅井清尊) é feiticeiro grau 3 da [[03_Lore_Mundo/Saitama/Escola de Tókyō]]. Membro do esquadrão comandado por [[Kaiba Yoshifusa]].
+**Asai Seison** (浅井清尊) é feiticeiro grau 3 da [[Escola de Tókyō]]. Membro do esquadrão comandado por [[Kaiba Yoshifusa]].
 
 #### **Personalidade**
 

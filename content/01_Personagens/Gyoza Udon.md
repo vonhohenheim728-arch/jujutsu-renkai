@@ -8,9 +8,9 @@
 > | **Categoria** | Feiticeiro |
 > | **Grau** | 4º Grau |
 > | **Status** | Vivo |
-> | **Grupo** | [[03_Lore_Mundo/Saitama/Escola de Tókyō]] |
+> | **Grupo** | [[Escola de Tókyō]] |
 
-**Gyoza Udon** (餃子うどん) é feiticeiro grau 4 da [[03_Lore_Mundo/Saitama/Escola de Tókyō]], herdeiro da técnica do Clã Udon. Trabalha como chef principal da escola e em operações de campo conforme necessário.
+**Gyoza Udon** (餃子うどん) é feiticeiro grau 4 da [[Escola de Tókyō]], herdeiro da técnica do Clã Udon. Trabalha como chef principal da escola e em operações de campo conforme necessário.
 
 #### **Clã Udon**
 
@@ -18,7 +18,7 @@ Gyoza nasceu no Clã Udon, clã menor conhecido por técnica herdada que identif
 
 Katsu é politicamente ambicioso — sonha elevar Clã Udon ao status dos [[Três Grandes Clãs (御三家, Gosanke)|Três Grandes Clãs]]. Pressionou Gyoza desde jovem para assumir papel de representante político do clã.
 
-Gyoza rejeitou. Declarou preferência por trabalho culinário ao invés de representação política, rompendo com expectativas paternas. Entrou na [[03_Lore_Mundo/Saitama/Escola de Tókyō]] solicitando trabalho na cozinha.
+Gyoza rejeitou. Declarou preferência por trabalho culinário ao invés de representação política, rompendo com expectativas paternas. Entrou na [[Escola de Tókyō]] solicitando trabalho na cozinha.
 
 Irmão mais novo, [[Soba Udon]], não manifestou técnica herdada. Entrou na escola recentemente como grau 4, tentando compensar ausência de Gyoza como representante do clã. Relação entre irmãos é tensa.
 
@@ -40,7 +40,7 @@ Técnica requer foco. Uso prolongado causa exaustão mental. Combate close-range
 
 #### **Papel Atual**
 
-**Cozinha:** Chef principal da [[03_Lore_Mundo/Saitama/Escola de Tókyō]]. Organiza cardápio, gerencia recursos limitados, treina assistentes civis. Refeições são reconhecidas como fator importante para moral.
+**Cozinha:** Chef principal da [[Escola de Tókyō]]. Organiza cardápio, gerencia recursos limitados, treina assistentes civis. Refeições são reconhecidas como fator importante para moral.
 
 **Campo:** Opera em missões quando designado. Estilo eficiente e direto — analisa, localiza ponto fraco, elimina ameaça. Retorna à cozinha assim que possível.
 

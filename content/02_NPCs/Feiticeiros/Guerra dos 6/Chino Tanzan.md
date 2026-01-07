@@ -30,7 +30,7 @@ Reconhecida por técnica **impossível de bloquear ou defender** — nenhum feit
 
 Chino Tanzan foi uma das seis feiticeiros grau especial que se enfrentaram no Dia 1. Lutou ao lado de [[Takai Gojo]].
 
-Combate resultou em destruição catastrófica de Tóquio. Todos os seis participantes foram **declarados mortos** pela [[03_Lore_Mundo/Saitama/Escola de Tókyō]].
+Combate resultou em destruição catastrófica de Tóquio. Todos os seis participantes foram **declarados mortos** pela [[Escola de Tókyō]].
 
 Circunstâncias específicas não-documentadas. Corpos não foram recuperados.
 

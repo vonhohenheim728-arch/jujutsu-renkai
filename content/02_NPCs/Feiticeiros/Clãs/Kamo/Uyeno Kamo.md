@@ -12,10 +12,10 @@
 > |**Categoria:**|Feiticeira|
 > |**Grau:**|2|
 > |**Status:**|Viva|
-> |**Grupo:**|[[03_Lore_Mundo/Saitama/Escola de Tókyō]]|
+> |**Grupo:**|[[Escola de Tókyō]]|
 
 
-**Uyeno Kamo** (上野加茂) é feiticeira grau 2 da [[03_Lore_Mundo/Saitama/Escola de Tókyō]]. Membro do esquadrão comandado por [[Kaiba Yoshifusa]]. Pertence ao [[Clã Kamo (加茂家, Kamo Ke)]].
+**Uyeno Kamo** (上野加茂) é feiticeira grau 2 da [[Escola de Tókyō]]. Membro do esquadrão comandado por [[Kaiba Yoshifusa]]. Pertence ao [[Clã Kamo (加茂家, Kamo Ke)]].
 
 #### **Personalidade**
 

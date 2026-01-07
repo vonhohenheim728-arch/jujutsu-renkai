@@ -3,7 +3,7 @@ tipo: Personagem
 categoria: Feiticeiro
 grau: 2º Grau
 status: Desaparecido/Morto
-grupo: "[[03_Lore_Mundo/Saitama/Escola de Tókyō]]"
+grupo: "[[Escola de Tókyō]]"
 relacoes:
   - "[[Wang Weiqi]]"
   - "[[Morine Shunko]]"
@@ -19,14 +19,14 @@ relacoes:
 > | **Categoria:** | Feiticeiro |
 > | **Grau:** | 2º Grau |
 > | **Status:** | Desaparecido/Morto |
-> | **Grupo:** | [[03_Lore_Mundo/Saitama/Escola de Tókyō]] |
+> | **Grupo:** | [[Escola de Tókyō]] |
 
 
-**Kanzaki Koma** (神崎駒) foi feiticeiro da [[03_Lore_Mundo/Saitama/Escola de Tókyō]]. **Desaparecido durante [[O Colapso de Tókyō|O Colapso]]** (Dias 1-30).
+**Kanzaki Koma** (神崎駒) foi feiticeiro da [[Escola de Tókyō]]. **Desaparecido durante [[O Colapso de Tókyō|O Colapso]]** (Dias 1-30).
 
 #### **Histórico**
 
-Kanzaki era feiticeiro experiente da [[03_Lore_Mundo/Saitama/Escola de Tókyō]]. Teve relacionamento com mulher chinesa — [[Wang Weiqi]] (filho) nasceu e foi criado na China.
+Kanzaki era feiticeiro experiente da [[Escola de Tókyō]]. Teve relacionamento com mulher chinesa — [[Wang Weiqi]] (filho) nasceu e foi criado na China.
 
 Manteve contato irregular com filho durante infância/adolescência. Visitava ocasionalmente mas vivia no Japão trabalhando para escola.
 
@@ -44,12 +44,12 @@ Kanzaki manteve comunicação com [[Wang Weiqi]] após retornar ao Japão.
 
 **Dia 1:** [[Guerra dos Seis - 六人戦争]] aconteceu.
 
-Kanzaki estava na [[03_Lore_Mundo/Saitama/Escola de Tókyō]] durante [[O Colapso de Tókyō|O Colapso]]. Circunstâncias do desaparecimento não-documentadas.
+Kanzaki estava na [[Escola de Tókyō]] durante [[O Colapso de Tókyō|O Colapso]]. Circunstâncias do desaparecimento não-documentadas.
 
 **Status:** Lista de **"Desaparecido/Baixas Não-Confirmadas"** — sem corpo recuperado, sem confirmação de morte, sem testemunhas claras.
 
 #### **Legado**
 
-[[Wang Weiqi]] chegou ao Japão (Dia 30) procurando pai. Ficou preso em Kanto isolada, trabalha para [[03_Lore_Mundo/Saitama/Escola de Tókyō]] investigando desaparecimento.
+[[Wang Weiqi]] chegou ao Japão (Dia 30) procurando pai. Ficou preso em Kanto isolada, trabalha para [[Escola de Tókyō]] investigando desaparecimento.
 
 DogTag de Kanzaki permanece com [[Wang Weiqi]].

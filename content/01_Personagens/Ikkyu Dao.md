@@ -8,13 +8,13 @@
 > | **Categoria:** | Feiticeiro |
 > | **Grau:** | 4º Grau |
 > | **Status:** | Vivo |
-> | **Grupo:** | [[03_Lore_Mundo/Saitama/Escola de Tókyō]] |
+> | **Grupo:** | [[Escola de Tókyō]] |
 
 ### **Resumo**
 
-**kkyu Dao** é feiticeiro grau 4 da [[03_Lore_Mundo/Saitama/Escola de Tókyō]], ex-discípulo de Moto Geto (executado pela escola aproximadamente 1 ano antes d'[[O Colapso de Tókyō|O Colapso]]).
+**kkyu Dao** é feiticeiro grau 4 da [[Escola de Tókyō]], ex-discípulo de Moto Geto (executado pela escola aproximadamente 1 ano antes d'[[O Colapso de Tókyō|O Colapso]]).
 
-Natural da Tailândia, Ikkyu veio ao Japão para treinar na [[03_Lore_Mundo/Saitama/Escola de Tókyō]]. Estudou sob orientação de [[Moto Geto]], ao lado de **[[Takai Gojo]]**. Os três formavam trio próximo — mestre e dois discípulos.
+Natural da Tailândia, Ikkyu veio ao Japão para treinar na [[Escola de Tókyō]]. Estudou sob orientação de [[Moto Geto]], ao lado de **[[Takai Gojo]]**. Os três formavam trio próximo — mestre e dois discípulos.
 
 Ikkyu demonstrou aptidão para manipulação de maldições, técnica rara e complexa.
 
@@ -39,7 +39,7 @@ DAproximadamente 1 ano antes d'[[O Colapso de Tókyō|O Colapso]], **Moto Geto f
 
 Semanas antes da [[Guerra dos Seis - 六人戦争]], Ikkyu encontrou conhecido por acaso que mencionou a morte de Moto Geto e rumores sobre [[Takai Gojo]].
 
-Chocado, Ikkyu decidiu voltar à [[03_Lore_Mundo/Saitama/Escola de Tókyō]] para entender o que havia acontecido.
+Chocado, Ikkyu decidiu voltar à [[Escola de Tókyō]] para entender o que havia acontecido.
 
 Foi readmitido temporariamente. Tentou investigar, mas antes que pudesse descobrir qualquer coisa, a [[Guerra dos Seis - 六人戦争]] aconteceu.
 

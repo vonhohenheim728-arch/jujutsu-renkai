@@ -3,7 +3,7 @@ tipo: Personagem
 categoria: Feiticeiro
 grau: Especial
 status: Desaparecido/Morto
-grupo: "[[03_Lore_Mundo/Saitama/Escola de Tókyō]]"
+grupo: "[[Escola de Tókyō]]"
 relacoes:
 ---
 > [!infobox]+
@@ -16,7 +16,7 @@ relacoes:
 > | **Categoria:** | Feiticeiro |
 > | **Grau:** | Especial |
 > | **Status:** | Desaparecido/Morto |
-> | **Grupo:** | [[03_Lore_Mundo/Saitama/Escola de Tókyō]] |
+> | **Grupo:** | [[Escola de Tókyō]] |
 
 **Nagai Murai** (永井村井) foi feiticeiro grau especial.
 
@@ -28,7 +28,7 @@ Possuía a **técnica ofensiva mais forte** com a única exceção sendo [[Takai
 
 Nagai Murai foi um dos seis feiticeiros grau especial que se enfrentaram no Dia 1.
 
-Combate resultou em destruição catastrófica de Tóquio. Todos os seis participantes foram **declarados mortos** pela [[03_Lore_Mundo/Saitama/Escola de Tókyō]].
+Combate resultou em destruição catastrófica de Tóquio. Todos os seis participantes foram **declarados mortos** pela [[Escola de Tókyō]].
 
 Circunstâncias específicas não-documentadas. Corpos não foram recuperados.
 

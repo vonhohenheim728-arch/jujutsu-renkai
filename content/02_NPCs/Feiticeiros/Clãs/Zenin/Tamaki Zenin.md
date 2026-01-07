@@ -3,7 +3,7 @@ tipo: Personagem
 categoria: Feiticeiro
 grau: 2º Grau
 status: Vivo
-grupo: "[[03_Lore_Mundo/Saitama/Escola de Tókyō]]"
+grupo: "[[Escola de Tókyō]]"
 relacoes:
 ---
 
@@ -21,7 +21,7 @@ relacoes:
 > |**Categoria:**|Feiticeiro|
 > |**Grau:**|2|
 > |**Status:**|Vivo|
-> |**Grupo:**|[[03_Lore_Mundo/Saitama/Escola de Tókyō]]|
+> |**Grupo:**|[[Escola de Tókyō]]|
 > |**Posição:**|Representante do Clã Zenin|
 
 
@@ -29,7 +29,7 @@ relacoes:
 
 #### **Posição**
 
-Representa [[Clã Zenin (禪院家, Zen'in Ke)|Clã Zenin]] na [[03_Lore_Mundo/Saitama/Escola de Tókyō]].
+Representa [[Clã Zenin (禪院家, Zen'in Ke)|Clã Zenin]] na [[Escola de Tókyō]].
 
 Perdeu disputa para cargo de Representante dos [[Três Grandes Clãs (御三家, Gosanke)|Três Grandes Clãs]] no Conselho Temporário — [[Goda Kamo]] venceu (Dias 50-60 pós-[[O Colapso de Tókyō|Colapso]]).
 

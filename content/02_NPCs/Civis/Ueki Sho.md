@@ -11,9 +11,9 @@
 > |**Tipo:**|NPC|
 > |**Categoria:**|Civil|
 > |**Status:**|Viva|
-> |**Grupo:**|Escola de Tókyō|
+> |**Grupo:**|[[Escola de Tókyō]]|
 
-**Ueki Sho** (植木翔) é civil que reside no acampamento da [[03_Lore_Mundo/Saitama/Escola de Tókyō]].
+**Ueki Sho** (植木翔) é civil que reside no acampamento da [[Escola de Tókyō]].
 
 #### **Função**
 

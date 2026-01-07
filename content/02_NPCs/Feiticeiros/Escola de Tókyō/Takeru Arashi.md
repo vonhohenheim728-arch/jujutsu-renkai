@@ -3,7 +3,7 @@ tipo: Personagem
 categoria: Feiticeiro
 grau: 2º Grau
 status: Vivo
-grupo: "[[03_Lore_Mundo/Saitama/Escola de Tókyō]]"
+grupo: "[[Escola de Tókyō]]"
 relacoes:
 ---
 
@@ -21,9 +21,9 @@ relacoes:
 > |**Categoria:**|Feiticeiro|
 > |**Grau:**|2|
 > |**Status:**|Vivo|
-> |**Grupo:**|[[03_Lore_Mundo/Saitama/Escola de Tókyō]]|
+> |**Grupo:**|[[Escola de Tókyō]]|
 
-**Takeru Arashi** (嵐猛) é feiticeiro grau 2 da [[03_Lore_Mundo/Saitama/Escola de Tókyō]]. Membro do esquadrão comandado por [[Kaiba Yoshifusa]].
+**Takeru Arashi** (嵐猛) é feiticeiro grau 2 da [[Escola de Tókyō]]. Membro do esquadrão comandado por [[Kaiba Yoshifusa]].
 
 #### **Função**
 

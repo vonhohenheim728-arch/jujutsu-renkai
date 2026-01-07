@@ -3,7 +3,7 @@ tipo: Personagem
 categoria: Feiticeiro
 grau: 3º Grau
 status: Vivo
-grupo: "[[03_Lore_Mundo/Saitama/Escola de Tókyō]]"
+grupo: "[[Escola de Tókyō]]"
 relacoes:
 ---
 
@@ -21,13 +21,13 @@ relacoes:
 > |**Categoria:**|Feiticeira|
 > |**Grau:**|3|
 > |**Status:**|Viva|
-> |**Grupo:**|[[03_Lore_Mundo/Saitama/Escola de Tókyō]]|
+> |**Grupo:**|[[Escola de Tókyō]]|
 
-**Uzumaki Akihisa** (渦巻明久) é feiticeira grau 3 da [[03_Lore_Mundo/Saitama/Escola de Tókyō]].
+**Uzumaki Akihisa** (渦巻明久) é feiticeira grau 3 da [[Escola de Tókyō]].
 
 #### **Passado**
 
-Graduou como grau 3 há alguns anos. Saiu da [[03_Lore_Mundo/Saitama/Escola de Tókyō]] para seguir carreira como idol e pop star.
+Graduou como grau 3 há alguns anos. Saiu da [[Escola de Tókyō]] para seguir carreira como idol e pop star.
 
 Alcançou sucesso moderado — shows, aparições televisivas, base de fãs.
 

@@ -3,7 +3,7 @@ tipo: Personagem
 categoria: Feiticeiro
 grau: 1º Grau
 status: Vivo
-grupo: "[[03_Lore_Mundo/Saitama/Escola de Tókyō]]"
+grupo: "[[Escola de Tókyō]]"
 relacoes:
   - "[[Kaiba Yoshifusa]]"
 ---
@@ -17,21 +17,21 @@ relacoes:
 > | **Categoria:** | Feiticeiro |
 > | **Grau:** | 1º Grau |
 > | **Status:** | Vivo |
-> | **Grupo:** | [[03_Lore_Mundo/Saitama/Escola de Tókyō]] |---
+> | **Grupo:** | [[Escola de Tókyō]] |
 
-**Morine Shunko** é a Diretora da [[03_Lore_Mundo/Saitama/Escola de Tókyō]]. Após a [[Crise dos 3 Clãs]], a escola estabeleceu autonomia de facto, e o papel de Morine foi significativamente ampliado.
+**Morine Shunko** é a Diretora da [[Escola de Tókyō]]. Após a [[Crise dos 3 Clãs]], a escola estabeleceu autonomia de facto, e o papel de Morine foi significativamente ampliado.
 
 
 #### **Antes da [[Crise dos 3 Clãs]]**
 
-Morine já era Diretora da [[03_Lore_Mundo/Saitama/Escola de Tókyō]] antes d'[[O Colapso de Tókyō|O Colapso]], mas — como todas as escolas de jujutsu no Japão — operava subordinada ao **Conselho** (corpo de anciões, majoritariamente dos Três Grandes Clãs, responsável por grandes decisões no mundo de jujutsu).
+Morine já era Diretora da [[Escola de Tókyō]] antes d'[[O Colapso de Tókyō|O Colapso]], mas — como todas as escolas de jujutsu no Japão — operava subordinada ao **Conselho** (corpo de anciões, majoritariamente dos Três Grandes Clãs, responsável por grandes decisões no mundo de jujutsu).
 
 Decisões importantes requeriam aprovação do Conselho. O papel de Diretor era mais administrativo que executivo.
 
 
 #### **Pós-[[O Colapso de Tókyō|Colapso]] - Isolamento**
 
-Com o isolamento de Kanto (Dia 30) e comunicação cortada com mundo exterior, a [[03_Lore_Mundo/Saitama/Escola de Tókyō]] perdeu contato prático com o Conselho. Decisões precisavam ser tomadas localmente, sem aprovação externa.
+Com o isolamento de Kanto (Dia 30) e comunicação cortada com mundo exterior, a [[Escola de Tókyō]] perdeu contato prático com o Conselho. Decisões precisavam ser tomadas localmente, sem aprovação externa.
 
 Internamente, membros locais dos Três Grandes Clãs tentaram preencher vácuo de autoridade, pressionando Morine e outros administradores.
 
@@ -46,12 +46,12 @@ Os [[Três Grandes Clãs (御三家, Gosanke)]] recuaram de tentativas de contro
 - **Representante dos Três Grandes Clãs** - Poder consultivo
 - **Representante Civil** - Legitimação popular
 
-Tecnicamente, a [[03_Lore_Mundo/Saitama/Escola de Tókyō]] ainda "responde" ao Conselho, mas na prática opera de forma completamente autônoma.
+Tecnicamente, a [[Escola de Tókyō]] ainda "responde" ao Conselho, mas na prática opera de forma completamente autônoma.
 
 
 #### **Filosofia de Comando**
 
-Morine é conhecida por pragmatismo brutal. Sob sua liderança reestruturada, a [[03_Lore_Mundo/Saitama/Escola de Tókyō]] adotou postura de sobrevivência a qualquer custo.
+Morine é conhecida por pragmatismo brutal. Sob sua liderança reestruturada, a [[Escola de Tókyō]] adotou postura de sobrevivência a qualquer custo.
 
 Decisões controversas incluem:
 

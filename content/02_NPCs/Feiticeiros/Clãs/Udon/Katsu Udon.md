@@ -3,7 +3,7 @@ tipo: Personagem
 categoria: Feiticeiro
 grau: 4º Grau
 status: Vivo
-grupo: "[[03_Lore_Mundo/Saitama/Escola de Tókyō]]"
+grupo: "[[Escola de Tókyō]]"
 relacoes:
   - "[[Soba Udon]]"
   - "[[Gyoza Udon]]"
@@ -18,7 +18,7 @@ relacoes:
 > | **Categoria:** | Feiticeiro |
 > | **Grau:** | 4º Grau |
 > | **Status:** | Vivo |
-> | **Grupo:** | [[03_Lore_Mundo/Saitama/Escola de Tókyō]] |---
+> | **Grupo:** | [[Escola de Tókyō]] |
 
 **Katsu Udon** (勝うどん) é chefe do Clã Udon, clã menor de feiticeiros.
 
@@ -28,13 +28,13 @@ Katsu não é feiticeiro de combate poderoso, mas é estrategista político habi
 
 Investiu expectativas em filho mais velho, [[Gyoza Udon]], que manifestou técnica herdada do clã desde jovem. Pressionou Gyoza intensamente para assumir papel de representante político e herdeiro oficial.
 
-Rejeição de Gyoza — que optou por trabalho culinário na [[03_Lore_Mundo/Saitama/Escola de Tókyō]] ao invés de representação do clã — foi interpretada como traição à linhagem. Katsu cortou contato, mas nunca perdoou.
+Rejeição de Gyoza — que optou por trabalho culinário na [[Escola de Tókyō]] ao invés de representação do clã — foi interpretada como traição à linhagem. Katsu cortou contato, mas nunca perdoou.
 
 #### **[[Crise dos 3 Clãs]]**
 
 Durante [[Crise dos 3 Clãs]] (Dias 45-60 pós-[[O Colapso de Tókyō|colapso]]), Katsu emergiu como uma das vozes mais proeminentes entre clãs menores.
 
-Argumentou que [[Três Grandes Clãs (御三家, Gosanke)|Três Grandes Clãs]] haviam perdido legitimidade após [[O Colapso de Tókyō|O Colapso]] — todos feiticeiros grau especial mortos ou desaparecidos, liderança tradicional colapsada. Pressionou para que clãs menores assumissem controle da [[03_Lore_Mundo/Saitama/Escola de Tókyō]].
+Argumentou que [[Três Grandes Clãs (御三家, Gosanke)|Três Grandes Clãs]] haviam perdido legitimidade após [[O Colapso de Tókyō|O Colapso]] — todos feiticeiros grau especial mortos ou desaparecidos, liderança tradicional colapsada. Pressionou para que clãs menores assumissem controle da [[Escola de Tókyō]].
 
 Apoiou medidas extremas, incluindo execução de [[Umeji Shintaro]] (feiticeiro grau 3 que recusou ordens), como demonstração de autoridade restaurada.
 
