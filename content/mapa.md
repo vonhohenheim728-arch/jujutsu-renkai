@@ -12,16 +12,11 @@ title: Mapa do Mundo
     padding: 0;
   }
 
-  /* Ajuste do container principal do Quartz */
-  main {
-    padding-top: 0 !important; /* remove padding extra acima do conteúdo */
-  }
-
-  /* Container do mapa — altura ajustada dinamicamente pelo JS */
+  /* Container do mapa */
   #mapa-container {
     width: 100%;
-    height: 600px; /* fallback inicial */
-    margin: 0 0 1rem 0;
+    height: 80vh; /* ocupa 80% da tela */
+    margin: 1rem 0;
     overflow: hidden;
   }
 </style>
@@ -40,30 +35,12 @@ title: Mapa do Mundo
   const altura = 4096;
   const IMAGE_URL = 'https://vonhohenheim728-arch.github.io/jujutsu-renkai/04_Fotos/mundo.png';
 
-  const container = document.getElementById('mapa-container');
+  // Ajuste dos bounds para eliminar espaço em branco em cima
+  // Empurramos a imagem até o topo do container
+  const bounds = [[0, 0], [altura, largura]]; // formato original
+  const topOffset = 0; // ajuste em pixels se necessário (por exemplo 50 para empurrar a imagem 50px para cima)
+  const adjustedBounds = [[-topOffset, 0], [altura - topOffset, largura]];
 
-  function computeMapHeight() {
-    const marginBottomSafety = 16;
-    const minH = 400;
-    const maxH = Math.min(900, Math.floor(window.innerHeight * 0.9));
-
-    const rect = container.getBoundingClientRect();
-    const top = rect.top;
-    const available = window.innerHeight - top - marginBottomSafety;
-    const h = Math.max(minH, Math.min(available, maxH));
-    return h;
-  }
-
-  function adjustContainerHeight() {
-    const h = computeMapHeight();
-    container.style.height = h + 'px';
-  }
-
-  // Ajuste inicial
-  adjustContainerHeight();
-
-  // Criação do mapa Leaflet
-  const bounds = [[0,0],[altura, largura]];
   const mapa = L.map('mapa-container', {
     crs: L.CRS.Simple,
     minZoom: -2,
@@ -71,19 +48,7 @@ title: Mapa do Mundo
     zoomControl: true
   });
 
-  L.imageOverlay(IMAGE_URL, bounds).addTo(mapa);
-  mapa.fitBounds(bounds);
-  mapa.setMaxBounds(bounds);
-  mapa.options.maxBoundsViscosity = 1.0;
+  // Adiciona a imagem usando bounds ajustado
+  L.imageOverlay(IMAGE_URL, adjustedBounds).addTo(mapa);
 
-  function resizeAndInvalidate() {
-    adjustContainerHeight();
-    mapa.invalidateSize();
-  }
-
-  // Ajustes de segurança
-  resizeAndInvalidate();
-  setTimeout(resizeAndInvalidate, 200);
-  window.addEventListener('resize', () => setTimeout(resizeAndInvalidate, 120));
-  window.addEventListener('load', () => setTimeout(resizeAndInvalidate, 150));
-</script>
+  // Faz o mapa se ajustar ao bounds
