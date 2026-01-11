@@ -8,8 +8,10 @@ title: Mapa do Mundo
   id="mapa-container"
   style="
     width: 100%;
-    height: 600px;
+    max-height: 80vh;
+    height: auto;
     margin: 1rem 0;
+    overflow: hidden;
   "
 ></div>
 
@@ -39,4 +41,10 @@ title: Mapa do Mundo
   ).addTo(mapa)
 
   mapa.fitBounds(bounds)
+  mapa.setMaxBounds(bounds)
+  mapa.options.maxBoundsViscosity = 1.0
+
+  // Recalcula tamanho do mapa para evitar cortes
+  mapa.invalidateSize()
+  setTimeout(() => { mapa.invalidateSize() }, 200)
 </script>
