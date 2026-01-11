@@ -12,20 +12,17 @@ title: Mapa do Mundo
     padding: 0;
   }
 
-  /* Wrapper do mapa para criar "moldura" uniforme */
+  /* Container do mapa */
   #mapa-wrapper {
     width: 100%;
-    height: 80vh; /* altura do container */
-    margin: 1rem 0;
-    padding: 5%; /* cria espaço branco uniforme em todos os lados */
-    box-sizing: border-box;
+    height: 80vh; /* ocupa 80% da viewport */
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
     display: flex;
-    justify-content: center; /* centraliza horizontalmente */
-    align-items: center;     /* centraliza verticalmente */
-    background-color: #fff;  /* moldura branca */
+    align-items: flex-start; /* alinha a imagem ao topo */
   }
 
-  /* Container real do mapa */
   #mapa-container {
     width: 100%;
     height: 100%;
@@ -66,7 +63,7 @@ title: Mapa do Mundo
   mapa.invalidateSize();
   setTimeout(() => { mapa.invalidateSize(); }, 200);
 
-  // Ajusta mapa ao redimensionar janela
+  // Ajusta altura ao redimensionar a janela
   let resizeTimer = null;
   window.addEventListener('resize', () => {
     if (resizeTimer) clearTimeout(resizeTimer);
