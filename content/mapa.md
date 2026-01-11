@@ -5,28 +5,35 @@ title: Mapa do Mundo
 # Mapa do Mundo
 
 <style>
+  /* Remove qualquer decoração do título */
   h1 {
     border-bottom: none !important;
     margin: 0 0 0.5rem 0;
     padding: 0;
   }
 
-  /* Wrapper do mapa: cria moldura uniforme */
+  /* Wrapper SEM moldura */
   #mapa-wrapper {
     width: 100%;
-    height: 80vh;           /* altura do mapa */
-    padding: 5%;            /* espaço uniforme em todos os lados */
-    box-sizing: border-box;
-    display: flex;
-    justify-content: center; /* centraliza horizontalmente */
-    align-items: center;     /* centraliza verticalmente */
-    background-color: #f8f8f8; /* cor da moldura */
+    height: 80vh;        /* altura do mapa */
+    margin: 0;
+    padding: 0;
+    background: transparent;
   }
 
-  /* Container do mapa real */
+  /* Container real do Leaflet */
   #mapa-container {
     width: 100%;
     height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+  /* Override DEFINITIVO do Leaflet (mata a linha branca) */
+  .leaflet-container {
+    background: transparent !important;
+    outline: none !important;
+    outline-offset: 0 !important;
   }
 </style>
 
@@ -46,7 +53,7 @@ title: Mapa do Mundo
   const altura = 4096;
   const IMAGE_URL = 'https://vonhohenheim728-arch.github.io/jujutsu-renkai/04_Fotos/mundo.png';
 
-  const bounds = [[0,0],[altura, largura]];
+  const bounds = [[0, 0], [altura, largura]];
 
   const mapa = L.map('mapa-container', {
     crs: L.CRS.Simple,
@@ -55,10 +62,10 @@ title: Mapa do Mundo
     zoomControl: true
   });
 
-  // Adiciona a imagem
+  // Imagem base
   L.imageOverlay(IMAGE_URL, bounds).addTo(mapa);
 
-  // Ajusta mapa para caber nos bounds
+  // Ajustes de bounds
   mapa.fitBounds(bounds);
   mapa.setMaxBounds(bounds);
   mapa.options.maxBoundsViscosity = 1.0;
@@ -73,7 +80,7 @@ title: Mapa do Mundo
     if (resizeTimer) clearTimeout(resizeTimer);
     resizeTimer = setTimeout(() => {
       mapa.invalidateSize();
-      mapa.fitBounds(bounds); // mantém cobertura total
+      mapa.fitBounds(bounds);
       resizeTimer = null;
     }, 120);
   });
