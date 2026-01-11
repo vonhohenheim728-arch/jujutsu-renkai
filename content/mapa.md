@@ -1,25 +1,32 @@
+---
+title: Mapa do Mundo
+---
+
+# Mapa do Mundo
+
 <style>
-  /* Remove a linha/separador do título nesta página */
+  /* Remove separador e espaçamento do título */
   h1 {
     border-bottom: none !important;
-    margin-bottom: 0.5rem;
-    padding-bottom: 0;
+    margin: 0 0 0.5rem 0;
+    padding: 0;
   }
 
-  /* Garante que o mapa encoste corretamente */
+  /* Remove padding do container do Quartz APENAS nesta página */
+  main {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+  }
+
+  /* Container do mapa */
   #mapa-container {
-    margin-top: 0;
-  }
-</style>
-
-<div
-  id="mapa-container"
-  style="
     width: 100%;
     height: 600px;
     margin: 0;
-  "
-></div>
+  }
+</style>
+
+<div id="mapa-container"></div>
 
 <link
   rel="stylesheet"
