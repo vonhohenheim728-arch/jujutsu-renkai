@@ -2,8 +2,6 @@
 title: Mapa do Mundo
 ---
 
-# Mapa do Mundo
-
 <style>
   /* Remove qualquer decoração do título */
   h1 {
