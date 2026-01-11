@@ -70,7 +70,7 @@ title: Mapa do Mundo
   mapa.setMaxBounds(bounds);
   mapa.options.maxBoundsViscosity = 1.0;
 
-  // Garantia de renderização correta
+  // Garantia de renderização corretacv
   mapa.invalidateSize();
   setTimeout(() => mapa.invalidateSize(), 200);
 
