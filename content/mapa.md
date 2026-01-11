@@ -31,6 +31,11 @@ L.imageOverlay(
 ).addTo(mapa)
 
 
-  mapa.fitBounds(bounds)
-  mapa.setMaxBounds(bounds)
+mapa.fitBounds(bounds, {
+  padding: [0, 0]
+})
+
+mapa.setMaxBounds(bounds)
+mapa.options.maxBoundsViscosity = 1.0
+
 </script>
