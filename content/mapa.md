@@ -1,5 +1,3 @@
-# Mapa do Mundo
-
 <style>
   #mapa-container {
     margin-top: 0;
