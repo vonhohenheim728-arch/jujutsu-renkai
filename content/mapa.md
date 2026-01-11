@@ -23,7 +23,7 @@ title: Mapa do Mundo
     maxZoom: 2
   })
 
-  const bounds = [[0, 0], [altura, largura]]
+  const bounds = [[0, 0], [largura, altura]]
 
 L.imageOverlay(
   'https://vonhohenheim728-arch.github.io/jujutsu-renkai/04_Fotos/mundo.png',
