@@ -7,12 +7,12 @@ title: Mapa do Mundo
 <div
   id="mapa-container"
   style="
-    width: 100%;
-    max-width: 80vh;
-    aspect-ratio: 1 / 1;
-    margin: auto;
+    width: 100vw;
+    height: calc(100vh - 120px);
+    margin-left: calc(-50vw + 50%);
   "
 ></div>
+
 
 
 <link
@@ -46,5 +46,10 @@ mapa.fitBounds(bounds, {
 
 mapa.setMaxBounds(bounds)
 mapa.options.maxBoundsViscosity = 1.0
+
+setTimeout(() => {
+  mapa.invalidateSize()
+}, 200)
+
 
 </script>
