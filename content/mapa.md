@@ -13,15 +13,25 @@ title: Mapa do Mundo
   }
 
   /* Container do mapa */
+  #mapa-wrapper {
+    width: 100%;
+    height: 80vh; /* ocupa 80% da viewport */
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: flex;
+    align-items: flex-start; /* alinha a imagem ao topo */
+  }
+
   #mapa-container {
     width: 100%;
-    height: 80vh; /* ocupa 80% da tela */
-    margin: 1rem 0;
-    overflow: hidden;
+    height: 100%;
   }
 </style>
 
-<div id="mapa-container"></div>
+<div id="mapa-wrapper">
+  <div id="mapa-container"></div>
+</div>
 
 <link
   rel="stylesheet"
@@ -35,11 +45,7 @@ title: Mapa do Mundo
   const altura = 4096;
   const IMAGE_URL = 'https://vonhohenheim728-arch.github.io/jujutsu-renkai/04_Fotos/mundo.png';
 
-  // Ajuste dos bounds para eliminar espaço em branco em cima
-  // Empurramos a imagem até o topo do container
-  const bounds = [[0, 0], [altura, largura]]; // formato original
-  const topOffset = 0; // ajuste em pixels se necessário (por exemplo 50 para empurrar a imagem 50px para cima)
-  const adjustedBounds = [[-topOffset, 0], [altura - topOffset, largura]];
+  const bounds = [[0,0],[altura, largura]];
 
   const mapa = L.map('mapa-container', {
     crs: L.CRS.Simple,
@@ -48,7 +54,22 @@ title: Mapa do Mundo
     zoomControl: true
   });
 
-  // Adiciona a imagem usando bounds ajustado
-  L.imageOverlay(IMAGE_URL, adjustedBounds).addTo(mapa);
+  L.imageOverlay(IMAGE_URL, bounds).addTo(mapa);
+  mapa.fitBounds(bounds);
+  mapa.setMaxBounds(bounds);
+  mapa.options.maxBoundsViscosity = 1.0;
 
-  // Faz o mapa se ajustar ao bounds
+  // Garante renderização correta
+  mapa.invalidateSize();
+  setTimeout(() => { mapa.invalidateSize(); }, 200);
+
+  // Ajusta altura ao redimensionar a janela
+  let resizeTimer = null;
+  window.addEventListener('resize', () => {
+    if (resizeTimer) clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(() => {
+      mapa.invalidateSize();
+      resizeTimer = null;
+    }, 120);
+  });
+</script>
