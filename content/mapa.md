@@ -13,7 +13,7 @@ title: Mapa do Mundo
 
   #mapa-container {
     width: 100%;
-    height: 80vh; /* container ocupa 80% da tela */
+    height: 80vh; /* altura do mapa */
     margin: 1rem 0;
   }
 </style>
@@ -32,36 +32,43 @@ title: Mapa do Mundo
   const altura = 4096;
   const IMAGE_URL = 'https://vonhohenheim728-arch.github.io/jujutsu-renkai/04_Fotos/mundo.png';
 
-  // Bounds reais da imagem
   const bounds = [[0,0],[altura, largura]];
 
   const mapa = L.map('mapa-container', {
     crs: L.CRS.Simple,
-    minZoom: -2,
+    minZoom: 0,
     maxZoom: 2,
-    zoomControl: true
+    zoomControl: true,
+    center: [altura/2, largura/2], // centraliza o mapa
+    zoom: 0
   });
 
   // Adiciona a imagem
   L.imageOverlay(IMAGE_URL, bounds).addTo(mapa);
 
-  // Ajusta mapa para caber nos bounds
+  // Ajusta o mapa para cobrir todo o container
   mapa.fitBounds(bounds);
 
-  // Define limites de pan para que o usuário não consiga mover mapa além da imagem
+  // Define limites de pan restritos ao container
   mapa.setMaxBounds(bounds);
   mapa.options.maxBoundsViscosity = 1.0;
 
-  // Força recalculo de tamanho para Leaflet
+  // Bloqueia movimentos que revelariam fundo
+  mapa.on('movestart', function() {
+    mapa.invalidateSize();
+  });
+
+  // Força recalculo de tamanho do mapa
   mapa.invalidateSize();
   setTimeout(() => mapa.invalidateSize(), 200);
 
-  // Recalcula tamanho ao redimensionar a janela
+  // Redimensiona corretamente ao mudar a janela
   let resizeTimer = null;
   window.addEventListener('resize', () => {
     if (resizeTimer) clearTimeout(resizeTimer);
     resizeTimer = setTimeout(() => {
       mapa.invalidateSize();
+      mapa.fitBounds(bounds); // garante cobertura total
       resizeTimer = null;
     }, 120);
   });
