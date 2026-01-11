@@ -5,28 +5,33 @@ title: Mapa do Mundo
 # Mapa do Mundo
 
 <style>
-  /* Remove separador e espaçamento do título */
+  /* Remove separador visual do título */
   h1 {
     border-bottom: none !important;
-    margin: 0 0 0.5rem 0;
-    padding: 0;
+    margin-bottom: 0.5rem;
+    padding-bottom: 0;
   }
 
-  /* Remove padding do container do Quartz APENAS nesta página */
-  main {
-    padding-top: 0 !important;
-    padding-bottom: 0 !important;
+  /* Wrapper que neutraliza o padding do Quartz */
+  .mapa-fullbleed {
+    position: relative;
+    left: 50%;
+    right: 50%;
+    width: 100vw;
+    margin-left: -50vw;
+    margin-right: -50vw;
   }
 
-  /* Container do mapa */
+  /* Container real do mapa */
   #mapa-container {
     width: 100%;
     height: 600px;
-    margin: 0;
   }
 </style>
 
-<div id="mapa-container"></div>
+<div class="mapa-fullbleed">
+  <div id="mapa-container"></div>
+</div>
 
 <link
   rel="stylesheet"
