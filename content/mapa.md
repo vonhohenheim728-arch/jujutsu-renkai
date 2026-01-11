@@ -5,37 +5,20 @@ title: Mapa do Mundo
 # Mapa do Mundo
 
 <style>
-  /* Remove separador visual do título */
   h1 {
     border-bottom: none !important;
     margin: 0 0 0.5rem 0;
     padding: 0;
   }
 
-  /* Wrapper do mapa com "moldura" uniforme */
-  #mapa-wrapper {
-    width: 100%;
-    height: 80vh;          /* altura total do mapa + moldura */
-    padding: 5%;           /* espaço uniforme em todos os lados */
-    margin: 1rem 0;
-    box-sizing: border-box;
-    display: flex;
-    justify-content: center; /* centraliza horizontalmente */
-    align-items: center;     /* centraliza verticalmente */
-    background-color: #fff;  /* cor da moldura */
-    border: 2px solid #ccc;  /* opcional: deixa uma borda sutil */
-  }
-
-  /* Container do Leaflet ocupando todo o wrapper */
   #mapa-container {
     width: 100%;
-    height: 100%;
+    height: 80vh; /* container ocupa 80% da tela */
+    margin: 1rem 0;
   }
 </style>
 
-<div id="mapa-wrapper">
-  <div id="mapa-container"></div>
-</div>
+<div id="mapa-container"></div>
 
 <link
   rel="stylesheet"
@@ -49,6 +32,7 @@ title: Mapa do Mundo
   const altura = 4096;
   const IMAGE_URL = 'https://vonhohenheim728-arch.github.io/jujutsu-renkai/04_Fotos/mundo.png';
 
+  // Bounds reais da imagem
   const bounds = [[0,0],[altura, largura]];
 
   const mapa = L.map('mapa-container', {
@@ -58,16 +42,21 @@ title: Mapa do Mundo
     zoomControl: true
   });
 
+  // Adiciona a imagem
   L.imageOverlay(IMAGE_URL, bounds).addTo(mapa);
+
+  // Ajusta mapa para caber nos bounds
   mapa.fitBounds(bounds);
+
+  // Define limites de pan para que o usuário não consiga mover mapa além da imagem
   mapa.setMaxBounds(bounds);
   mapa.options.maxBoundsViscosity = 1.0;
 
-  // Garante renderização correta
+  // Força recalculo de tamanho para Leaflet
   mapa.invalidateSize();
-  setTimeout(() => { mapa.invalidateSize(); }, 200);
+  setTimeout(() => mapa.invalidateSize(), 200);
 
-  // Ajuste ao redimensionar a janela
+  // Recalcula tamanho ao redimensionar a janela
   let resizeTimer = null;
   window.addEventListener('resize', () => {
     if (resizeTimer) clearTimeout(resizeTimer);
