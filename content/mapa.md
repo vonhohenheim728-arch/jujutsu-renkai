@@ -11,14 +11,28 @@ title: Mapa do Mundo
     padding: 0;
   }
 
+  /* Wrapper do mapa: cria moldura uniforme */
+  #mapa-wrapper {
+    width: 100%;
+    height: 80vh;           /* altura do mapa */
+    padding: 5%;            /* espaço uniforme em todos os lados */
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center; /* centraliza horizontalmente */
+    align-items: center;     /* centraliza verticalmente */
+    background-color: #f8f8f8; /* cor da moldura */
+  }
+
+  /* Container do mapa real */
   #mapa-container {
     width: 100%;
-    height: 80vh; /* altura do mapa */
-    margin: 1rem 0;
+    height: 100%;
   }
 </style>
 
-<div id="mapa-container"></div>
+<div id="mapa-wrapper">
+  <div id="mapa-container"></div>
+</div>
 
 <link
   rel="stylesheet"
@@ -36,39 +50,30 @@ title: Mapa do Mundo
 
   const mapa = L.map('mapa-container', {
     crs: L.CRS.Simple,
-    minZoom: 0,
+    minZoom: -2,
     maxZoom: 2,
-    zoomControl: true,
-    center: [altura/2, largura/2], // centraliza o mapa
-    zoom: 0
+    zoomControl: true
   });
 
   // Adiciona a imagem
   L.imageOverlay(IMAGE_URL, bounds).addTo(mapa);
 
-  // Ajusta o mapa para cobrir todo o container
+  // Ajusta mapa para caber nos bounds
   mapa.fitBounds(bounds);
-
-  // Define limites de pan restritos ao container
   mapa.setMaxBounds(bounds);
   mapa.options.maxBoundsViscosity = 1.0;
 
-  // Bloqueia movimentos que revelariam fundo
-  mapa.on('movestart', function() {
-    mapa.invalidateSize();
-  });
-
-  // Força recalculo de tamanho do mapa
+  // Garantia de renderização correta
   mapa.invalidateSize();
   setTimeout(() => mapa.invalidateSize(), 200);
 
-  // Redimensiona corretamente ao mudar a janela
+  // Ajuste ao redimensionar a janela
   let resizeTimer = null;
   window.addEventListener('resize', () => {
     if (resizeTimer) clearTimeout(resizeTimer);
     resizeTimer = setTimeout(() => {
       mapa.invalidateSize();
-      mapa.fitBounds(bounds); // garante cobertura total
+      mapa.fitBounds(bounds); // mantém cobertura total
       resizeTimer = null;
     }, 120);
   });
