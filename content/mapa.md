@@ -1,8 +1,14 @@
----
-title: Mapa do Mundo
----
-
 # Mapa do Mundo
+
+<style>
+  #mapa-container {
+    margin-top: 0;
+  }
+
+  h1 {
+    margin-bottom: 0.5rem;
+  }
+</style>
 
 <div
   id="mapa-container"
@@ -12,7 +18,6 @@ title: Mapa do Mundo
     margin: 0;
   "
 ></div>
-
 
 
 
