@@ -4,7 +4,16 @@ title: Mapa do Mundo
 
 # Mapa do Mundo
 
-<div id="mapa-container" style="width: 100%; height: 80vh;"></div>
+<div
+  id="mapa-container"
+  style="
+    width: 100%;
+    max-width: 80vh;
+    aspect-ratio: 1 / 1;
+    margin: auto;
+  "
+></div>
+
 
 <link
   rel="stylesheet"
