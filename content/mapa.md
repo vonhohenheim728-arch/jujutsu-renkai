@@ -14,8 +14,8 @@ title: Mapa do Mundo
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
 <script>
-  const largura = 3000
-  const altura = 2000
+  const largura = 4096
+  const altura = 4096
 
   const mapa = L.map('mapa-container', {
     crs: L.CRS.Simple,
@@ -32,4 +32,5 @@ L.imageOverlay(
 
 
   mapa.fitBounds(bounds)
+  mapa.setMaxBounds(bounds)
 </script>
