@@ -25,7 +25,11 @@ title: Mapa do Mundo
 
   const bounds = [[0, 0], [altura, largura]]
 
-  L.imageOverlay('../04_Fotos/mundo.png', bounds).addTo(mapa)
+L.imageOverlay(
+  'https://vonhohenheim728-arch.github.io/jujutsu-renkai/04_Fotos/mundo.png',
+  bounds
+).addTo(mapa)
+
 
   mapa.fitBounds(bounds)
 </script>
