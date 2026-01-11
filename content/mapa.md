@@ -4,34 +4,14 @@ title: Mapa do Mundo
 
 # Mapa do Mundo
 
-<style>
-  /* Remove separador visual do título */
-  h1 {
-    border-bottom: none !important;
-    margin-bottom: 0.5rem;
-    padding-bottom: 0;
-  }
-
-  /* Wrapper que neutraliza o padding do Quartz */
-  .mapa-fullbleed {
-    position: relative;
-    left: 50%;
-    right: 50%;
-    width: 100vw;
-    margin-left: -50vw;
-    margin-right: -50vw;
-  }
-
-  /* Container real do mapa */
-  #mapa-container {
+<div
+  id="mapa-container"
+  style="
     width: 100%;
     height: 600px;
-  }
-</style>
-
-<div class="mapa-fullbleed">
-  <div id="mapa-container"></div>
-</div>
+    margin: 1rem 0;
+  "
+></div>
 
 <link
   rel="stylesheet"
@@ -59,6 +39,4 @@ title: Mapa do Mundo
   ).addTo(mapa)
 
   mapa.fitBounds(bounds)
-  mapa.setMaxBounds(bounds)
-  mapa.options.maxBoundsViscosity = 1.0
 </script>
