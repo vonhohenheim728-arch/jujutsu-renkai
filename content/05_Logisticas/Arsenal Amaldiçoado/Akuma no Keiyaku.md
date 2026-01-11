@@ -10,7 +10,7 @@
 > | **Status:** | Ativa |
 > |**Dono Atual:**|[[Escola de Tókyō]]|
 
-
+### **Akuma no Keiyaku (悪魔の契約)**
 
 **Akuma no Keiyaku (悪魔の契約)** — "Contrato do Demônio" — é ferramenta amaldiçoada de grau especial na forma de pergaminho ancestral montado em cilindros de metal negro. Escrituras amaldiçoadas brilham em vermelho sobre superfície. Técnica de selamento envolve artefato.
 

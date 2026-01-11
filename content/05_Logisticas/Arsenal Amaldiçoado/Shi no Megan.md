@@ -1,6 +1,6 @@
 > [!infobox]+
 > 
-> # Shi no Megan
+> # Shi no Megan (死の眼眼)
 > 
 > ![[Shi no Megan.png|cover|325]]
 > 
@@ -15,6 +15,8 @@
 > |**Status:**|Ativo (Não Utilizado)|
 > |**Dono Atual:**|[[Clã Kamo (加茂家, Kamo Ke)]]|
 > |**Usuário Original:**|Noritoshi Kamo|
+
+### **Shi no Megan (死の眼眼)**
 
 **Shi no Megan** (死の眼眼, "Óculos da Morte") é ferramenta amaldiçoada de grau especial. Acessório pertencente originalmente a **Noritoshi Kamo** — feiticeiro infame da Era Meiji conhecido como "a mancha mais vergonhosa na história do jujutsu".
 

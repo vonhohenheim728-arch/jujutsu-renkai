@@ -15,6 +15,8 @@
 > |**Status:**|Perdida|
 > |**Último Dono:**|[[Clã Kuniyoshi (国芳家, Kuniyoshi Ke)]]|
 
+### **Shokeisha (処刑者)**
+
 **Shokeisha** (処刑者, "Executor") é ferramenta amaldiçoada de grau especial. Machado projetado especificamente para exorcismo de maldições.
 
 **Status atual:** Ferramenta pertencia ao [[Clã Kuniyoshi (国芳家, Kuniyoshi Ke)|Clã Kuniyoshi]]. Foi perdida quando clã caiu. Localização exata é desconhecida (Dia 60 pós-[[O Colapso de Tókyō|Colapso]]).

@@ -1,6 +1,6 @@
 > [!infobox]+
 > 
-> # Seirei no Yoroi
+> # Seirei no Yoroi  (星霊の鎧)
 > 
 > ![[Seirei no Yoroi.png|cover|325]]
 > 
@@ -14,6 +14,8 @@
 > |**Origem:**|Período Edo|
 > |**Status:**|**Perdida**|
 > |**Usuário Original:**|Desconhecido|
+
+### **Seirei no Yoroi  (星霊の鎧)**
 
 **Seirei no Yoroi** (星霊の鎧, "Armadura Espírito Estelar") é ferramenta amaldiçoada de grau especial. Armadura completa ornamentada que **se adapta automaticamente ao usuário** e **amplifica poder**.
 

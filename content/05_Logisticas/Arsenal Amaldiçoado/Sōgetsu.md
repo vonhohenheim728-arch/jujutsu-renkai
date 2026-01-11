@@ -1,6 +1,6 @@
 > [!infobox]+
 > 
-> # Sōgetsu
+> # Sōgetsu (双月)
 > 
 > ![[Sōgetsu.png|cover|325]]
 > 
@@ -14,6 +14,8 @@
 > |**Origem:**|Desconhecida|
 > |**Status:**|**Perdida**|
 > |**Primeiro Usuário:**|[[Satow Toki]]|
+
+### **Sōgetsu (双月)**
 
 **Sōgetsu** (双月, "Luas Gêmeas") é ferramenta amaldiçoada de grau especial. Foice de lâmina dupla pertencente a [[Satow Toki]], uma dos seis feiticeiros de grau especial.
 

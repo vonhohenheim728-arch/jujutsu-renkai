@@ -15,6 +15,8 @@
 > |**Status:**|Ativa|
 > |**Dono Atual:**|[[Clã Gojo (五条家, Gojō Ke)]]|
 
+### **Teppeki Jin (鉄壁陣)**
+
 **Teppeki Jin** (鉄壁陣, "Formação de Muralha de Ferro") é ferramenta amaldiçoada de grau especial. Escudo torre nascido de cerco prolongado durante Período Heian.
 
 **Status atual:** Pertence ao [[Clã Gojo (五条家, Gojō Ke)|Clã Gojo]]. Localização exata e condições de uso não são amplamente divulgadas (Dia 60 pós-[[O Colapso de Tókyō|Colapso]]).

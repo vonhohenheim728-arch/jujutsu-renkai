@@ -14,7 +14,7 @@
 > | **Status:** | Ativa |
 > |**Dono Atual:**|[[Escola de Tókyō]]|
 
-### **紅拳 (Beniken)**
+### **Beniken ( 紅拳)**
 
 **"Punhos Carmesins"**
 

@@ -1,6 +1,6 @@
 > [!infobox]+
 > 
-> # Tennō no Hōseki
+> # Tennō no Hōseki (天皇の宝石)
 > 
 > ![[Tennō no Hōseki.png|cover|325]]
 > 
@@ -14,6 +14,8 @@
 > |**Origem:**|Época conhecida|
 > |**Status:**|**Perdido**|
 > |**Último Dono:**|[[Clã Kamo (加茂家, Kamo Ke)]]|
+
+### **Tennō no Hōseki (天皇の宝石)**
 
 **Tennō no Hōseki** (天皇の宝石, "Joia do Imperador") é ferramenta amaldiçoada de grau especial. Pingente ornamentado que funciona como **repositório massivo de energia amaldiçoada**.
 

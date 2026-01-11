@@ -15,6 +15,8 @@
 > |**Status:**|**Perdida em Tóquio**|
 > |**Último Usuário:**|[[Nagai Murai]]|
 
+### **Kurai Kiri** (喰らい斬り)
+
 **Kurai Kiri** (喰らい斬り, "Corte Devorador") é ferramenta amaldiçoada de grau especial. Espada colossal de metal enegrecido com características orgânicas.
 
 **Status atual:** Perdida em Tóquio desde [[Guerra dos 6]]. Última vez vista com [[Nagai Murai]] durante batalha. Localização exata desconhecida — recuperação considerada impossível devido a infestação de maldições na cidade destruída (Dia 60 pós-[[O Colapso de Tókyō|Colapso]]).

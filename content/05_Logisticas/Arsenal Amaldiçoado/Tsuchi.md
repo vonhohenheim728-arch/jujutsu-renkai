@@ -1,6 +1,6 @@
 > [!infobox]+
 > 
-> # Tsuchi
+> # Tsuchi (土)
 > 
 > ![[Tsuchi.png|cover|325]]
 > 
@@ -14,6 +14,8 @@
 > |**Origem:**|Período Meiji|
 > |**Dono Atual:**|[[Clã Zenin (禪院家, Zen'in Ke)]]|
 > |**Par:**|[[Sora]]|
+
+### **Tsuchi (土)**
 
 **Tsuchi** (土, "Terra") é ferramenta amaldiçoada de grau especial. Revólver ornamentado que forma par com [[Sora]].
 

@@ -1,6 +1,6 @@
 > [!infobox]+
 > 
-> # Sora
+> # Sora (空)
 > 
 > ![[Sora.png|cover|325]]
 > 
@@ -14,6 +14,8 @@
 > |**Origem:**|Período Meiji|
 > |**Dono Atual:**|[[Clã Gojo (五条家, Gojō Ke)]]|
 > |**Par:**|[[Tsuchi]]|
+
+### **Sora (空)**
 
 **Sora** (空, "Céu") é ferramenta amaldiçoada de grau especial. Revólver ornamentado que forma par com [[Tsuchi]].
 

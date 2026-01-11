@@ -1,6 +1,6 @@
 > [!infobox]+
 > 
-> # Yoru no Ikazuchi
+> # Yoru no Ikazuchi (夜の雷)
 > 
 > ![[Yoru no Ikazuchi.png|cover|325]]
 > 
@@ -14,6 +14,8 @@
 > |**Origem:**|Desconhecida|
 > |**Status:**|**Perdidas**|
 > |**Dono Atual:**| Desconhecido |
+
+### **Yoru no Ikazuchi (夜の雷)**
 
 **Yoru no Ikazuchi** (夜の雷, "Trovão da Noite") é par de ferramentas amaldiçoadas de grau especial. Par **inseparável** de espadas — uma espada curta e uma katana — nomeadas em homenagem aos trovões que iluminam a noite.
 

@@ -1,6 +1,6 @@
 > [!infobox]+
 > 
-> # Tōzai no Sōjū
+> # Tōzai no Sōjū (東西の操縦)
 > 
 > ![[Tōzai no Sōjū.png|cover|325]]
 > 
@@ -14,6 +14,8 @@
 > |**Origem:**|Desconhecida|
 > |**Status:**|Lenda Urbana|
 > |**Dono Atual:**|Desconhecido|
+
+### **Tōzai no Sōjū (東西の操縦)**
 
 **Tōzai no Sōjū** (東西の操縦, "O Controle do Leste e Oeste") é considerada por muitos no mundo jujutsu como um mito — uma "creepypasta de feiticeiros". Dizem ser par de Uzis amaldiçoadas que carregam ironia cruel e sangrenta sobre história do Hip-Hop americano.
 
