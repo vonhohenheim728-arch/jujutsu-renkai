@@ -7,7 +7,7 @@
 > | **Tipo** | Player |
 > | **Categoria** | Feiticeiro |
 > | **Grau** | 4º Grau |
-> | **Status** | Vivo |
+> | **Status** | Morto |
 > | **Grupo** | [[Escola de Tókyō]] |
 
 ### **Resumo**
@@ -61,6 +61,36 @@ Ele não se encaixa perfeitamente. Fala diferente. Age diferente. Alguns feitice
 Mas [[Kaiba Yoshifusa|Kaiba]] acredita nele.
 
 E Aji não vai deixar mais ninguém morrer se puder impedir.
+
+### **A Queda**
+
+Na primeira missão sem supervisão direta de [[Kaiba Yoshifusa]], Aji integrou um grupo enviado para conter duas maldições simultâneas. Durante o confronto, uma técnica de [[Okane Zenin]] errou o alvo e atingiu Aji diretamente, causando ferimentos internos fatais. Com uma segunda maldição em processo de mutação e sem tempo para retirada segura, o grupo foi forçado a recuar. Apesar da tentativa de cura, o dano era irreversível. Aji morreu no local, abandonado durante a retirada de emergência, e seu corpo nunca foi recuperado. Foi a primeira baixa confirmada da equipe fora da proteção da Escola.
+
+Aji ficou deitado no chão, sozinho, ouvindo os passos dos companheiros se afastando.
+
+Não os culpava.
+
+Eles fizeram a escolha certa.
+
+A maldição se aproximou, sombra enorme bloqueando a luz. Aji tentou levantar a mão — talvez uma barreira, uma última defesa, qualquer coisa.
+
+Mas não tinha energia.
+
+Não tinha mais nada.
+
+Pensou na mãe. Na gangue. Em Kaiba dizendo que ele poderia salvar pessoas.
+
+Talvez pudesse.
+
+Só não hoje.
+
+Só não a si mesmo.
+
+A escuridão veio rápida. Violenta.
+
+Nada gentil.
+
+E Aji Nomoto morreu no chão abandonado em Tóquio
 
 <iframe style="border-radius:12px"
 src="https://open.spotify.com/embed/track/0SqExyvgUPTawKsVM2SZoP"
